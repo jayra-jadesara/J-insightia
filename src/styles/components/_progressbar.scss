@@ -1,0 +1,44 @@
+.cr-progressbar {
+  & .progress {
+    height: 4.5rem;
+    padding: 5px;
+    background-color: #fff;
+
+    & .loading-text {
+      color: $primary;
+      font-size: $standard;
+      font-weight: 500;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    & .progress-bar {
+      height: 35px;
+      background: $background-Title;
+      border: 1px solid;
+      border-radius: 4px;
+      // animation: change 2s linear infinite;
+      animation: shimmer 7s infinite;
+      // background: linear-gradient(to right, #eff1f3 4%, #e2e2e2 25%, #eff1f3 36%);
+      background-size: 1000px 100%;
+    }
+  }
+
+  .progress-error {
+    height: 8rem;
+    font-size: 4rem;
+    p {
+      margin-top: -20px;
+
+    }
+  }
+  @keyframes shimmer {
+    0% {
+      background-position: -500px 0;
+    }
+    100% {
+      background-position: 1000px 0;
+    }
+  }
+}

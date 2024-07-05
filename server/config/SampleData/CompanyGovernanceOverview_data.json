@@ -1,0 +1,196 @@
+{
+  "getGovOverview_meetingInfo_Quickview_StockData": {
+    "data_QuickView": {
+      "IR_website": "investor.apple.com",
+      "Company_HQ": "US",
+      "Sector": "Technology",
+      "Industry": "Computer Systems",
+      "Auditor": "Ernst & Young LLP (12 years)",
+      "Auditor_years": "12",
+      "primary_exchange": "NASDAQ (AAPL)",
+      "secondary_exchange": "N/A",
+      "Index": "S&P500, NASDAQ100, Dow30, Russell 3000",
+      "CEO_name": "Timothy Cook (10 years)",
+      "CEO_years": 10,
+      "marketcap": "N/A",
+      "state_of_incorp": "California",
+      "IPO": "1980",
+      "Chairman_name": "Arthur Levinson (10 years)",
+      "Chairman_years": 10,
+      "exchange_id_pri": 10,
+      "exchange_id_sec": "N/A"
+    },
+    "data_MeetingInfo": {
+      "upcoming_annual_meeting": [
+        {
+          "label": "TBD",
+          "element": "label"
+        }
+      ],
+      "previous_annual_meeting": [
+        {
+          "label": "13-Feb-2018",
+          "element": "hyperlink",
+          "link": "http://www.sec.gov/Archives/edgar/data/320193/000119312517380130/0001193125-17-380130-index.htm"
+        }
+      ],
+      "upcoming_special_meeting": [
+        {
+          "label": "None",
+          "element": "label"
+        }
+      ],
+      "previous_special_meeting": [
+        {
+          "label": "23-Dec-2020",
+          "element": "hyperlink",
+          "link": "http://www.sec.gov/Archives/edgar/data/320193/0001193125-13-005529-index.htm"
+        }
+      ],
+      "board_meetings_last_year": 17,
+      "shareholder_prop_deadline": "29-Aug-2018 (for inclusion in Proxy Statement)",
+      "nomination_deadline": "15-Nov-2018 (not for inclusion in Proxy Statement)",
+      "company_name": "Apple Inc.",
+      "virtual_meeting_prev": "",
+      "virtual_meeting": 0
+    },
+    "data_Stock": [
+      {
+        "share_class": "Common Stock",
+        "active": "Yes",
+        "Listed": "Yes",
+        "Exchange": "NASDAQ",
+        "ticker": "AAPL",
+        "votes_per_share": 1,
+        "shares_outstanding": "17,102,536,000",
+        "Sunset_Provision": "No",
+        "Sunset_Expiry": ""
+      }
+    ],
+    "data_Chart": {
+      "score": 17,
+      "max_score": 20,
+      "board_structure": "9/10",
+      "governance": "8/10",
+      "ranking": "Good",
+      "Colour": "#a9d08e"
+    },
+    "data_ChartInfo": "Score: 17 (Good)\n-Board Structure: 9/10\n-Governance: 8/10"
+  },
+  "getComparisionTables": {
+    "dataBoardandDirectors": [
+      {
+        "Metric": "Separate CEO and Chairman",
+        "Detail": "Yes",
+        "flagColor": "Green",
+        "Descriptions": "CEO : Mr Timothy Cook Chairman : Mr Arthur Levinson",
+        "Source_text": "Current status",
+        "Comparison": "S&P500 with status - 58.7%"
+      },
+      {
+        "Metric": "Independent Chairman",
+        "Detail": "Yes",
+        "flagColor": "Green",
+        "Descriptions": "",
+        "Source_text": "Current status",
+        "Comparison": "S&P500 with status - 35.3%"
+      },
+      {
+        "Metric": "Females on board",
+        "Detail": "Yes (28.6%)  (2)",
+        "flagColor": "Green",
+        "Descriptions": "Ms Andrea Jung, Ms Susan Wagner",
+        "Source_text": "Current status",
+        "Comparison": "S&P500 Average - 28.4%"
+      },
+      {
+        "Metric": "Average Tenure",
+        "Detail": "12 Years",
+        "flagColor": "Red",
+        "Descriptions": "Longest Tenure : Mr Arthur Levinson (21)",
+        "Source_text": "Current status",
+        "Comparison": "S&P500 Average - 8.9 Years"
+      },
+      {
+        "Metric": "Independent Directors",
+        "Detail": "85.7%",
+        "flagColor": "Green",
+        "Descriptions": "",
+        "Source_text": "Current status",
+        "Comparison": "S&P500 Average - 86.1%"
+      },
+      {
+        "Metric": "Average Age",
+        "Detail": "68 Years Old",
+        "flagColor": "Red",
+        "Descriptions": "Oldest Director : Mr James Bell (73), Mr Al Gore (73), Mr Ronald Sugar (73)",
+        "Source_text": "Current status",
+        "Comparison": "S&P500 Average - 63.6 years old"
+      },
+      {
+        "Metric": "Chairman Tenure",
+        "Detail": "10 Years",
+        "flagColor": "Red",
+        "Descriptions": "Mr Arthur Levinson",
+        "Source_text": "Current status",
+        "Comparison": "S&P500 Average - 9.0 years"
+      },
+      {
+        "Metric": "CEO Tenure",
+        "Detail": "10 Years",
+        "flagColor": "Red",
+        "Descriptions": "Mr Timothy Cook",
+        "Source_text": "Current status",
+        "Comparison": "S&P500 Average - 7.0 years"
+      },
+      {
+        "Metric": "Overboarded Directors (>5 boards)",
+        "Detail": "No (0 directors)",
+        "flagColor": "Green",
+        "Descriptions": "",
+        "Source_text": "Current status",
+        "Comparison": "S&P500 with status - 7.2%"
+      }
+    ],
+    "dataShareholder": [
+      {
+        "Metric": "Majority Vote for Uncontested Election",
+        "YesOrNo": "Yes",
+        "flagColor": "Green",
+        "Descriptions": "With respect to the election of directors (Proposal No. 1), Apple’s bylaws provide that, in an uncontested election of directors, the affirmative vote of (i) a majority of the shares present or represented by proxy and voting at the Annual Meeting and (ii) a majority of the shares required to constitute a quorum is required to elect a director.",
+        "source": "Proxy Statement",
+        "url": "",
+        "russel3000%": "Russell 3000 - 48.7%",
+        "sp500%": "S&P500 - 90.6%",
+        "gov_metric_id": 14,
+        "proposal_information": "23 Feb 2012 : Require a Majority Vote for the Election of Directors\n23 Feb 2011 : Shareholder Proposal Regarding MajorityVoting, If Properly Presented At The Meeting.\n"
+      },
+      {
+        "Metric": "Right for Shareholders to call special meeting",
+        "YesOrNo": "No",
+        "flagColor": "Red",
+        "Descriptions": "Description 4",
+        "source": "Other",
+        "url": "https://www.yahoo.com",
+        "russel3000%": "Russell 3000 - 48.6%",
+        "sp500%": "S&P500 - 66.3%",
+        "gov_metric_id": 13,
+        "proposal_information": ""
+      }
+    ],
+    "dataOwnership": [
+      {
+        "Metric": "Controlled Company",
+        "YesOrNo": "No",
+        "flagColor": "Green",
+        "Descriptions": "",
+        "source": "Col",
+        "url": "",
+        "russel3000%": "Russell 3000 - 10.6%",
+        "sp500%": "S&P500 - 4.4%",
+        "gov_metric_id": 37,
+        "proposal_information": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+.cr-myAlert {
+  & .btnStories {
+    background-color: $mainnavbar;
+    color: $primary;
+
+    &.btnActive {
+      background: $topNavBarPrimary;
+      color: #ffff;
+    }
+  }
+}

@@ -1,0 +1,34 @@
+.cr-popup-trial-user {
+  width: 52%;
+  position: fixed;
+  left: 10%;
+  background-color: white;
+  right: 0;
+  top: 35%;
+  padding: 80px 20px 80px 20px;
+  border-radius: 48px;
+  margin: 0 auto;
+  border: 1px solid black;
+  z-index: 9999;
+
+  &__test {
+    font-weight: 600;
+  }
+  &__close {
+    position: absolute;
+    top: 18px;
+    right: 22px;
+    cursor: pointer;
+  }
+}
+
+.blurrytext {
+  -webkit-filter: blur(6px);
+  -moz-filter: blur(6px);
+  -o-filter: blur(6px);
+  -ms-filter: blur(6px);
+  filter: blur(6px);
+  // filter: url("/images/blursvg/blur.svg#blur");
+  filter: url("data:image/svg+xml;utf9,<svg%20version='1.1'%20xmlns='http://www.w3.org/2000/svg'><filter%20id='blur'><feGaussianBlur%20stdDeviation='6'%20/></filter></svg>#blur");
+  filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius='6',shadowopacity='0.0');
+}

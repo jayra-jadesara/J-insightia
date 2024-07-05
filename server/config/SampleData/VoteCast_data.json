@@ -1,0 +1,7 @@
+[
+  { "label": "For", "value": "1", "mlabel": "'For'" },
+  { "label": "Against", "value": "2", "mlabel": "'Against'" },
+  { "label": "Withold", "value": "3", "mlabel": "'Withold'" },
+  { "label": "Abstain", "value": "4", "mlabel": "'Abstain'" },
+  { "label": "DNV", "value": "5", "mlabel": "'DNV'" }
+]

@@ -1,0 +1,289 @@
+.cr-agGrid {
+  & .ag-floating-filter-button-button :hover {
+    color: #2196f3 !important;
+  }
+
+  & .ag-gridOddRow {
+    background-color: #fff !important;
+  }
+  & .ag-gridEvenRow {
+    background-color: $aggridrowgrey !important;
+  }
+
+  //Chris: ag-row-odd/even works as opposed to above, should legacy format is untouched as it may be used in a location i dont know
+  & .ag-row-odd {
+    background-color: #fff !important;
+  }
+  & .ag-row-even {
+    background-color: $aggridrowgrey !important;
+  }
+  .bg-green-highlight {
+    background-color: #dbf9dd !important;
+  }
+  & .ag-grid-BorderTop-None {
+    border-top-style: none !important;
+  }
+  & .ag-row > .ws-normal-lh30 {
+    white-space: normal;
+    line-height: 1.5;
+    font-size: $standard;
+    justify-content: center;
+  }
+  & .ag-row > .ws-normal-lh24 {
+    white-space: normal;
+    line-height: 2; //1.3;
+    font-size: $standard;
+    justify-content: center;
+  }
+
+  & .ag-gridVertically {
+    .ag-header-group-cell .ag-header-group-cell-with-group {
+      height: 100%;
+    }
+
+    .ag-header-group-cell-label {
+      height: 100%;
+      padding: 0;
+    }
+
+    .ag-header-group-cell-label .ag-header-group-text {
+      // writing-mode: vertical-lr;
+      // -ms-writing-mode: tb-lr;
+      transform: rotate(270deg);
+      text-align: left;
+      margin-left: -145px;
+      margin-top: 10px;
+      width: 320px;
+      white-space: break-spaces;
+      max-height: 40px;
+      vertical-align: Top;
+    }
+  }
+
+  & .ag-header-row {
+    height: 20px;
+    .ag-header-group-cell {
+      padding-left: 10px;
+      padding-right: 18px;
+    }
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  & .ag-header-group-cell > .ag-header-group-cell-label {
+    display: grid;
+  }
+
+  & .ag-header-row.ag-header-row-column-group {
+    color: $navyfonttext !important ;
+    background-color: #ffff;
+  }
+
+  & .ag-header-row.ag-header-row-column,
+  .ag-header-viewport {
+    color: $navyfonttext !important ;
+    background-color: #ffff;
+    border-bottom: 2px solid $primary;
+  }
+
+  & .ag-theme-alpine .ag-header-cell-menu-button:hover {
+    color: $primary-text;
+  }
+  & .ag-header-active {
+    color: #c5e2fb;
+  }
+
+  & .ag-cell-blurrytext {
+    // filter: url(/utils/blur.svg#blur);
+    // filter: url("data:image/svg+xml;utf9,<svg%20version='1.1'%20xmlns='http://www.w3.org/2000/svg'><filter%20id='blur'><feGaussianBlur%20stdDeviation='6'%20/></filter></svg>#blur");
+    filter: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg"><filter id="filter"><feGaussianBlur stdDeviation="6" /></filter></svg>#filter');
+    -ms-filter: 'progid:DXImageTransform.Microsoft.Blur(pixelradius=6)';
+    -webkit-filter: blur(6px);
+    -moz-filter: blur(6px);
+    -o-filter: blur(6px);
+    // -ms-filter: blur(6px);
+    filter: blur(6px);
+    filter: "progid:DXImageTransform.Microsoft.Blur(PixelRadius='6',enabled='true')";
+  }
+
+  & .ag-cell-label-container {
+    height: 100%;
+  }
+
+  & .ag-header-cell-label {
+    // height: 100%;
+    padding: 0 !important;
+  }
+  //wrap grid headers to column length
+  & .ag-header-cell-label .ag-header-cell-text {
+    white-space: normal !important;
+    font-size: $standard !important;
+    font-weight: 500;
+    // word-wrap: break-word;
+  }
+  // //removes detail table verticle scroll bar
+  // & .ag-details-grid .ag-center-cols-viewport {
+  //   overflow-x: hidden;
+  // }
+  // & .ag-center-cols-viewport {
+  //   overflow-x: hidden;
+  // }
+  & .ag-details-grid {
+    width: 40%;
+    min-width: 350px;
+    max-width: 450px;
+  }
+  /* Blue text in cells
+  & .ag-cell {
+    color: #193d75;
+  }
+  */
+  & .ag-cell-wrap-text {
+    white-space: normal !important;
+    word-break: normal !important;
+  }
+
+  & img {
+    min-height: 15px;
+    max-height: 25px;
+  }
+
+  & img,
+  .info {
+    height: 12px;
+    padding-left: 4px;
+  }
+
+  & .ag-root {
+    overflow: unset !important;
+  }
+
+  .ag-root-wrapper {
+    overflow: unset !important;
+  }
+
+  & .ag-details-grid {
+    width: 100% !important;
+    min-width: 100% !important;
+    max-width: 100% !important;
+  }
+  & .ag-grid-expand-collapse-btn {
+    height: fit-content;
+    margin: 3px 8px 3px 0px;
+  }
+  & .text-overflow-ellipsis {
+    text-overflow: ellipsis;
+  }
+  & .overflow-hidden {
+    overflow: hidden;
+  }
+  & .ag-cell-wrapper {
+    // display: block;
+  }
+  & .ag-cell-verticalHeader {
+    display: grid;
+    overflow: hidden;
+    align-items: center;
+    text-overflow: ellipsis;
+    line-height: 20px !important;
+    flex-flow: wrap;
+    //
+    align-self: stretch;
+    flex: 1 1 auto;
+    text-align: center;
+    padding-right: 10px !important;
+    padding-left: 10px !important;
+  }
+  & .writing-mode-vertical-lr {
+    writing-mode: vertical-lr;
+  }
+  & .font-size-xx-small {
+    font-size: xx-small !important;
+  }
+  & .font-size-smaller {
+    font-size: smaller !important;
+  }
+  & .font-size-small {
+    font-size: small !important;
+  }
+}
+
+.ag-theme-alpine.ag-popup {
+  & .ag-tabs.ag-menu.ag-focus-managed.ag-ltr.ag-popup-child {
+    width: 250px;
+    resize: horizontal;
+    overflow: auto;
+  }
+}
+
+.ag-theme-alpine .ag-layout-auto-height .ag-center-cols-clipper,
+.ag-theme-alpine .ag-layout-auto-height .ag-center-cols-container,
+.ag-theme-alpine .ag-layout-print .ag-center-cols-clipper,
+.ag-theme-alpine .ag-layout-print .ag-center-cols-container {
+  min-height: auto !important; // for auto height of table
+}
+
+// .ag-hidden {
+//   display: none !important;
+// }
+
+.ag-theme-alpine
+  .ag-cell-wrapper
+  > *:not(.ag-cell-value):not(.ag-group-value):not(.ag-hidden) {
+  display: unset !important; // for the investor comparator tools
+}
+
+.ag-theme-alpine .ag-cell {
+  color: $navyfonttext;
+  font-size: $standard;
+  line-height: 1.5;
+}
+
+.ag-row {
+  & .rowSpanned {
+    background: white;
+    border-right: 1px solid lightgrey !important;
+    border-top: 1px solid lightgrey !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+  }
+}
+
+.cell-line-wrap-text {
+  white-space: normal !important;
+  line-height: inherit !important;
+  padding-left: 5px !important;
+}
+
+.VotingQuickContainer .ag-theme-alpine .ag-header-cell-resize::after {
+  height: 59% !important;
+}
+
+.btnShowHide {
+  width: 170px;
+  padding: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.ag-header-group-text {
+  font-size: $standard !important;
+  font-weight: 500;
+}
+
+.ag-theme-alpine .ag-cell .ag-header-cell-label {
+  font-size: $standard !important;
+}
+
+.ag-header-row {
+  height: 20px;
+}
+.ag-header .sticky {
+  position: fixed !important;
+  top: 0 !important;
+  z-index: 99 !important;
+}

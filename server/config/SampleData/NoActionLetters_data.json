@@ -1,0 +1,454 @@
+{
+  "chartProposalsBy": [
+    {
+      "date_act_Year": 2018,
+      "total_number": 95,
+      "accepted": 1,
+      "rejected": 94,
+      "withdrawn": 0
+    },
+    {
+      "date_act_Year": 2019,
+      "total_number": 150,
+      "accepted": 0,
+      "rejected": 150,
+      "withdrawn": 0
+    },
+    {
+      "date_act_Year": 2020,
+      "total_number": 108,
+      "accepted": 0,
+      "rejected": 108,
+      "withdrawn": 0
+    }
+  ],
+  "chartProposalsThatWentToAVote": [
+    {
+      "meeting_date": 2018,
+      "total_number_graph": 12920,
+      "avg_for_pcent_graph": 30.68400630460333,
+      "GL_for_pcent_graph": 38.2352,
+      "ISS_for_pcent_graph": 58.7786
+    },
+    {
+      "meeting_date": 2019,
+      "total_number_graph": 105150,
+      "avg_for_pcent_graph": 40.4380885677795,
+      "GL_for_pcent_graph": 38.2695,
+      "ISS_for_pcent_graph": 63.1666
+    },
+    {
+      "meeting_date": 2020,
+      "total_number_graph": 93960,
+      "avg_for_pcent_graph": 40.26708810416739,
+      "GL_for_pcent_graph": 81.1494,
+      "ISS_for_pcent_graph": 92.3699
+    }
+  ],
+  "tableSupportfromTop20Investors": [
+    {
+      "investor_id": 72,
+      "investor_name": "BlackRock",
+      "investor_for": 51,
+      "investor_total": 469,
+      "investor_support": 9.8076
+    },
+    {
+      "investor_id": 486,
+      "investor_name": "Vanguard Group, Inc.",
+      "investor_for": 50,
+      "investor_total": 460,
+      "investor_support": 9.8039
+    },
+    {
+      "investor_id": 452,
+      "investor_name": "SSgA Funds Management, Inc. (State Street)",
+      "investor_for": 111,
+      "investor_total": 400,
+      "investor_support": 21.7221
+    },
+    {
+      "investor_id": 187,
+      "investor_name": "Fidelity Management & Research Co. (FMR)",
+      "investor_for": 64,
+      "investor_total": 408,
+      "investor_support": 13.5593
+    },
+    {
+      "investor_id": 278,
+      "investor_name": "JPMorgan Investment Management, Inc.",
+      "investor_for": 64,
+      "investor_total": 438,
+      "investor_support": 12.749
+    },
+    {
+      "investor_id": 595,
+      "investor_name": "Amundi Asset Management",
+      "investor_for": 95,
+      "investor_total": 51,
+      "investor_support": 65.0684
+    },
+    {
+      "investor_id": 375,
+      "investor_name": "Pacific Investment Management Co. (PIMCO)",
+      "investor_for": 80,
+      "investor_total": 58,
+      "investor_support": 57.971
+    },
+    {
+      "investor_id": 1930,
+      "investor_name": "Capital Group",
+      "investor_for": 50,
+      "investor_total": 363,
+      "investor_support": 12.1065
+    },
+    {
+      "investor_id": 222,
+      "investor_name": "Goldman Sachs Asset Management LP",
+      "investor_for": 176,
+      "investor_total": 335,
+      "investor_support": 34.4422
+    },
+    {
+      "investor_id": 681,
+      "investor_name": "Wellington Management Company",
+      "investor_for": 115,
+      "investor_total": 336,
+      "investor_support": 25.4988
+    },
+    {
+      "investor_id": 580,
+      "investor_name": "Legal & General Investment Management",
+      "investor_for": 305,
+      "investor_total": 142,
+      "investor_support": 68.2326
+    },
+    {
+      "investor_id": 654,
+      "investor_name": "Norges Bank Investment Management",
+      "investor_for": 198,
+      "investor_total": 226,
+      "investor_support": 46.6981
+    },
+    {
+      "investor_id": 467,
+      "investor_name": "T. Rowe Price Associates, Inc.",
+      "investor_for": 71,
+      "investor_total": 425,
+      "investor_support": 14.3145
+    },
+    {
+      "investor_id": 405,
+      "investor_name": "Prudential Global Investment Management",
+      "investor_for": null,
+      "investor_total": 49,
+      "investor_support": null
+    },
+    {
+      "investor_id": 361,
+      "investor_name": "Northern Trust Investments",
+      "investor_for": 155,
+      "investor_total": 355,
+      "investor_support": 30.3921
+    },
+    {
+      "investor_id": 346,
+      "investor_name": "Natixis Global Asset Management",
+      "investor_for": 148,
+      "investor_total": 154,
+      "investor_support": 49.0066
+    },
+    {
+      "investor_id": 509,
+      "investor_name": "UBS Asset Management",
+      "investor_for": 286,
+      "investor_total": 199,
+      "investor_support": 58.969
+    },
+    {
+      "investor_id": 600,
+      "investor_name": "AXA Investment Managers",
+      "investor_for": 252,
+      "investor_total": 118,
+      "investor_support": 68.1081
+    },
+    {
+      "investor_id": 317,
+      "investor_name": "Massachusetts Mutual Life Insurance Co.",
+      "investor_for": null,
+      "investor_total": 43,
+      "investor_support": null
+    },
+    {
+      "investor_id": 3369,
+      "investor_name": "DWS Investment GmbH",
+      "investor_for": 194,
+      "investor_total": 56,
+      "investor_support": 77.6
+    }
+  ],
+  "tableAverage": {
+    "data": [
+      {
+        "2015": "51.0%",
+        "2016": "46.1%",
+        "2017": "25.7%",
+        "2018": "36.2%",
+        "2019": "28.2%",
+        "2020": "30.2%",
+        "name": "Proxy Access"
+      },
+      {
+        "2015": "38.7%",
+        "2016": "",
+        "2017": "45.5%",
+        "2018": "37.9%",
+        "2019": "38.2%",
+        "2020": "40.1%",
+        "name": "Special Meeting"
+      },
+      {
+        "2015": "40.8%",
+        "2016": "",
+        "2017": "",
+        "2018": "38.7%",
+        "2019": "30.1%",
+        "2020": "15.2%",
+        "name": "Written Consent"
+      },
+      {
+        "2015": "29.1%",
+        "2016": "23.2%",
+        "2017": "31.2%",
+        "2018": "18.8%",
+        "2019": "27.7%",
+        "2020": "40.1%",
+        "name": "Independent Chairman"
+      },
+      {
+        "2015": "69.4%",
+        "2016": "51.0%",
+        "2017": "73.1%",
+        "2018": "79.9%",
+        "2019": "61.7%",
+        "2020": "81.3%",
+        "name": "Supermajority Vote"
+      },
+      {
+        "2015": "22.2%",
+        "2016": "17.9%",
+        "2017": "22.5%",
+        "2018": "26.4%",
+        "2019": "40.5%",
+        "2020": "40.1%",
+        "name": "Others"
+      }
+    ],
+    "heading": [
+      {
+        "headingName": "Average",
+        "field": "name"
+      },
+      {
+        "headingName": 2015,
+        "field": 2015
+      },
+      {
+        "headingName": 2016,
+        "field": 2016
+      },
+      {
+        "headingName": 2017,
+        "field": 2017
+      },
+      {
+        "headingName": 2018,
+        "field": 2018
+      },
+      {
+        "headingName": 2019,
+        "field": 2019
+      },
+      {
+        "headingName": 2020,
+        "field": 2020
+      }
+    ]
+  },
+  "tableISS": {
+    "data": [
+      {
+        "2015": "100.0%",
+        "2016": "100.0%",
+        "2017": "100.0%",
+        "2018": "100.0%",
+        "2019": "100.0%",
+        "2020": "100.0%",
+        "name": "Proxy Access"
+      },
+      {
+        "2015": "100.0%",
+        "2016": "",
+        "2017": "100.0%",
+        "2018": "85.7%",
+        "2019": "100.0%",
+        "2020": "100.0%",
+        "name": "Special Meeting"
+      },
+      {
+        "2015": "100.0%",
+        "2016": "",
+        "2017": "",
+        "2018": "83.3%",
+        "2019": "50.0%",
+        "2020": "",
+        "name": "Written Consent"
+      },
+      {
+        "2015": "52.6%",
+        "2016": "100.0%",
+        "2017": "50.0%",
+        "2018": "50.0%",
+        "2019": "50.0%",
+        "2020": "83.7%",
+        "name": "Independent Chairman"
+      },
+      {
+        "2015": "100.0%",
+        "2016": "83.3%",
+        "2017": "100.0%",
+        "2018": "100.0%",
+        "2019": "100.0%",
+        "2020": "100.0%",
+        "name": "Supermajority Vote"
+      },
+      {
+        "2015": "63.6%",
+        "2016": "55.6%",
+        "2017": "54.5%",
+        "2018": "48.5%",
+        "2019": "62.9%",
+        "2020": "93.6%",
+        "name": "Others"
+      }
+    ],
+    "heading": [
+      {
+        "headingName": "ISS Support",
+        "field": "name"
+      },
+      {
+        "headingName": 2015,
+        "field": 2015
+      },
+      {
+        "headingName": 2016,
+        "field": 2016
+      },
+      {
+        "headingName": 2017,
+        "field": 2017
+      },
+      {
+        "headingName": 2018,
+        "field": 2018
+      },
+      {
+        "headingName": 2019,
+        "field": 2019
+      },
+      {
+        "headingName": 2020,
+        "field": 2020
+      }
+    ]
+  },
+  "tableGL": {
+    "data": [
+      {
+        "2015": "80.0%",
+        "2016": "62.5%",
+        "2017": "",
+        "2018": "8.3%",
+        "2019": "",
+        "2020": "",
+        "name": "Proxy Access"
+      },
+      {
+        "2015": "",
+        "2016": "",
+        "2017": "100.0%",
+        "2018": "85.7%",
+        "2019": "100.0%",
+        "2020": "80.0%",
+        "name": "Special Meeting"
+      },
+      {
+        "2015": "100.0%",
+        "2016": "",
+        "2017": "",
+        "2018": "100.0%",
+        "2019": "50.0%",
+        "2020": "100.0%",
+        "name": "Written Consent"
+      },
+      {
+        "2015": "90.0%",
+        "2016": "100.0%",
+        "2017": "50.0%",
+        "2018": "100.0%",
+        "2019": "80.0%",
+        "2020": "100.0%",
+        "name": "Independent Chairman"
+      },
+      {
+        "2015": "",
+        "2016": "16.7%",
+        "2017": "100.0%",
+        "2018": "100.0%",
+        "2019": "66.7%",
+        "2020": "100.0%",
+        "name": "Supermajority Vote"
+      },
+      {
+        "2015": "14.9%",
+        "2016": "18.5%",
+        "2017": "45.5%",
+        "2018": "29.4%",
+        "2019": "37.8%",
+        "2020": "78.5%",
+        "name": "Others"
+      }
+    ],
+    "heading": [
+      {
+        "headingName": "Glass Lewis Support",
+        "field": "name"
+      },
+      {
+        "headingName": 2015,
+        "field": 2015
+      },
+      {
+        "headingName": 2016,
+        "field": 2016
+      },
+      {
+        "headingName": 2017,
+        "field": 2017
+      },
+      {
+        "headingName": 2018,
+        "field": 2018
+      },
+      {
+        "headingName": 2019,
+        "field": 2019
+      },
+      {
+        "headingName": 2020,
+        "field": 2020
+      }
+    ]
+  }
+}

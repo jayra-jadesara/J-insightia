@@ -1,0 +1,109 @@
+.cr-navigatio-utils { 
+  & .scrollBarSection {
+    height: 50vh;
+    background: #002060;
+    border-bottom: 1px solid #002060;
+    margin-bottom: 0;
+  }
+  & .ms-auto.navbar-nav {
+    & .nav-link {
+      color: $primary-text;
+    }
+    & .nav-link.disabled {
+      color: rgba(225, 225, 225, 0.3);
+      pointer-events: none;
+      background-color: transparent;
+      background-image: none;
+    }
+    & .nav-link.active {
+      background-color: #71809f !important;
+    }
+    & a#collasible-nav-dropdown {
+      color: $primary-text;
+    }
+    & .dropdown-menu {
+      border-radius: $standard-border-radius;
+      padding: 10px;
+      & .dropdown-item {
+        color: $primary;
+        background: white;
+      }
+    }
+
+    & .disabled.dropdown-item,
+    .dropdown-item:disabled {
+      color: #6c757d !important;
+      pointer-events: none;
+      background-color: transparent;
+      background-image: none;
+    }
+    & .dropdown-menu::before,
+    .dropdown-menu::after {
+      border-bottom: 0;
+    }
+    & .lh-20 {
+      line-height: 16px;
+    }
+    & .border-bottom-1w {
+      border-bottom: 1px solid white;
+    }
+    & .border-2w {
+      border: 2px solid white;
+    }
+    & .ms-10 {
+      padding: 8px 0;
+      margin-left: 10px;
+    }
+  }
+  & .border-color-white {
+    border-color: white;
+  }
+  & .btnToogle {
+    background: linear-gradient(180deg, #405886, transparent);
+    & .titleSelection {
+      color: $primary-text;
+      float: left;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      overflow: hidden;
+      width: 100%;
+      white-space: nowrap;
+      text-align: left;
+    }
+    & .divTitle {
+      width: 85%;
+      padding-top: 7px;
+      padding-bottom: 7px;
+    }
+  }
+}
+#responsive-navbar-nav{
+  position: relative;
+  z-index: 1000;
+}
+
+.feedbackText {
+font-size: 0.8rem;
+text-align: left;
+}
+.feedbackCount {
+  font-size: 0.8rem;
+}
+.feedbackInput {
+  padding: 5px;
+  width: 100%;
+  font-size: 0.8rem;
+  resize: none;
+}
+.feedbackCloseText {
+ font-size: 1rem;
+ font-weight: bold;
+ align-self: center;
+}
+#feedback {
+  font-size: 1.4rem;
+  color: $primary;
+}
+.feedbackHeader {
+  text-transform: capitalize !important;
+}

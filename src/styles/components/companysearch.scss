@@ -1,0 +1,40 @@
+.cr-companysearch {
+  button.btn-primary {
+    // orig button style
+    font-size: $standard;
+    color: #ffff;
+    border: none;
+    text-decoration: none;
+    background-color: #183f74 !important;
+    transform: none;
+    width: 120px;
+    border-radius: $standard-border-radius;
+  }
+
+  .pagination_peer {
+    width: 100%;
+    padding: -2;
+    font-size: $standard;
+    background-color: #ffff;
+    text-align: right;
+
+    button {
+      cursor: pointer;
+      font-size: 20px;
+      margin: 0px;
+      border: 0px;
+    }
+
+    .btnToLink {
+      border: 0px;
+      text-decoration: none !important;
+      background: top;
+    }
+
+    span {
+      background-color: #ffff;
+      color: $primary;
+      font-weight: bold;
+    }
+  }
+}

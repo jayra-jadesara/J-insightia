@@ -1,0 +1,19 @@
+.cr-activistShortsCampaigns {
+    html{
+        scroll-behavior: smooth;
+    }
+
+    @keyframes fadeOutAnimation {
+        0% {
+          opacity: 1;
+        }
+        100% {
+          opacity: 0;
+        }
+      }
+      .fadeOutAnimation {
+        animation: fadeOutAnimation 0s;
+        animation-iteration-count: 1;
+        animation-fill-mode: forwards;
+      }
+}

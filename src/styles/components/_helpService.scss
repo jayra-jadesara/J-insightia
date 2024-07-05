@@ -1,0 +1,23 @@
+.cr-helpService {
+    padding: 10px;
+    
+    
+    & .helpandservicesItem {
+        margin-top: 10px;
+        padding: 10px;
+
+        & label {
+            color: $navyfonttext;
+            
+        }
+        & .details {
+            color: $navyfonttext;
+            
+            & a {
+                text-decoration: none;
+                color: $secondary;
+            }
+        }
+    }
+    
+}

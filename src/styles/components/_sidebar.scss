@@ -1,0 +1,199 @@
+.cr-sidebar {
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	left: -$cr-sidebar-width;
+	z-index: 5;
+	width: $cr-sidebar-width;
+	font-weight: 200;
+	color: #fff;
+	background-position: center center;
+	background-size: cover;
+	transition: left 0.1s ease-in;
+
+	+ .cr-content {
+		transition: margin 0.1s ease-in;
+	}
+
+	&::after,
+	&::before {
+		position: absolute;
+		top: 0;
+		left: 0;
+		z-index: 2;
+		display: block;
+		width: 100%;
+		height: 100%;
+		content: '';
+	}
+
+	&::before {
+		background: #000;
+		opacity: 0.33;
+	}
+
+	&::after {
+		z-index: 3;
+		background: $primary;
+		background-image: linear-gradient(to right, $primary, #153261);
+		opacity: 1;
+	}
+
+	&[data-image]:after {
+		opacity: 0.77;
+	}
+
+	&__content {
+		position: relative;
+		z-index: 4;
+		height: calc(100vh - 50px);
+		padding-bottom: 30px;
+		overflow-x: hidden;
+		overflow-y: auto;
+		scrollbar-width: none;
+		-ms-overflow-style: none;
+
+		&::-webkit-scrollbar {
+			width: 0;
+		}
+	}
+
+	&__background {
+		position: absolute;
+		top: 0;
+		left: 0;
+		z-index: 1;
+		display: block;
+		width: 100%;
+		height: 100%;
+		background-position: center center;
+		background-size: cover;
+	}
+
+	&__nav-item-collapse {
+		display: flex;
+		justify-content: space-between;
+		cursor: pointer;
+	}
+
+	&__nav-item-icon {
+		width: 1.5rem;
+		height: 1.5rem;
+		padding-right: 0.5rem;
+	}
+
+	&--open {
+		left: 0;
+		transition: left 0.2s ease-in;
+		box-shadow: 1px 0px 12px rgb(102, 102, 102);
+
+		+ .cr-content {
+			margin: 0 0 0 $cr-sidebar-width;
+			transition: margin 0.2s ease-in;
+		}
+	}
+
+	.nav {
+		margin-top: 40px;
+		@media (min-width: 1380px) {
+			.nav-item {
+				margin: 6px 0;
+				padding: 0px 60px 0px 0;
+				color: #f8f9fa;
+				opacity: 0.86;
+				font-size: $main-nav-items;
+				width: 250px;
+	
+				& span {
+					font-weight: 350;
+				}
+			}
+		}
+		@media (max-width: 1380px) { 
+			.nav-item {
+			margin: 2px 0;
+			padding: 0px 60px 0px 0;
+			color: #f8f9fa;
+			opacity: 0.86;
+			font-size: $main-nav-items;
+			width: 250px;
+
+			& span {
+				font-weight: 350;
+			}
+		}
+
+		}
+		.nav-link {
+			color: #f8f9fa;
+			transition: all 0.5s ease;
+			font-weight: 300;
+			width: 170px;
+
+			&:hover {
+				background: #305382;
+				// background: #27588b;
+				cursor: pointer;
+				font-weight: bold;
+				border-radius: 0px 20px 20px 0px;
+				color: #ffff;
+				width: 170px;
+			}
+		}
+
+		.nav-item .nav-link.active {
+			background: #305382;
+			cursor: pointer;
+			font-weight: 700;
+			border-radius: 0px 20px 20px 0px;
+			color: #ffff;
+			width: 170px;
+			// do not delete : for future use on icon inversion
+			// img {
+			//   width: 100%;
+			//   height: auto;
+			//   padding: 5px 15px;
+			//   cursor: pointer;
+			//   filter:  brightness(0) invert(1);
+			// }
+		}
+	}
+
+	img {
+		width: 100%;
+		height: auto;
+		padding: 5px 15px;
+		cursor: pointer;
+	}
+
+	.cr-sidebar__navbar-brand {
+		width: fit-content;
+		padding: 50px 0px 10px 0px;
+	}
+
+	.footerDetails {
+		height: 40px;
+		width: 100%;
+		margin-top: -20px;
+		margin-bottom: 10px;
+		position: relative;
+		z-index: 100;
+		text-align: center;
+		background-image: linear-gradient(to right, $primary, #153261);
+
+		a {
+			img {
+				height: 40px;
+				width: 60px;
+				padding: 0px 10px 0px 10px;
+			}
+		}
+
+		.footerLine {
+			font-size: 11px;
+			text-align: center;
+			padding-top: 10px;
+			color: lightgrey;
+		}
+	}
+}

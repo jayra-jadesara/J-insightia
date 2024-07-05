@@ -1,0 +1,39 @@
+.cr-peopleDirectorAndExecutive{
+    h2 {
+        color: $primary;
+        font-weight: 400;
+    }
+
+    .titleSelection {
+    float: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: left;
+    overflow-wrap: break-word;
+    color: #00a9d9;
+    font-weight: 300;
+    white-space: nowrap;
+    text-decoration: none;
+    }
+    
+}
+
+.flagCircle{
+    width: 70px;
+    position: absolute;
+    border-radius: 50%;
+    float: right;
+    right: 0px;
+    z-index: 4;
+}
+
+.flagCircleOnClose{
+    width: 70px;
+    position: relative;
+    margin-top: -50px;
+    top: 40px;
+    left: 10px;
+    border-radius: 50%;	    
+    float: right;	
+    z-index: 4;
+}

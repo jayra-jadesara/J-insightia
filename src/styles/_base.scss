@@ -1,0 +1,170 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
+//@import url(https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i);
+
+/* Font Smoothing */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+td,
+button,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+.display-1,
+.display-2,
+.display-3,
+.display-4,
+.navbar,
+.brand,
+.alert {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+
+  font-family: Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+// font standardisation
+h1 {
+  font-size: $company-header;
+  font-weight: 300;
+}
+h2,h3 {
+  font-size: $standard-headers;
+  color: $cardTitle;
+  font-weight: 350;
+}
+p,body, li {
+  font-size: $standard;
+  color: $primary;
+}
+
+// // auto change sizing according to width 
+// .AuthForm_main__3Gr5O,
+// .cr-progressbar.cr-page-spinner,
+// .row.newsMain,
+// .mostVisitNewsContainer,
+// .mostReadTitle,
+// .cr-newsNew .cr-search-form.form-inline.mb-2,
+// .cr-search-form.form-inline.col-lg-6.col-md-12 ,
+// .avtivistPortal .cr-tools,
+// .avtivistPortal .cr-helpService,
+// .cr-underconstruction,
+// .zoom-out,
+// .activistName,
+// .votingDualClassBtn,
+// .cr-activistShortsCampaigns .row.fadeInAnimation,
+// .ag-body-viewport.ag-layout-auto-height.ag-row-animation.ag-selectable,
+// .definitionMain,
+// .cr-gridstack,
+// .nav.flex-column,
+// .cr-header.bg-white.navbar.navbar-expand.navbar-light,
+// table,
+// .cr-title__,
+// .row.navFixed,
+// .cr-investor-comparator .text-primary p,
+// .divShowHideTable,
+// .divFilterTable,
+// .modal-dialog,
+// #pdfViewId,
+// .react-confirm-alert-overlay,
+// .ag-header-cell-label .ag-header-cell-text,
+// {
+//   @media (min-width: 1301px) {
+//     zoom: 80%;
+//   }
+//   @media (min-width: 1000px) and (max-width: 1300px) {
+//     zoom: 80%;
+//   }
+// }
+
+// // exlucisons
+// .cr-myCard .divTitle .titleSelection:not(.zoom-out .cr-myCard .divTitle .titleSelection) {
+//   @media (min-width: 1301px) {
+//     zoom: 80%;
+//   }
+//   @media (min-width: 1000px) and (max-width: 1300px) {
+//     zoom: 80%;
+//   }
+// }
+/// dashboard widget
+.cr-dashboard .dashboard-sidebar-button {
+  font-size: 1rem !important;
+}
+.cr-right-sidebarmenu {
+  min-width: 2% !important;
+  .section-header {
+    font-size: $standard !important;
+  }
+}
+.force-overflow.scrollbar {
+  width: 235px;
+  font-size: $sub-menu-items;
+  align-self: flex-end;
+}
+//// over dashboard widget section
+
+//for card header secondary color
+.cr-myCard .divTitle .titleSelection {
+  span {
+    color: $secondary;
+  }
+}
+
+//for card primary color
+.cardISection {
+  .cardTitle {
+    color: $primary;
+  }
+  span {
+    color: $primary;
+  }
+}
+
+.cr-right-sidebarmenu .force-overflow.scrollbar .card {
+  margin-top: 5em !important;
+}
+
+ .cr-activistInvestorVulnerability .row .col,
+ .cr-activistInvestorVulnerability .row > [class^="col-"],
+ .card-padding .row > [class^="col-"] { 
+  margin-bottom: 0.625rem;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 6px;
+  padding-top : 6px;
+}
+.heightZero {
+  height: 0px;
+}
+
+@media (max-width: $screen-md-max) {
+  .dashboard-sidebar-button {
+    display: none;
+  }
+  .cr-right-sidebarmenu , .cr-right-sidebarmenu  .end-0 .blk-main-containt .flex-column .slideRightToLeft,.force-overflow .scrollbar{
+    display: none;
+  }
+}
+
+.txtWhiteSpaceNormal .titleSelection span{
+  white-space: normal !important;
+}
+
+.cr-app {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  /*background: $mainBackgroundOverlayGradient;*/
+}

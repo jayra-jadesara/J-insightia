@@ -1,0 +1,32 @@
+.cr-investor-comparator {
+  & h4 {
+    color: $primary;
+  }
+
+  & .ag-theme-alpine .ag-layout-auto-height .ag-center-cols-clipper,
+  .ag-theme-alpine .ag-layout-auto-height .ag-center-cols-container,
+  .ag-theme-alpine .ag-layout-print .ag-center-cols-clipper,
+  .ag-theme-alpine .ag-layout-print .ag-center-cols-container {
+    min-height: 42px !important;
+  }
+
+  svg {
+    font-family: Sans-Serif, Arial;
+  }
+
+  & .line {
+    stroke-width: 2;
+    fill: none;
+  }
+  & .axis path {
+    stroke: black;
+  }
+  & p small {
+    color: red;
+  }
+  // .pdfCustomStyleTool {
+  //   position: absolute;
+  //   right: 132px;
+  //   top: 16.5px;
+  // }
+}

@@ -1,0 +1,137 @@
+.cr-collapseCardToolPane {
+  .hidden-panel {
+    color: $disable-text !important;
+    pointer-events: none !important;     
+
+    .ag-checkbox-input-wrapper {
+        display: none !important;  
+    }
+
+    .ag-checkbox-input {
+        visibility: collapse !important;     
+        pointer-events: none !important;     
+    }
+  }
+  //   margin: 10px 20px;
+  .ag-react-container{
+    width: 100%;
+  }
+
+  .ag-custom-select{
+    min-height: 20px;
+    margin-left: 0px;
+  }
+
+  .faqMain {
+
+    & .collapse {
+      background-color: white;
+      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    }
+
+    & .collapsing {
+      background-color: white;
+      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    }
+
+    & p {
+    }
+    & .faqcardheader {
+      
+    }
+
+    & .collapse-card-header {
+    }
+  }
+  .definitionMain {
+
+    & .collapse {
+  
+    }
+
+    & .collapsing {
+      background-color: white;
+      box-shadow: rgba(99, 99, 99, 0.2) 0px 8px 10px;
+    }
+
+    .definitionTblborder:nth-of-type(odd) {
+      background: #f5f5f5;
+    }
+    .definitionTblborder:nth-of-type(even) {
+      background: white;
+    }
+    & .definitionTblborder {
+      border-left: 1px solid #dfdfdf;
+      border-bottom: 1px solid #dfdfdf;
+      border-right: 1px solid #dfdfdf;
+    }
+    & .wrap-word {
+      overflow-wrap: break-word;
+    }
+    & .definitionTblHeader {
+      border: 1px solid #dfdfdf;
+      background-color: $primary;
+    }
+    & .definitionTblLineSeparator {
+      border-right: 1px solid #dfdfdf;
+    }
+    & p {
+      margin-bottom: 0;
+      color: $primary;
+    }
+    & .text-white {
+      color: white;
+    }
+    & .faqcardheader {
+
+      & .lable-subscription {
+      }
+    }
+    & .collapse-card-header {
+
+  }
+  }
+
+  .noAnimation{
+    & .collapsing {
+      -webkit-transition: none;
+      transition: none;
+      display: none;
+    }
+  }
+
+  & .iconUpDownColor {
+  }
+  & .btnOutlineNone {
+
+  }
+  & .input-group {
+  }
+  & .input-group-addon {
+  }
+  & .Select-input > input {
+  }
+  & .preferences-error-msg-color {
+  }
+
+  @include sm {
+    & .input-group {
+      width: 100%;
+    }
+
+    & .lable-subscription {
+      right: 0px !important;
+      padding: 0px 10px;
+    }
+  }
+  @include lg {
+    & .input-group {
+      width: 100%;
+    }
+  }
+  @include md {
+    & .input-group {
+      width: 100%;
+    }
+  }
+}

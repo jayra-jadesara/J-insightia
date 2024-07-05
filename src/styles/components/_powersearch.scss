@@ -1,0 +1,15 @@
+.cr-powersearch{
+    .hidden-panel {
+        color: $disable-text !important;
+        pointer-events: none !important;     
+
+        .ag-checkbox-input-wrapper {
+            display: none !important;  
+        }
+
+        .ag-checkbox-input {
+            visibility: collapse !important;     
+            pointer-events: none !important;     
+        }
+      }
+}

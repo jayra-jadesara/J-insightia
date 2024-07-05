@@ -1,0 +1,23 @@
+[
+  { "label": "Default", "value": "0", "mlabel": "'Default'" },
+  {
+    "label": "Number of companies publicly subjected to short sellers allegations",
+    "value": "1",
+    "mlabel": "'Number of companies publicly subjected to short sellers allegations'"
+  },
+  {
+    "label": "Number of short sellers publicly subjecting companies to allegations",
+    "value": "2",
+    "mlabel": "'Number of short sellers publicly subjecting companies to allegations'"
+  },
+  {
+    "label": "Industry sectors of companies publicly subjected to short sellers allegations (%)",
+    "value": "3",
+    "mlabel": "'Industry sectors of companies publicly subjected to short sellers allegations (%)'"
+  },
+  {
+    "label": "Market caps of companies publicly subjected to short seller allegations",
+    "value": "4",
+    "mlabel": "'Market caps of companies publicly subjected to short seller allegations'"
+  }
+]

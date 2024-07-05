@@ -1,0 +1,304 @@
+.cr-alertInbox {
+    margin: 1px 0px;
+    background-color: white;
+    & .scrollbar {
+        height: 65vh;
+        border: 1px solid #dde6f4;
+        margin-left: 0;
+        padding: 0 5px;
+        width: 100%;
+    }
+
+    .itemAlert {
+        position: relative;
+        padding: 14px 10px;
+        margin: 0px;
+        margin-bottom: 0px;
+        border: 1px solid #dde6f3;
+
+        // box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
+        & p {
+            margin-bottom: 0;
+            color: $primary;
+            font-size: 15px;
+            
+        }
+        & span {
+            margin-bottom: 0;
+            color: $primary;
+        }
+
+        & img {
+            // height: 75px;
+            // max-width: 100%;
+            // margin: auto;
+            // object-fit: contain;
+            height: 130px;
+            object-fit: contain;
+            margin: 10px 0px;
+            border-radius: $standard-border-radius !important;
+            background-color: white;
+            // width: 140px;
+            max-width: 100%;
+            width: 100%;
+            justify-content: center;
+            align-items: center;
+            padding: 0 !important;
+        }
+
+        & .bi {
+            margin: 0 5px;
+            font-size: 15px;
+        }
+
+        & .date {
+            float: right;
+        }
+
+        & .newsMains {
+          color: #fff;
+          font-size: 12px;
+          border-radius: $standard-border-radius;
+          right: 20px;
+          opacity: 0.5;
+          height: 40px;
+          width: 40px;
+          padding: 0px 10px;
+          border: 5px solid #ced4da;
+          z-index: 6;
+          &:hover {
+            opacity: 1;
+            border: 5px solid $primary;
+            color: $primary;
+          }
+        }
+
+        & .newsExpandHeadline p {
+            color: $primary;
+            font-size: 30px;
+            font-weight: 500;
+        }
+
+        & .newsDate {
+            color: $secondary;
+            font-size: 18px;
+            font-weight: 300;
+        }
+
+        & .article-button {
+            width: 135px;
+        }
+
+        & .bi {
+            font-size: 0.87rem;
+        }
+
+        & .readOnly {
+            opacity: 0.3;
+        }
+        & .titleAlignment {
+            display: flex !important;
+            align-items: baseline;
+            justify-content: space-between;
+            align-self: flex-end;
+        }
+    }
+
+    // & .row > [class^="col-"] {
+    //     margin-bottom: 0;
+    // }
+
+    & .alertVisited {
+        background: linear-gradient(0deg, #eceef4, #edf0f5, #ffffff);
+        &:hover {
+          background: linear-gradient(0deg, #b9c5d49c, #edf0f5, #ffffff);
+        }
+        background: #f4f5f7;
+        justify-content: center;
+        align-items: start;
+        &:hover {
+            background: #e8ecf2;
+        }
+    }
+
+    & .alertVisited {
+        background: linear-gradient(0deg, #eceef4, #edf0f5, #ffffff);
+        &:hover {
+          background: linear-gradient(0deg, #b9c5d49c, #edf0f5, #ffffff);
+        }
+        background: #f4f5f7;
+        &:hover {
+            background: #e8ecf2;
+        }
+    }
+
+    & .expandBlock {
+      background:  #e8ecf2;
+      & img {
+        height: 100px;
+        max-width: 100%;
+        margin: auto;
+        object-fit: contain;
+        padding: 5px;
+      }
+  
+      
+    }
+
+    & .ScrollStyle {// float: left;
+        height: calc(100vh - 100px);
+        background: #ffffff;
+        overflow-y: scroll;
+        overflow-x: hidden;
+        margin-bottom: 0px;
+      
+        &::-webkit-scrollbar-track {
+          -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+          background-color: #ffffff;
+        }
+      
+        &::-webkit-scrollbar {
+          width: 10px;
+          background-color: #ffffff;
+        }
+      
+        &::-webkit-scrollbar-thumb {
+          background-color: $primary;
+          border: 2px solid #ffffff;
+        }
+      
+        & .force-overflow {
+          min-height: 450px;
+        }
+    }
+    .noAgHeader{
+        & .ag-theme-alpine {
+            & .ag-header {
+                display: none;
+            }
+        } 
+    }
+    .newsMain {
+        position: relative;
+        padding: 14px 10px;
+        margin: 0px;
+        background:  #e8ecf2;
+        border: 1px solid #dde6f3;
+    
+        & p {
+          margin-bottom: 0;
+          color: $primary;
+          font-size: 15px;
+        }
+        & span {
+          margin-bottom: 0;
+          color: $primary;
+        }
+    
+        & img {
+          height: 130px;
+          object-fit: contain;
+          margin: 10px 0px;
+          border-radius: $standard-border-radius !important;
+          background-color: white;
+          // width: 140px;
+          max-width: 100%;
+          width: 100%;
+          justify-content: center;
+        align-items: center;
+        padding: 3px !important;
+        }
+    
+        & .bi {
+          margin: 0 5px;
+          font-size: 20px;
+        }
+    
+        & .newsShare {
+          color: #fff;
+          font-size: 12px;
+          border-radius: $standard-border-radius;
+          right: 20px;
+          opacity: 0.5;
+          height: 40px;
+          width: 40px;
+          padding: 0px 10px;
+          border: 5px solid #ced4da;
+          z-index: 6;
+          &:hover {
+            opacity: 1;
+            border: 5px solid $primary;
+            color: $primary;
+          }
+        }
+    
+        & .newsExpandHeadline p {
+          color: $primary;
+          font-size: 30px;
+          font-weight: 500;
+        }
+    
+        & .newsDate{
+          color: $secondary;
+          font-size: 18px ;
+          font-weight: 300;
+        }
+    
+        & .article-button {
+          width: 135px;
+          max-height: 30px;
+        }
+    
+        & .bi {
+          font-size: 0.875rem;
+        }
+    
+        & .readOnly {
+          opacity: 0.3;
+        }
+        & .titleAlignment {
+          display: flex !important;
+          align-items: baseline;
+          justify-content: space-between;
+          align-self: flex-end;
+        }
+      }
+    
+    
+}
+
+//  .Select-menu {// float: left;
+//   height: calc(100vh - 100px);
+//   background: #ffffff;
+//   overflow-y: scroll !important;
+//   overflow-x: hidden !important;
+//   margin-bottom: 0px;
+
+//   &::-webkit-scrollbar-track {
+//     -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+//     background-color: #ffffff;
+//   }
+
+//   &::-webkit-scrollbar {
+//     width: 10px;
+//     background-color: #ffffff;
+//   }
+
+//   &::-webkit-scrollbar-thumb {
+//     background-color: $primary;
+//     border: 2px solid #ffffff;
+//   }
+
+//   & .force-overflow {
+//     min-height: 450px;
+//   }
+// }
+
+// the code below causes the page across site to be distorted. commented for now.
+// .cr-page .row .col, .cr-page .row > [class^="col-"] {
+//     margin-bottom: 0 !important;
+// }
+.cr-page .cr-alertInbox  .row .col, .cr-page .cr-alertInbox .row > [class^="col-"] {
+    margin-bottom: 0 !important;
+}

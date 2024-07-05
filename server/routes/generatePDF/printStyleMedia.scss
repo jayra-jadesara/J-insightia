@@ -1,0 +1,34 @@
+@media print {
+  @page {
+    margin: 80px 10px 80px 10px;
+    // size: A4 portrait;
+  }
+  .cr-content {
+    background: white !important;
+  }
+  .pdfpagebreak {
+    page-break-before: always;
+    page-break-inside: avoid !important;
+  }
+  .pdfpagebreakinsideavoid {
+    page-break-inside: avoid !important;
+  }
+  .pdfpb-30 {
+    padding-bottom: 30px !important;
+  }
+  .cr-myCard {
+    min-height: auto;
+    & .divTitle {
+      & .titleSelection {
+        page-break-inside: avoid !important;
+      }
+    }
+  }
+  .cr-agGrid {
+    .ag-header-row {
+      .ag-header-cell {
+        page-break-inside: avoid !important;
+      }
+    }
+  }
+}

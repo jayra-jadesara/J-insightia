@@ -1,0 +1,18 @@
+.cr-checkbox {
+  input.form-check-input[type="checkbox"]:hover {
+    border-color: #8c9eba;
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem rgba(25, 61, 117, 0.25);
+  }
+  & .appearance-auto {
+    appearance: auto;
+  }
+  & .smallcheckbox {
+    width: 12px;
+    height: 12px;
+  }
+  & .font-12 {
+    font-size: $standard;
+    font-weight: 400;
+  }
+}

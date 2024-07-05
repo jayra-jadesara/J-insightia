@@ -1,0 +1,1620 @@
+{
+  "votingProfile": {
+    "name": "BlackRock US",
+    "website": "www.blackrock.com",
+    "about": "Proxy voting is executed by the Corporate Governance Group. BlackRock maintains three Corporate Governance Committees for the Americas, Europe, the Middle East and Africa (EMEA) and Asia-Pacific, consisting of senior BlackRock investment professionals. All of the regional Corporate Governance Committees report to a Global Corporate Governance Oversight Committee. The Corporate Governance Committees review and approve amendments to their respective proxy voting guidelines. The Corporate Governance Group monitor upcoming proxy votes, execute proxy votes and maintain records of votes cast. The Corporate Governance Group may refer complicated or particularly controversial matters or discussions to the appropriate investors and/or regional Corporate Governance Committees for their review, discussion and guidance prior to making a voting decision.",
+    "manager_overview": "BlackRock is an independent global investment manager founded in 1988. The company is headquartered in New York.",
+    "parent_group": "BlackRock, Inc.",
+    "region_covered": "",
+    "UK_stewardship": "Member              ",
+    "UN_PRI": "Signatory",
+    "Voting_Policy_Summary": "Own",
+    "Policy_download": "BlackRock US 2020.pdf",
+    "own_policies": "",
+    "FM_Type": "Fund Manager",
+    "assets_under_mgmt": "$6.5 tn",
+    "assets_date": "2021-06-07T11:13:19.763Z",
+    "Country_name": "US",
+    "Region_name": "",
+    "company_logo": "BlackRock logo.jpg",
+    "voting_platform": "",
+    "proxy_advisor": "Glass Lewis, ISS, IVIS"
+  },
+  "tableKeyDocument": [
+    {
+      "document_log_id": 9103,
+      "investor_profile_id": 45,
+      "document_id": 12,
+      "document_period": null,
+      "document_link": "https://www.blackrock.com/corporate/literature/publication/blk-annual-stewardship-report-2020.pdf",
+      "doc_id": 12,
+      "document_type": "Engagement Report - Summary",
+      "document_date": "01 Sep 20",
+      "document_name": "BlackRock Annual Report 2020.pdf"
+    },
+    {
+      "document_log_id": 7946,
+      "investor_profile_id": 45,
+      "document_id": 11,
+      "document_period": null,
+      "document_link": null,
+      "doc_id": 11,
+      "document_type": "Proxy Voting Policy with Changes",
+      "document_date": "12 Feb 20",
+      "document_name": "BlackRock US 2020 Redline.pdf"
+    },
+    {
+      "document_log_id": 7914,
+      "investor_profile_id": 45,
+      "document_id": 1,
+      "document_period": null,
+      "document_link": "https://www.blackrock.com/corporate/literature/fact-sheet/blk-responsible-investment-guidelines-us.pdf",
+      "doc_id": 1,
+      "document_type": "Proxy Voting Policy",
+      "document_date": "31 Jan 20",
+      "document_name": "BlackRock US 2020.pdf"
+    },
+    {
+      "document_log_id": 8454,
+      "investor_profile_id": 45,
+      "document_id": 15,
+      "document_period": null,
+      "document_link": "https://www.blackrock.com/corporate/literature/publication/blk-commentary-engaging-on-diversity.pdf",
+      "doc_id": 15,
+      "document_type": "Engagement Report - Board Diversity",
+      "document_date": "01 Jan 20",
+      "document_name": "BlackRock Engagement on Board Diversity 2020.pdf"
+    },
+    {
+      "document_log_id": 8455,
+      "investor_profile_id": 45,
+      "document_id": 13,
+      "document_period": null,
+      "document_link": "https://www.blackrock.com/corporate/literature/publication/blk-commentary-engaging-on-climate-risk.pdf",
+      "doc_id": 13,
+      "document_type": "Engagement Report - Climate Risk",
+      "document_date": "01 Jan 20",
+      "document_name": "BlackRock Engagement on Climate Risk 2020.pdf"
+    },
+    {
+      "document_log_id": 8456,
+      "investor_profile_id": 45,
+      "document_id": 17,
+      "document_period": null,
+      "document_link": "https://www.blackrock.com/corporate/literature/publication/blk-commentary-our-approach-to-executive-compensation.pdf",
+      "doc_id": 17,
+      "document_type": "Engagement Report - Executive Compensation",
+      "document_date": "01 Jan 20",
+      "document_name": "BlackRock Investment Stewardship - Executive Compensation 2020.pdf"
+    },
+    {
+      "document_log_id": 8457,
+      "investor_profile_id": 45,
+      "document_id": 16,
+      "document_period": null,
+      "document_link": "https://www.blackrock.com/corporate/literature/publication/blk-commentary-engagement-on-human-capital.pdf",
+      "doc_id": 16,
+      "document_type": "Engagement Report - Human Capital Management",
+      "document_date": "01 Jan 20",
+      "document_name": "BlackRock Engagement on Human Management 2020.pdf"
+    },
+    {
+      "document_log_id": 8458,
+      "investor_profile_id": 45,
+      "document_id": 14,
+      "document_period": null,
+      "document_link": "https://www.blackrock.com/corporate/literature/publication/blk-commentary-engaging-on-strategy-purpose-culture.pdf",
+      "doc_id": 14,
+      "document_type": "Engagement Report - Strategy, Purpose and Culture",
+      "document_date": "01 Jan 20",
+      "document_name": "BlackRock Investment Stewardship on Strategy, Purpose, Culture 2020.pdf"
+    },
+    {
+      "document_log_id": 8459,
+      "investor_profile_id": 45,
+      "document_id": 12,
+      "document_period": null,
+      "document_link": "https://www.blackrock.com/corporate/literature/publication/blk-stewardship-priorities-final.pdf",
+      "doc_id": 12,
+      "document_type": "Engagement Report - Summary",
+      "document_date": "01 Jan 20",
+      "document_name": "BlackRock Engagement Priorities 2020.pdf"
+    },
+    {
+      "document_log_id": 5466,
+      "investor_profile_id": 45,
+      "document_id": 11,
+      "document_period": null,
+      "document_link": null,
+      "doc_id": 11,
+      "document_type": "Proxy Voting Policy with Changes",
+      "document_date": "17 Jan 19",
+      "document_name": "BlackRock US 2019 With Redline.pdf"
+    },
+    {
+      "document_log_id": 5465,
+      "investor_profile_id": 45,
+      "document_id": 6,
+      "document_period": null,
+      "document_link": "https://www.blackrock.com/corporate/literature/publication/blk-commentary-our-approach-to-executive-compensation.pdf",
+      "doc_id": 6,
+      "document_type": "Compensation Policy\r\n",
+      "document_date": "01 Jan 19",
+      "document_name": "BlackRock Investment Stewardship’s approach to executive compensation 2019.pdf"
+    },
+    {
+      "document_log_id": 3936,
+      "investor_profile_id": 45,
+      "document_id": 15,
+      "document_period": null,
+      "document_link": "https://www.blackrock.com/corporate/literature/publication/blk-commentary-engaging-on-diversity.pdf",
+      "doc_id": 15,
+      "document_type": "Engagement Report - Board Diversity",
+      "document_date": "01 Jan 19",
+      "document_name": "BlackRock Engagement on board diversity 2019.pdf"
+    },
+    {
+      "document_log_id": 3858,
+      "investor_profile_id": 45,
+      "document_id": 13,
+      "document_period": null,
+      "document_link": "https://www.blackrock.com/corporate/literature/publication/blk-commentary-engaging-on-climate-risk.pdf",
+      "doc_id": 13,
+      "document_type": "Engagement Report - Climate Risk",
+      "document_date": "01 Jan 19",
+      "document_name": "BlackRock Engagement on Climate Risk 2019.pdf"
+    },
+    {
+      "document_log_id": 4014,
+      "investor_profile_id": 45,
+      "document_id": 17,
+      "document_period": null,
+      "document_link": "https://www.blackrock.com/corporate/literature/publication/blk-commentary-our-approach-to-executive-compensation.pdf",
+      "doc_id": 17,
+      "document_type": "Engagement Report - Executive Compensation",
+      "document_date": "01 Jan 19",
+      "document_name": "BlackRock Investment Stewardship’s approach to executive compensation 2019.pdf"
+    },
+    {
+      "document_log_id": 3975,
+      "investor_profile_id": 45,
+      "document_id": 16,
+      "document_period": null,
+      "document_link": "https://www.blackrock.com/corporate/literature/publication/blk-commentary-engagement-on-human-capital.pdf",
+      "doc_id": 16,
+      "document_type": "Engagement Report - Human Capital Management",
+      "document_date": "01 Jan 19",
+      "document_name": "BlackRock Engagement on human capital 2019.pdf"
+    },
+    {
+      "document_log_id": 3897,
+      "investor_profile_id": 45,
+      "document_id": 14,
+      "document_period": null,
+      "document_link": "https://www.blackrock.com/corporate/literature/publication/blk-commentary-engaging-on-strategy-purpose-culture.pdf",
+      "doc_id": 14,
+      "document_type": "Engagement Report - Strategy, Purpose and Culture",
+      "document_date": "01 Jan 19",
+      "document_name": "BlackRock Engagement on strategy, purpose, culture 2019.pdf"
+    },
+    {
+      "document_log_id": 3770,
+      "investor_profile_id": 45,
+      "document_id": 12,
+      "document_period": null,
+      "document_link": "https://www.blackrock.com/corporate/literature/publication/blk-stewardship-priorities-final.pdf",
+      "doc_id": 12,
+      "document_type": "Engagement Report - Summary",
+      "document_date": "01 Jan 19",
+      "document_name": "BlackRock Engagement Priorities 2019.pdf"
+    },
+    {
+      "document_log_id": 5459,
+      "investor_profile_id": 45,
+      "document_id": 1,
+      "document_period": null,
+      "document_link": "https://www.blackrock.com/corporate/literature/fact-sheet/blk-responsible-investment-guidelines-us.pdf",
+      "doc_id": 1,
+      "document_type": "Proxy Voting Policy",
+      "document_date": "01 Jan 19",
+      "document_name": "BlackRock US 2019.pdf"
+    },
+    {
+      "document_log_id": 6934,
+      "investor_profile_id": 45,
+      "document_id": 2,
+      "document_period": null,
+      "document_link": "https://reporting.unpri.org/Download.aspx?id=BFD98774-F7D6-445B-83B0-5B347BB07126",
+      "doc_id": 2,
+      "document_type": "UN PRI Transparency Report\r\n",
+      "document_date": "01 Jan 19",
+      "document_name": "BlackRock UN PRI 2019.pdf"
+    },
+    {
+      "document_log_id": 4174,
+      "investor_profile_id": 45,
+      "document_id": 10,
+      "document_period": null,
+      "document_link": "https://www.blackrock.com/corporate/literature/publication/open-letter-treatment-of-unequal-voting-structures-msci-equity-indexes-041918.pdf",
+      "doc_id": 10,
+      "document_type": "Investor Letter",
+      "document_date": "19 Apr 18",
+      "document_name": "BlackRock Investor Letter Dual-Class Stock Structures.pdf"
+    },
+    {
+      "document_log_id": 3709,
+      "investor_profile_id": 45,
+      "document_id": 10,
+      "document_period": null,
+      "document_link": "https://www.blackrock.com/corporate/newsroom/press-releases/article/corporate-one/press-releases/blackrock-approach-to-companies-manufacturing-distributing-firearms",
+      "doc_id": 10,
+      "document_type": "Investor Letter",
+      "document_date": "02 Mar 18",
+      "document_name": "BlackRock US Letter Firearms 2018.pdf"
+    },
+    {
+      "document_log_id": 3365,
+      "investor_profile_id": 45,
+      "document_id": 10,
+      "document_period": null,
+      "document_link": "https://www.blackrock.com/corporate/en-us/investor-relations/larry-fink-ceo-letter",
+      "doc_id": 10,
+      "document_type": "Investor Letter",
+      "document_date": "01 Jan 18",
+      "document_name": "BlackRock Letter 2018.pdf"
+    }
+  ],
+  "tableProxyVotingSummary": [
+    {
+      "investor_name": "BlackRock US",
+      "investor_id": 72,
+      "proposal_type_toplevel": 1,
+      "PI_Index": "n/a",
+      "proposal_top_level": "Board of Directors",
+      "votes_for_pcent": "91.3",
+      "votes_against_pcent": "5.9",
+      "votes_split_pcent": "0.3",
+      "votes_abstain_pcent": "0.6",
+      "votes_withhold_pcent": "1.9"
+    },
+    {
+      "investor_name": "BlackRock US",
+      "investor_id": 72,
+      "proposal_type_toplevel": 2,
+      "PI_Index": "n/a",
+      "proposal_top_level": "Committees & Reporting",
+      "votes_for_pcent": "95.6",
+      "votes_against_pcent": "2.4",
+      "votes_split_pcent": "0.3",
+      "votes_abstain_pcent": "1.7",
+      "votes_withhold_pcent": "0.0"
+    },
+    {
+      "investor_name": "BlackRock US",
+      "investor_id": 72,
+      "proposal_type_toplevel": 3,
+      "PI_Index": "n/a",
+      "proposal_top_level": "Corporate Structure",
+      "votes_for_pcent": "83.8",
+      "votes_against_pcent": "15.6",
+      "votes_split_pcent": "0.4",
+      "votes_abstain_pcent": "0.2",
+      "votes_withhold_pcent": "0.0"
+    },
+    {
+      "investor_name": "BlackRock US",
+      "investor_id": 72,
+      "proposal_type_toplevel": 4,
+      "PI_Index": "n/a",
+      "proposal_top_level": "Environmental & Social",
+      "votes_for_pcent": "42.5",
+      "votes_against_pcent": "55.7",
+      "votes_split_pcent": "0.5",
+      "votes_abstain_pcent": "1.2",
+      "votes_withhold_pcent": "0.0"
+    },
+    {
+      "investor_name": "BlackRock US",
+      "investor_id": 72,
+      "proposal_type_toplevel": 5,
+      "PI_Index": "n/a",
+      "proposal_top_level": "General Governance",
+      "votes_for_pcent": "73.1",
+      "votes_against_pcent": "22.0",
+      "votes_split_pcent": "1.2",
+      "votes_abstain_pcent": "3.6",
+      "votes_withhold_pcent": "0.0"
+    },
+    {
+      "investor_name": "BlackRock US",
+      "investor_id": 72,
+      "proposal_type_toplevel": 6,
+      "PI_Index": "n/a",
+      "proposal_top_level": "Remuneration",
+      "votes_for_pcent": "86.9",
+      "votes_against_pcent": "11.9",
+      "votes_split_pcent": "0.7",
+      "votes_abstain_pcent": "0.5",
+      "votes_withhold_pcent": "0.0"
+    }
+  ],
+  "tableVotingPolicyChanges": [
+    {
+      "date": "31 Jan 20",
+      "category": "Board",
+      "subCategory": "Elections / Re-election",
+      "summaryChange": "Amended section to say when a company is not effectively addressing a material issue, its directors should be held accountable."
+    },
+    {
+      "date": "31 Jan 20",
+      "category": "Board",
+      "subCategory": "Classified Boards",
+      "summaryChange": "Amended section to provide examples of when a classified board structure might be acceptable."
+    },
+    {
+      "date": "31 Jan 20",
+      "category": "Committees",
+      "subCategory": "Risk",
+      "summaryChange": "Amended section on risk oversight to say in the absence of robust disclosures they may conclude that companies are not adequately managing risk."
+    },
+    {
+      "date": "31 Jan 20",
+      "category": "ESG",
+      "subCategory": "ESG /SRI Overview",
+      "summaryChange": "Significantly expanded section on ESG including asking for SASB and TCFD disclosure."
+    },
+    {
+      "date": "31 Jan 20",
+      "category": "ESG",
+      "subCategory": "Climate Change",
+      "summaryChange": "Amended section on climate risk to say they will vote case-by-case on climate-related shareholder proposals."
+    },
+    {
+      "date": "01 Jan 19",
+      "category": "Board",
+      "subCategory": "Board Independence",
+      "summaryChange": "Amended section to remove reference to BlackRock's more stringent evaluation of the independence of founders, family members and other business relationships."
+    },
+    {
+      "date": "01 Jan 19",
+      "category": "Board",
+      "subCategory": "Definition of Independence",
+      "summaryChange": "The criteria regarding impediments to independence has been shortened, as references to the status as company founder and substantial business, personal or family relationships have been removed."
+    },
+    {
+      "date": "01 Jan 19",
+      "category": "Board",
+      "subCategory": "Diversity",
+      "summaryChange": "Amended section to expand the scope of a board's consideration of diversity to include reference to personal factors as well as professional characteristics. Further, clarified that BlackRock will vote against the nominating/governance committee if diversity issues have not been addressed within a reasonable timeframe."
+    },
+    {
+      "date": "01 Jan 19",
+      "category": "Board",
+      "subCategory": "Classified Boards",
+      "summaryChange": "Amended section to add reference to the potential for exceptions when BlackRock may not support proposals requesting board de-classification."
+    },
+    {
+      "date": "01 Jan 19",
+      "category": "Remuneration",
+      "subCategory": "NED Remuneration",
+      "summaryChange": "Amended section to outline BlackRock's belief that director compensation should be structured not only to align director and shareholder interests, but also to attract and retain the best possible directors."
+    },
+    {
+      "date": "01 Jan 19",
+      "category": "Structure",
+      "subCategory": "Dual Stock Structure",
+      "summaryChange": "A section has been added regarding BlackRock's recognition of the potential benefits of dual class structures for newly public companies and their belief that the structures should have a specific, limited duration."
+    },
+    {
+      "date": "01 Jan 19",
+      "category": "ESG",
+      "subCategory": "Climate Change",
+      "summaryChange": "Amended section to add BlackRock's expectation for how boards approach assessing climate risk, as well as adapting to and mitigating it."
+    },
+    {
+      "date": "01 Jan 19",
+      "category": "Summary",
+      "subCategory": "Overview",
+      "summaryChange": "BlackRock's approach to Say on Pay, previously included in the voting policy, has been outlined in a separate document titled: 'BlackRock Investment Stewardship’s approach to executive compensation' dated January 2019."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "Committees",
+      "subCategory": "Audit Committee Structure",
+      "summaryChange": "Expanded section on voting against audit committee members."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "Committees",
+      "subCategory": "Remuneration Committee structure",
+      "summaryChange": "Now considers voting against compensation committee members rather than simply withhold."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "Committees",
+      "subCategory": "Nomination Committee structure",
+      "summaryChange": "Now considers voting against nomination committee members rather than withholding."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "Board",
+      "subCategory": "Board Meetings",
+      "summaryChange": "May now consider voting against directors on independence grounds rather than withholding."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "Board",
+      "subCategory": "Overboarding",
+      "summaryChange": "Lowered maximum number of board for CEOs of public companies."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "Structure",
+      "subCategory": "Memorandum/Articles of Association/Bylaws",
+      "summaryChange": "Expanded section on charter/article/by-law amendments."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "Board",
+      "subCategory": "Diversity",
+      "summaryChange": "Added expectation that boards include at least two women."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "Board",
+      "subCategory": "Succession Planning",
+      "summaryChange": "Removed sentence on considering both internal and external candidates."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "Board",
+      "subCategory": "Classified Boards",
+      "summaryChange": "Shortened section on classified boards."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "General",
+      "subCategory": "Cumulative Vote",
+      "summaryChange": "BlackRock now generally opposes cumulative voting proposals."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "Remuneration",
+      "subCategory": "Directors Shareholding",
+      "summaryChange": "Removed section on share ownership requirements."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "Remuneration",
+      "subCategory": "NED Remuneration",
+      "summaryChange": "Shortened section on directors' remuneration."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "General",
+      "subCategory": "Majority Vote",
+      "summaryChange": "Removed statement that majority voting may not be appropriate in all circumstances."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "Committees",
+      "subCategory": "Risk Committee structure",
+      "summaryChange": "Removed statement that boards should clearly explain their risk oversight."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "Committees",
+      "subCategory": "Risk Committee structure",
+      "summaryChange": "Revised section on separation of chair and CEO."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "Structure",
+      "subCategory": "Dual Stock Structure",
+      "summaryChange": "Revised section on equal voting rights."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "Structure",
+      "subCategory": "Share Issuance",
+      "summaryChange": "Shortened section on preferred stock issuance."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "Structure",
+      "subCategory": "Mergers & Acquisitions",
+      "summaryChange": "Shortened sections on mergers and asset sales."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "General",
+      "subCategory": "Shareholder Rights Plans - \"Poison Pills\"",
+      "summaryChange": "Shortened section on poison pills."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "Remuneration",
+      "subCategory": "Clawback",
+      "summaryChange": "Added support for recoupment in cases of financial harm to shareholders, reputational risk and criminal investigation."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "Remuneration",
+      "subCategory": "Repricing provisions",
+      "summaryChange": "Added details of when reprice/exchange of underwater options may be supported."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "Remuneration",
+      "subCategory": "Performance Evaluation",
+      "summaryChange": "Removed section on pay-for-superior-performance."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "ESG",
+      "subCategory": "ESG /SRI Overview",
+      "summaryChange": "Revised and slightly expanded section on environmental and social issues."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "ESG",
+      "subCategory": "Climate Change",
+      "summaryChange": "Added section on climate risk."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "General",
+      "subCategory": "Exclusive Forum Provisions",
+      "summaryChange": "Added section on exclusive forum provisions."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "General",
+      "subCategory": "Outside US",
+      "summaryChange": "Added section on multi-jurisdictional companies."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "General",
+      "subCategory": "Shareholder Access to the Proxy",
+      "summaryChange": "Added details of proxy access arrangements BlackRock supports."
+    },
+    {
+      "date": "01 Feb 18",
+      "category": "Remuneration",
+      "subCategory": "Advisory Vote (Say on Pay)",
+      "summaryChange": "Revised section on say-on-pay frequency."
+    }
+  ],
+  "tableContacts": [
+    {
+      "title": "",
+      "firstname": "Barbara",
+      "surname": "Novick ",
+      "job_title": "Vice Chairman",
+      "email": "barbara.novick@blackrock.com",
+      "tel": "Tel: +1 212-810-5300",
+      "country_name": "",
+      "LinkedIn_profile": "https://www.linkedin.com/in/barbara-novick-35014a6a/",
+      "bio": "Barbara G. Novick, Vice Chairman, is a member of BlackRock's Global Executive and Global Operating Committees and Chairs the Government Relations Steering Committee. From the inception of the firm in 1988 to 2008, Ms. Novick headed the Global Client Group and oversaw global business development, marketing and client service across equity, fixed income, liquidity, alternative investment and real estate products for institutional and individual investors and their intermediaries worldwide. In her current role, Ms. Novick heads the firm's efforts globally on Government Relations and Public Policy.",
+      "picture": "1828_BlackRock Barbara Novick.jpg"
+    },
+    {
+      "title": "",
+      "firstname": "Michelle",
+      "surname": "Edkins",
+      "job_title": "Global Head of Investment Stewardship",
+      "email": "michelle.edkins@blackrock.com",
+      "tel": "Tel: +1 415-670-6541 ",
+      "country_name": "",
+      "LinkedIn_profile": "http://www.linkedin.com/pub/michelle-edkins/40/3b2/834",
+      "bio": "Michelle is Global Head of BlackRock's Investment Stewardship team of 31 specialists based in five key regions internationally. She is responsible for the team’s engagement and proxy voting activities in relation to the companies in which BlackRock invests on behalf of clients. In addition, she is an active participant in the public corporate governance debate and regularly speaks and writes on the importance of good stewardship for company performance. I am also Chairman of the Board of Governors of the International Corporate Governance Network and involved in a range of other initiatives in the field of corporate governance and responsible investment.",
+      "picture": "BlackRock Michelle Edkins.jpg"
+    },
+    {
+      "title": "",
+      "firstname": "Amra",
+      "surname": "Balic",
+      "job_title": "Investment Stewardship Director of EMEA",
+      "email": "amra.balic@blackrock.com",
+      "tel": "Tel: +44 020-7743-5281 ",
+      "country_name": "",
+      "LinkedIn_profile": "https://www.linkedin.com/pub/amra-balic/0/69a/3a3",
+      "bio": "Amra is a highly experienced finance professional with almost 17 years spent working on issues surrounding investors and investment decisions ranging from analysis of financial (credit) and non-financial issues (i.e. corporate governance, risk management), deal origination, investment appraisal and management. At BlackRock, Amra is responsible for leading BlackRock's corporate governance and responsible investment efforts in London, covering engagement and voting in Europe, the Middle East and Africa on behalf of BlackRock's clients globally.",
+      "picture": "4846_BlackRock Amra Balic.jpg"
+    },
+    {
+      "title": "Mr",
+      "firstname": "Ray ",
+      "surname": "Cameron",
+      "job_title": "Head of Stewardship Americas",
+      "email": "ray.cameron@blackrock.com",
+      "tel": "Tel: +1 212-810-5300",
+      "country_name": "",
+      "LinkedIn_profile": "https://www.linkedin.com/in/rayacameron/",
+      "bio": "Ray joined BlackRock as Head of Stewardship Americas in July 2018. Before that he was Head of Corporate Access at Stifel Financial Corporation. Ray received a Bachelor of Business Administration (BBA) from the University of Texas.",
+      "picture": "1552_BlackRock Ray Cameron.jpg"
+    },
+    {
+      "title": "",
+      "firstname": "Amar",
+      "surname": "Gill",
+      "job_title": "Investment Stewardship Director of Asia Pacific",
+      "email": "amar.gill@blackrock.com",
+      "tel": "Tel: +852 3903 2800",
+      "country_name": "",
+      "LinkedIn_profile": "https://www.linkedin.com/in/amar-gill-ba674a117/",
+      "bio": "Amar joined BlackRock in October 2018. Before that he was a Managing Director at CITIC CLSA Securities. Amar received a first in Politics, Philosophy and Economics (MA) from the University of Oxford.",
+      "picture": "1703_BlackRock Amar Gill.jpg"
+    },
+    {
+      "title": "",
+      "firstname": "Akitsugu",
+      "surname": "Era",
+      "job_title": "Head of Corporate Governance (BlackRock Japan)",
+      "email": "akitsugu.era@blackrock.com",
+      "tel": "Tel: +81 367 034 100",
+      "country_name": "",
+      "LinkedIn_profile": "https://www.linkedin.com/in/akitsugu-era-03a65128/",
+      "bio": "Akitsugu Era is Head of Corporate Governance at BlackRock Japan. Before joining BlackRock, he worked as a Corporate Governance Analyst for Nikko Asset Management.",
+      "picture": "1007_BlackRock Akitsugu Era.jpg"
+    },
+    {
+      "title": "",
+      "firstname": "Alec",
+      "surname": "Castellanos",
+      "job_title": "Vice President of Investment Stewardship",
+      "email": "alec.castellanos@blackrock.com",
+      "tel": "Tel: +1 415-670-2000",
+      "country_name": "",
+      "LinkedIn_profile": "https://www.linkedin.com/in/aleccastellanos/",
+      "bio": "Alec Castellanos joined BlackRock in 2015 as Vice President of Investment Stewardship. Before that, he spent ten years with Glass Lewis in a variety of roles, spending his last two years with the proxy adviser as Manager of Research and Voting Operations. He holds a BA in Political Science, History and Communications from the University of California.",
+      "picture": "8925_BlackRock Alec Castellanos.jpg"
+    },
+    {
+      "title": "",
+      "firstname": "Manuel",
+      "surname": "Isaza",
+      "job_title": "Vice President of Investment Stewardship",
+      "email": "manuel.isaza@blackrock.com",
+      "tel": "Tel: +44 020 7743 3000",
+      "country_name": "",
+      "LinkedIn_profile": "https://www.linkedin.com/in/manuelisaza/",
+      "bio": "Manuel Isaza has been vice president of investment stewardship at BlackRock since March 2017. Before taking up this role, he was Associate Director at BMO Global Asset Management, and before that he was with Hermes as Manager of Governance and SRI Corporate Engagement. He holds a Master's Degree in Business from ESCP Europe.",
+      "picture": "5382_BlackRock Manuel Isaza.jpg"
+    },
+    {
+      "title": "",
+      "firstname": "Jennifer",
+      "surname": "Law",
+      "job_title": "Vice President of Investment Stewardship",
+      "email": "jennifer.law@blackrock.com",
+      "tel": "Tel: +44 020 7743 3000",
+      "country_name": "",
+      "LinkedIn_profile": "https://www.linkedin.com/pub/jennifer-law/29/153/7aa",
+      "bio": "Jennifer became Vice President of Investment Stewardship at BlackRock in 2007. Before that she was an Investment Representative at BMO. Jennifer has a masters in Candidate, Diplomacy and International Strategy from The London School of Economics and Political Science.",
+      "picture": "6871_BlackRock Jennifer Law.jpg"
+    },
+    {
+      "title": "",
+      "firstname": "Deno",
+      "surname": "Marcum",
+      "job_title": "Vice President of Investment Stewardship",
+      "email": "deno.marcum@blackrock.com",
+      "tel": "Tel: +1 415-670-6541",
+      "country_name": "",
+      "LinkedIn_profile": "https://www.linkedin.com/in/denomarcum/",
+      "bio": "Deno Marcum is Vice President of Investment Stewardship, based at BlackRock's San Francisco Bay Area offices. He has responsibilities in the areas of proxy voting, corporate governance and responsible investment. He has been with BlackRock in 2009, holding a variety of roles in that time. He was educated at the University of Wyoming.",
+      "picture": "2129_BlackRock Deno Marcum.jpg"
+    },
+    {
+      "title": "",
+      "firstname": "Jessica",
+      "surname": "McDougall",
+      "job_title": "Vice President of Investment Stewardship",
+      "email": "jessica.mcdougall@blackrock.com",
+      "tel": "Tel: +1 212-810-5300",
+      "country_name": "",
+      "LinkedIn_profile": "https://www.linkedin.com/in/jessicamcdougall/",
+      "bio": "Jessica McDougall became an Investment Stewardship Associate with BlackRock in January 2017. Before that, she was with TIAA for four years, spending the later half of that time in Stewardship and Corporate Governance. She holds a BA in English from the University of Virginia.",
+      "picture": "9162_BlackRock Jessica McDougall.jpg"
+    },
+    {
+      "title": "",
+      "firstname": "Shannon",
+      "surname": "Nelson",
+      "job_title": "Vice President of Investment Stewardship",
+      "email": "shannon.nelson@blackrock.com",
+      "tel": "Tel: +1 212-810-5300",
+      "country_name": "",
+      "LinkedIn_profile": "https://www.linkedin.com/in/shnelson7/",
+      "bio": "Shannon Nelson joined BlackRock's investment stewardship team as a vice president in 2019. She had previously worked at BlackRock as an associate in institutional sales, maintaining relationships with investors such as public and private pension plans, but left that role in 2014 to work at the Federal Reserve Bank of New York.",
+      "picture": "1095_BlackRock Shannon Nelson.jpg"
+    },
+    {
+      "title": "",
+      "firstname": "Danielle",
+      "surname": "Sugarman",
+      "job_title": "Vice President of Investment Stewardship",
+      "email": "danielle.sugarman@blackrock.com",
+      "tel": "Tel: +1 212-810-5300",
+      "country_name": "",
+      "LinkedIn_profile": "https://www.linkedin.com/in/danielle-sugarman-28b7656/",
+      "bio": "Danielle Sugarman joined BlackRock in March 2017 as Vice President of Investment Stewardship. Before that, she was Associate Program Officer with the Robertson Foundation, helping to manage the foundation's board directed and environmental portfolios. She holds a BA in History and Political Science from Columbia University in the City of New York, and a JD from the University of Pennsylvania Law School.",
+      "picture": "shadow.jpg"
+    },
+    {
+      "title": "",
+      "firstname": "Eric",
+      "surname": "Shostal",
+      "job_title": "Vice President of Investment Stewardship Communications",
+      "email": "eric.shostal@blackrock.com",
+      "tel": "Tel: +1 212-810-5300",
+      "country_name": "",
+      "LinkedIn_profile": "https://www.linkedin.com/in/eric-shostal-3829509/",
+      "bio": "Eric Shostal is Vice President of Investment Stewardship Communications at BlackRock, a post he took up in January 2017. Before joining BlackRock, he was Senior Corporate Governance Analyst, Proxy Voting Manager and ESG Integration Specialist at the New York State Common Retirement Fund. Before that, he was Head of Corporate Sustainability & ESG Proxy Research at ISS from 2004 to 2011.",
+      "picture": "2121_BlackRock Eric Shostal.jpg"
+    },
+    {
+      "title": "",
+      "firstname": "Tanya",
+      "surname": "Levy-Odom",
+      "job_title": "Director, Investment Stewardship",
+      "email": "tanya.levyodom@blackrock.com",
+      "tel": "Tel: +1 212-810-5300",
+      "country_name": "",
+      "LinkedIn_profile": "https://www.linkedin.com/in/tanya-levy-odom-61996a4/",
+      "bio": "Tanya Levy-Odom joined BlackRock's investment stewardship team as a director in 2019. She came to BlackRock from strategic advisory and communications firm Rose & Company, according to her LinkedIn profile. She also worked in investor relations at Meredith Corp and in equity research at asset manager AllianceBernstein Holding LP.",
+      "picture": "shadow.jpg"
+    },
+    {
+      "title": "",
+      "firstname": "Stephen",
+      "surname": "Monnier",
+      "job_title": "Director, Investment Stewardship",
+      "email": "stephen.monnier@blackrock.com",
+      "tel": "Tel: +44 20 7743 3000",
+      "country_name": "",
+      "LinkedIn_profile": "https://www.linkedin.com/in/stephen-monnier-44877b7/",
+      "bio": "Stephen Monnier became BlackRock's Director of Investment Stewardship in 2015, having been the firm's Director of Operational Risk since 2012. Before joining BlackRock, he was a Senior Business Manager with BNY Mellon. He has a Bachelor's degree in Business, Accounting, Banking and Finance from Griffith University, and an Msc in Business Strategy and the Environment from Birkbeck, University of London.",
+      "picture": "1299_BlackRock Stephen Monnier.jpg"
+    },
+    {
+      "title": "",
+      "firstname": "Shinbo",
+      "surname": "Won",
+      "job_title": "Director, Investment Stewardship",
+      "email": "shinbo.won@blackrock.com",
+      "tel": "Tel: +65 6411 3000",
+      "country_name": "",
+      "LinkedIn_profile": "https://www.linkedin.com/in/shinbowon/",
+      "bio": "Shinbo Won joined BlackRock in August 2017 as Director of Investment Stewardship, and is based in Singapore. Before joining BlackRock, he was with ISS for nearly four years, first as Head of Korea Research and then as Executive Director and Head of Asia ex-Japan Research.",
+      "picture": "2037_BlackRock Shinbo Won.jpg"
+    },
+    {
+      "title": "",
+      "firstname": "Mack",
+      "surname": "Abbot",
+      "job_title": "Investment Stewardship Associate",
+      "email": "mack.abbot@blackrock.com",
+      "tel": "Tel: +1 212-810-5300",
+      "country_name": "",
+      "LinkedIn_profile": "https://www.linkedin.com/in/mackabbot/",
+      "bio": "From January 2018, Mack Abbot joined BlackRock as an Investment Stewardship Associate. He graduated from the University of Virginia Darden School of Business with a Master's degree in Business Administration in 2017.",
+      "picture": "1424_BlackRock Mack Abbot.jpg"
+    },
+    {
+      "title": "",
+      "firstname": "Abbe",
+      "surname": "Billings",
+      "job_title": "BlackRock Investment Stewardship - Global Team",
+      "email": "abbe.billings@blackrock.com",
+      "tel": "Tel: +1 212-810-5300",
+      "country_name": "",
+      "LinkedIn_profile": "https://www.linkedin.com/in/abbebillings/",
+      "bio": "Abbe Billings is a member of BlackRock's Global Investment Stewardship Team. The Investment Stewardship team is responsible for engagement and proxy voting activities in relation to the companies in which BlackRock invests on behalf of clients. She holds a BA in Communications and Business Management from the University of Tennessee-Knoxville.",
+      "picture": "1962_BlackRock Abbe Billings.jpg"
+    },
+    {
+      "title": "",
+      "firstname": "Maël",
+      "surname": "Gallène",
+      "job_title": "Associate - Investment Stewardship",
+      "email": "mael.gallene@blackrock.com",
+      "tel": "Tel: +44 20 7743 3000",
+      "country_name": "",
+      "LinkedIn_profile": "https://www.linkedin.com/in/maelgallene/",
+      "bio": "Maël Gallène joined BlackRock's Investment Stewardship team at the start of 2017. Before that, he had worked in a variety of roles at a number of companies including, BNP Paribas and Mazars.",
+      "picture": "1174_BlackRock Mael Gallene.jpg"
+    },
+    {
+      "title": "",
+      "firstname": "Kerry",
+      "surname": "Flanagan",
+      "job_title": "EMEA Stewardship Assistant",
+      "email": "kerry.flanagan@blackrock.com",
+      "tel": "Tel: +44 20-7743-5281",
+      "country_name": "",
+      "LinkedIn_profile": "https://www.linkedin.com/in/kerry-flanagan-22ba6670/",
+      "bio": "Kerry Flanagan has been an administrative assistant with BlackRock's EMEA Investment Stewardship Team since late-2016. Before that, she was a Travel Coordinator with Eversheds.",
+      "picture": "2074_BlackRock Kerry Flanagan.jpg"
+    },
+    {
+      "title": "",
+      "firstname": "Sandra",
+      "surname": "Boss",
+      "job_title": "Global Head of Investment Stewardship",
+      "email": "sandra.boss@blackrock.com",
+      "tel": "Tel: +44 20 7743 3000",
+      "country_name": "",
+      "LinkedIn_profile": "https://www.linkedin.com/in/sandra-boss-3ba3938b/",
+      "bio": "Sandra \"Sandy\" Boss joined BlackRock in early May 2020 as Senior Managing Director and Global Head of Investment Stewardship. She is based in London. Before joining BlackRock she held roles with the Bank of England, as chair of a risk committee and external member of a regulatory committee, and as a Senior Partner at McKinsey & Company.",
+      "picture": "7387_BlackRock Sandra Boss.jpg"
+    },
+    {
+      "title": "",
+      "firstname": "Hilary",
+      "surname": "Novik Sandberg",
+      "job_title": "Investment Stewardship Associate",
+      "email": "hilary.noviksandberg@blackrock.com",
+      "tel": "Tel: +1 212 810 5300",
+      "country_name": "",
+      "LinkedIn_profile": "https://www.linkedin.com/in/hilary-novik-sandberg-b905a51a/",
+      "bio": "Hilary became an Investment Stewardship Associate at BlackRock in 2019. Before that she was a Senior Analyst of Global Energy and Natural Resources at Eurasia Group. Hilary has a Masters from The George Washington University and a degree in Political Science from Trinity College-Hartford.",
+      "picture": "1140_BlackRock Hilary Novik Sandberg.jpg"
+    }
+  ],
+  "tableBoards": {
+    "name": "BlackRock US",
+    "board_size_min": "",
+    "board_size_max": "",
+    "classified_board": "No",
+    "min_board_meetings": "75%",
+    "ed_max_board_mandates": "2",
+    "ned_max_board_mandates": "4",
+    "frequency_reelection": "",
+    "combinedCEO_chairman": "Case-by-case",
+    "executive_chairman": "Case-by-case",
+    "ceo_becoming_chairman": "",
+    "board_structure": "BlackRock typically defers to the board in setting the appropriate size and believes directors are generally in the best position to assess the optimal board size to ensure effectiveness. However, the firm may oppose boards that appear too small to allow for effective shareholder representation or too large to function efficiently.",
+    "classified_boards_text": "BlackRock believe that directors should be re-elected annually and that classification of the board generally limits shareholders’ rights to regularly evaluate a board’s performance and select directors. While BlackRock will typically support proposals requesting board de-classification, they may make exceptions, should the board articulate an appropriate strategic rationale for a classified board structure, such as when a company needs consistency and stability during a time of transition, e.g. newly public companies or companies undergoing a strategic restructuring. A classified board structure may also be justified at non-operating companies in certain circumstances. BlackRock would, however, expect boards with a classified structure to periodically review the rationale for such structure and consider when annual elections might be appropriate. \r\n\r\n<br/><br/>Without a voting mechanism to immediately address concerns of a specific director, BlackRock may choose to vote against or withhold votes from the available slate of directors by default.",
+    "general_description": "",
+    "ceo_chairman_text": "BlackRock believes that independent leadership is important in the board room. In the U.S. there are two commonly accepted structures for independent board leadership: 1) an independent chairman; or 2) a lead independent director when the roles of chairman and CEO are combined.<br />\r\n<br />\r\nIn the absence of a significant governance concern, we defer to boards to designate the most appropriate leadership structure to ensure adequate balance and independence.<br />\r\n<br />\r\nIn the event that the board chooses a combined chair/ CEO model, we generally support the designation of a lead independent director if they have the power to: 1) provide formal input into board meeting agendas; 2) call meetings of the independent directors; and 3) preside at meetings of independent directors. Furthermore, while we anticipate that most directors will be elected annually, we believe an element of continuity is important for this role for an extended period of time to provide appropriate leadership balance to the chair / CEO.",
+    "ceo_becoming_chairman_text": "",
+    "exec_chairman_text": "BlackRock assess the experience and governance track record of the independent chairman or lead independent director to understand capability and suitability to effectively and constructively lead a board. Their expectations of an individual in this role include, but are not limited to: being available to serve as an advisor to the CEO; contributing to the oversight of CEO and management succession planning; and being available to meet with shareholders when they have highly sensitive concerns about management or corporate governance issues.",
+    "board_independence_text": "BlackRock expects a majority of the directors on the board to be independent. In addition, all members of key committees, including audit, compensation, and nominating/ governance committees, should be independent. BlackRock's view of independence may vary slightly from listing standards.",
+    "definition_Independence": "Common impediments to independence in the U.S. may include:<br/>\r\n-Employment as a senior executive by the company or a subsidiary within the past five years<br/>\r\n-An equity ownership in the company in excess of 20%<br/>\r\n-Having any other interest, business, or relationship which could, or could reasonably be perceived to, materially interfere with the director’s ability to act in the best interests of the company",
+    "NED_text": "",
+    "SID_text": "BlackRock generally consider the designation of a lead independent director as an acceptable alternative to an independent chair if the lead independent director has a term of at least one year and has powers to: provide formal input into board meeting agendas; call meetings of the independent directors; and preside at meetings of independent directors.",
+    "NED_Meetings_text": "",
+    "elections": "In general, BlackRock supports the election of directors as recommended by the board in uncontested elections. However, they believe that when a company is not effectively addressing a material issue, its directors should be held accountable. BlackRock may withhold votes from directors or members of particular board committees in certain situations, as indicated below.",
+    "board_meetings_text": "BlackRock may consider voting against a director who has a pattern of poor attendance at combined board and applicable key committee meetings. Excluding exigent circumstances, BlackRock generally considers attendance at less than 75% of the combined board and applicable key committee meetings by a board member to be poor attendance.",
+    "competence_text": "BlackRock believes it is beneficial for new directors to be brought onto the board periodically to refresh the group’s thinking and to ensure both continuity and adequate succession planning.",
+    "board_evaluation": "BlackRock encourages boards to periodically renew their membership to ensure relevant skills and experience within the boardroom. To this end, regular performance reviews and skills assessments should be conducted by the nominating/ governance committee. BlackRock encourages boards to disclose their views on the process by which boards evaluate themselves and any significant outcomes of the evaluation process, without divulging inappropriate and/or sensitive details.",
+    "removal_of_directors": "",
+    "indemnification": "BlackRock generally support reasonable but balanced protection of directors and officers. They believe that failure to provide protection to directors and officers might severely limit a company’s ability to attract and retain competent leadership. BlackRock generally support proposals to provide indemnification that is limited to coverage of legal expenses. However, they may oppose proposals that provide indemnity for: breaches of the duty of loyalty; transactions from which a director derives an improper personal benefit; and actions or omissions not in good faith or those that involve intentional misconduct.",
+    "board_responsiveness": "BlackRock may withhold votes from the independent chair or lead independent director and members of the governance committee, where a board fails to implement shareholder proposals that receive a majority of votes cast at a prior shareholder meeting, and the proposals, in their view, have a direct and substantial impact on shareholders’ fundamental rights or long-term economic interests. ",
+    "professional_dev": "",
+    "succession_planning": "BlackRock may withhold votes from the independent chair or lead independent director, members of the nominating committee, and/or the longest tenured director(s), where they observe failure to promote adequate board succession planning. There should be a robust CEO and senior management succession plan in place at the board level that is reviewed and updated on a regular basis. BlackRock expects succession planning to cover both long-term planning consistent with the strategic direction of the company and identified leadership needs over time as well as short-term planning in the event of an unanticipated executive departure. The firm encourages the company to explain its executive succession planning process, including where accountability lies within the boardroom for this task, without prematurely divulging sensitive information commonly associated with this exercise.",
+    "Diversity": "Blackrock expects boards to be comprised of a diverse selection of individuals who bring their personal and professional experiences to bear in order to create a constructive debate of competing views and opinions in the boardroom. BlackRock recognize that diversity has multiple dimensions. In identifying potential candidates, boards should take into consideration the full breadth of diversity including personal factors, such as gender, ethnicity and age; as well as professional characteristics, such as a director's industry, area of expertise, and geographic location. In addition to other elements of diversity, BlackRock encourage companies to have at least two women directors on their board.<br/>\r\nBlackRock encourages boards to disclose their views on:<br/>\r\n-The mix of competencies, experience, and other qualities required to effectively oversee and guide management in light of the states long-term strategy of the company<br/>\r\n-The consideration given to board diversity, including, but not limited to, gender, ethnicity, race, age, experience, geographic location, skills, and perspective in the nomination process.<br/><br/>\r\nTo the extent that BlackRock believes that a company has not adequately accounted for diversity in its board composition within a reasonable timeframe, they may vote against the nominating/governance committee for an apparent lack of commitment to board effectiveness.",
+    "term_limits": "While BlackRock supports regular board refreshment, the firm is not opposed in principle to long-tenured directors, nor does it believe that long board tenure is necessarily an impediment to director independence. A variety of director tenures within the boardroom can be beneficial to ensure board quality and continuity of experience. BlackRock's primary concern is that board members are able to contribute effectively as corporate strategy evolves and business conditions change, and that all directors, regardless of tenure, demonstrate appropriate responsiveness to shareholders. The firm acknowledges that no single person can be expected to bring all relevant skill sets to a board; at the same time, the firm generally does not believe it is necessary or appropriate to have any particular director on the board solely by virtue of a singular background or specific area of expertise.",
+    "contested_election_of_directors": "The details of contested elections, or proxy contests, are assessed on a case-by-case basis. BlackRock evaluates a number of factors, which may include: the qualifications of the dissident and management candidates; the validity of the concerns identified by the dissident; the viability of both the dissident’s and management’s plans; the likelihood that the dissident’s solutions will produce the desired change; and whether the dissident represents the best option for enhancing long-term shareholder value.",
+    "employee_representatives": "",
+    "overboarding": "BlackRock will consider voting against a director who serves on an excess number of boards, which may limit his/ her capacity to focus on each board’s requirements. A director who is the CEO of a public company may serve on a total of two public boards before being considered overboarded, while for other directors the number is four.",
+    "conflicts_of_interest": "There are matters for which the board has responsibility that may involve a conflict of interest for executives or for affiliated directors. BlackRock believes that shareholders’ interests are best served when the board forms committees of fully independent directors to deal with such matters. In many markets, these committees of the board specialize in audit, director nominations and compensation matters. An ad hoc committee might also be formed to decide on a special transaction, particularly one with a related party or to investigate a significant adverse event.**",
+    "board_independence": "Majority",
+    "term_age_limit": "",
+    "discharge_board": "",
+    "cyber_security": "",
+    "speculative_investments": "",
+    "supervisory_board": "",
+    "other": "",
+    "board_disclosure": "",
+    "diversity_quickview": "2 Females",
+    "regional_investor": "",
+    "global_investor": "BlackRock Global"
+  },
+  "tableCommittes": {
+    "name": "BlackRock US",
+    "investor_profile_id": 45,
+    "audit_committee": "Yes",
+    "nomination_commttee": "Yes",
+    "remuneration_committee": "Yes",
+    "risk_committee": "",
+    "auditor_rotation": "",
+    "non_audit_work": "",
+    "auditor_indemnification": "",
+    "audit_structure": "Where the board has failed to exercise oversight with regard to accounting practices or audit oversight, we will consider voting against the current audit committee, and any other members of the board who may be responsible. For example, this may apply to members of the audit committee during a period when the board failed to facilitate quality, independent auditing if substantial accounting irregularities suggest insufficient oversight by that committee.",
+    "audit_reporting": "BlackRock look to the audit committee report for insight into the scope of the audit committee’s responsibilities, including an overview of audit committee processes, issues on the audit committee’s agenda and key decisions taken by the audit committee. BlackRock take particular note of cases involving significant financial restatements or material weakness disclosures, and they expect timely disclosure and remediation of accounting irregularities.",
+    "nomination_structure": "BlackRock may consider voting against the chair of the nominating/governance committee, or where no chair exists, the nominating committee member with the longest tenure, where the board is not composed of a majority of independent directors. However, this would not apply in the case of a controlled company.<br />\r\n<br />\r\nBlackRock may consider voting against the chair of the nominating/governance committee, or where no chair exists, the nominating committee member with the longest tenure, where board member(s) at the most recent election of directors have received withhold votes from more than 30% of shares voted and the board has not taken appropriate action to respond to shareholder concerns. This may not apply in cases where BlackRock did not support the initial withhold vote.",
+    "nomination_nominees": "",
+    "nomination_conflicts": "",
+    "remuneration_structure": "BlackRock may consider voting against members of the compensation committee during a period in which executive compensation appears excessive relative to performance and peers, and where it believes the compensation committee has not already substantially addressed this issue.",
+    "risk_structure": "",
+    "engagement_committee": "",
+    "audit_internal": "",
+    "audit_external_rotation": "From time to time, shareholder proposals may be presented to promote auditor independence or the rotation of audit firms. BlackRock may support these proposals when they are consistent with their views.",
+    "audit_external_indemnification": "",
+    "audit_external_ratification": "BlackRock seek to hold the audit committee of the board responsible for overseeing the management of the audit function at a company, and may withhold votes from the audit committee’s members where the board has failed to facilitate quality, independent auditing. The integrity of financial statements depends on the auditor effectively fulfilling its role. To that end, BlackRock favor an independent auditor. In addition, to the extent that an auditor fails to reasonably identify and address issues that eventually lead to a significant financial restatement, or the audit firm has violated standards of practice that protect the interests of shareholders, BlackRock may also vote against ratification.",
+    "audit_non_audit": "",
+    "audit_external_remuneration": "",
+    "annual_report": "",
+    "general_audit_issues": "",
+    "commitees_general": "BlackRock may withhold votes from an insider or affiliated outsider who sits on the board’s audit, compensation, nominating or governance committees, which they believe generally should be entirely independent. However, BlackRock will examine a board’s complete profile when questions of independence arise prior to casting a withhold vote for any director.",
+    "remuneration_report": "BlackRock recognizes the critical importance of financial statements which should provide a complete and accurate picture of a company’s financial condition. **",
+    "risk_risk_committee": "Companies should have an established process for identifying, monitoring, and managing key risks. Independent directors should have ready access to relevant management information and outside advice, as appropriate, to ensure they can properly oversee risk management. BlackRock encourage companies to provide transparency around risk measurement, mitigation, and reporting to the board. They are particularly interested in understanding how risk oversight processes evolve in response to changes in corporate strategy and / or shifts in the business and related risk environment. Comprehensive disclosure provides investors with a sense of the company’s long-term operational risk management practices and, more broadly, the quality of the board’s oversight. In the absence of robust disclosures, BlackRock may reasonably conclude that companies are not adequately managing risk.",
+    "shareholder_engagement": "",
+    "regional_investor": "",
+    "global_investor": "BlackRock Global"
+  },
+  "tableRemuneration": {
+    "name": "BlackRock US",
+    "advisory_vote": "Case-by-case",
+    "Frequency_SOP": "",
+    "stock_ownership_requirement": "",
+    "mandatory_holding_period": "",
+    "mandatory_holding_period_text": "",
+    "NED_Shareholding": "Case-by-Case**",
+    "clawback": "For",
+    "remuneration_consultant_top": "",
+    "disclosure": "For",
+    "severance": "Case-by-case",
+    "remuneration_general": "Executive compensation must not be excessive relative to performance and peers. BlackRock believes that compensation committees are in the best position to make compensation decisions. Shareholders should take an annual view on executive pay, and express their concerns through their vote on the members of the compensation committee. Therefore, the Say on Pay vote is not necessary every year. BlackRock oppose plans which contain 'evergreen' provisions.",
+    "advisory_vote_text": "BlackRock will generally support triennial pay frequency votes, but we defer to the board to determine the appropriate timeframe upon which pay should be reviewed. In evaluating pay, we believe that the compensation committee is responsible for constructing a plan that appropriately incentivizes executives for long-term value creation, utilizing relevant metrics and structure to ensure overall pay and performance alignment. In a similar vein, we defer to the board to establish the most appropriate timeframe for review of pay structure, absent a change in strategy that would suggest otherwise.<br/>\r\nHowever, we may support an annual pay frequency vote in some situations, for example, where we conclude that a company has failed to align pay with performance. In these circumstances, we will also consider voting against the compensation committee members.<br/><br/>\r\nWe expect compensation committees to consider and respond to the shareholder voting results of relevant proposals at previous years’ annual meetings, and other feedback received from shareholders, as they evaluate compensation plans. At the same time, compensation committees should ultimately be focused on incentivizing long-term shareholder value creation and not\r\nnecessarily on achieving a certain level of support on Say on Pay at any particular shareholder meeting.<br/><br/>\r\nWe may determine to vote against the election of compensation committee members and/or Say on Pay proposals in certain instances, including but not limited to when:<br/>\r\n- We identify a misalignment over time between target pay and/or realizable compensation and company performance as reflected in financial and operational performance and/or shareholder returns;<br/>\r\n- We determine that a company has not persuasively demonstrated the connection between strategy, long-term shareholder value creation, and incentive plan design;<br/>\r\n- We determine that compensation is excessive relative to peers without appropriate rationale or explanation, including the appropriateness of the company’s selected peers;<br/>\r\n- We observe an over-reliance on discretion or extraordinary pay decisions to reward executives, without clearly demonstrating how these decisions are aligned with shareholders’ interests;<br/>\r\n- We determine that company disclosure is insufficient to undertake our pay analysis; and/or<br/>\r\n- We observe a lack of board responsiveness to significant investor concern on executive compensation issues.",
+    "frequency_advisory_vote": "Triennial",
+    "internal_comparison": "",
+    "remuneration_benchmark": "BlackRock understand that compensation committees are undertaking their analysis in the context of a competitive marketplace for executive talent. BlackRock acknowledge that the use of peer group evaluation by compensation committees can help ensure competitive pay; however BlackRock are concerned about the potential ratchet effect of explicit benchmarking to peers. BlackRock therefore believe that companies should use peer groups to maintain an awareness of peer pay levels and practices so that pay is market competitive, while mitigating potential ratcheting of pay that is disconnected from actual performance. BlackRock expect companies to select peers that are broadly comparable to the company in question, based on objective criteria that are directly relevant to setting competitive compensation; BlackRock evaluate peer group selection based on factors including, but not limited to, business size, relevance, complexity, risk profile, and/or geography. ",
+    "performance_eval": "BlackRock believes that there should be a clear link between variable pay and company performance that drives shareholder returns. We are not supportive of one-off or special bonuses unrelated to company or individual performance. We support incentive plans that foster the sustainable achievement of results relative to competitors. The vesting timeframes associated with incentive plans should facilitate a focus on long-term value creation.**",
+    "clawback_text": "BlackRock generally favors recoupment from any senior executive whose compensation was based on faulty financial reporting or deceptive business practices. In addition to fraudulent acts, BlackRock also favors recoupment from any senior executive whose behavior caused direct financial harm to shareholders, reputational risk to the company, or resulted in a criminal investigation, even if such actions did not ultimately result in a material restatement of past results. This includes, but is not limited to, settlement agreements arising from such behavior and paid for directly by the company. The firm typically supports shareholder proposals on these matters unless the company already has a robust claw back policy that sufficiently addresses our concerns.",
+    "severance_text": "Compensation committees should guard against contractual arrangements that would entitle executives to material compensation for early termination of their contract. **",
+    "severance_change_control": "",
+    "golden_hello": "",
+    "golden_parachute": "BlackRock generally views golden parachutes as encouragement to management to consider transactions that might be beneficial to shareholders. However, a large potential pay-out under a golden parachute arrangement also presents the risk of motivating a management team to support a sub-optimal sale price for a company.<br/>\r\nWhen determining whether to support or oppose an advisory vote on a golden parachute plan, we normally support the plan unless it appears to result in payments that are excessive or detrimental to shareholders. In evaluating golden parachute plans, BlackRock may consider several factors, including:<br/>\r\n-Whether we believe that the triggering event is in the best interest of shareholders<br/>\r\n-Whether management attempted to maximize shareholder value in the triggering event<br/>\r\n-The percentage of total premium or transaction value that will be transferred to the management team, rather than shareholders, as a result of the golden parachute payment<br/>\r\n-Whether excessively large excise tax gross-up payments are part of the pay-out<br/>\r\n-Whether the pay package that serves as the basis for calculating the golden parachute payment was reasonable in light of performance and peers<br/>\r\n-Whether the golden parachute payment will have the effect of rewarding a management team that has failed to effectively manage the company<br/>\r\nIt may be difficult to anticipate the results of a plan until after it has been triggered; as a result, BlackRock\r\nmay vote against a golden parachute proposal even if the golden parachute plan under review was\r\napproved by shareholders when it was implemented.<br/>\r\nWe may support shareholder proposals requesting that implementation of such arrangements require\r\nshareholder approval. We generally support proposals requiring shareholder approval of plans that\r\nexceed 2.99 times an executive’s current salary and bonus, including equity compensation.",
+    "relocation_benefits": "",
+    "remuneration_consultants": "",
+    "service_contracts": "",
+    "retention_plans": "",
+    "pensions": "BlackRock may support shareholder proposals requesting to put extraordinary benefits contained in Supplemental Executive Retirement Plans (“SERP”) agreements to a shareholder vote unless the company’s executive pension plans do not contain excessive benefits beyond what is offered under employee-wide plans.",
+    "golden_coffins": "",
+    "equity_past_retirement": "",
+    "required_disclosure": "Companies should explicitly disclose how incentive plans reflect strategy and incorporate long-term shareholder value drivers; this discussion should include the commensurate metrics and timeframes by which shareholders should assess performance.<br/>\r\nBlackRock expects full disclosure of the performance measures selected and the rationale for their selection.<br/>\r\nBlackRock does not discourage compensation structures that differ from market practice. However, where compensation practices differ substantially from market practice, e.g. in the event of\r\nunconventional incentive plan design or extraordinary decisions made in the context of transformational corporate events or turnaround situations, we expect clear disclosure explaining how\r\nthe approach taken is in shareholders’ best interests.",
+    "other": "",
+    "base_salary": "",
+    "exec_pay_restrictions": "BlackRock do not believe that arbitrary limits on potential compensation are necessarily in shareholders’ best interests if those limits have the potential to cap performance. However, BlackRock expect compensation committees to ensure that incentive plans do not incentivize excessive risk taking beyond the company’s determined risk appetite and that rewards are reasonable in light of returns to shareholders.",
+    "bonus_annual": "",
+    "bonus_LTIP": "",
+    "bonus_short_term": "",
+    "transaction_bonus": "",
+    "equity_plans": "BlackRock supports equity plans that align the economic interests of directors, managers, and other employees with those of shareholders. BlackRock believe that boards should establish policies prohibiting the use of equity awards in a manner that could disrupt the intended alignment with shareholder interests (e.g. the use of stock as collateral for a loan; the use of stock in a margin account; the use of stock [or an unvested award] in hedging or derivative transactions). We may support shareholder proposals requesting the establishment of such policies.  BlackRock's evaluation of equity compensation plans is based on a company’s executive pay and performance relative to peers and whether the plan plays a significant role in a pay-for-performance disconnect.<br/><br/>\r\nWe do not set forth a preference between cash, restricted stock, performance based equity awards, and stock options, amongst other compensation vehicles. We acknowledge that each may have an\r\nappropriate role in recruiting and retaining executives, in incentivizing behavior and performance, and in aligning shareholders’ and executives’ interests. Compensation committees should clearly disclose the rationale behind their selection of pay vehicles and how these fit with intended incentives. We also\r\nobserve that different types of awards exhibit varying risk profiles, and the risks associated with pay plan design should be in line with the company’s stated strategy and risk appetite.",
+    "directors_shareholding": "",
+    "employee_benefit_401k": "",
+    "ESOP": "",
+    "Stock_purchase_plans": "BlackRock will typically support qualified ESPP proposals.",
+    "share_options": "",
+    "share_matching": "",
+    "director_compensation": "",
+    "performance_share_plan": "",
+    "value_sharing_plan": "",
+    "restricted_share_scheme": "",
+    "repricing_provisions": "BlackRock generally opposes plans that allow for repricing without shareholder approval. BlackRock may withhold votes from members of the compensation committee where the company has repriced options without contemporaneous shareholder approval.<br />\r\n<br />\r\nBlackRock believes that there may be legitimate instances where underwater options create an overhang on a company’s capital structure and a repricing or option exchange may be warranted. The firm will evaluate these instances on a case by case basis. BlackRock may support a request to reprice or exchange underwater options under the following circumstances:<br />\r\n• The company has experienced significant stock price decline as a result of macroeconomic trends, not individual company performance<br />\r\n• Directors and executive officers are excluded; the exchange is value neutral or value creative to shareholders; tax, accounting and other technical considerations have been fully contemplated<br />\r\n• There is clear evidence that absent repricing, the company will suffer serious employee incentive or retention and recruiting problems<br />\r\n<br />\r\nBlackRock may also support a request to exchange underwater options in other circumstances, if the firm determines that the exchange is in the best interest of shareholders.",
+    "option_expensing": "",
+    "accelerated_equity": "BlackRock may oppose plans that provide for the acceleration of vesting of equity awards even in situations where an actual change of control may not occur. BlackRock encourage companies to structure their change of control provisions to require the termination of the covered employee before acceleration or special payments are triggered.<br/>\r\nThe vesting time frames associated with incentive plans should\r\nfacilitate a focus on long-term value creation, as appropriate to that particular company.",
+    "burn_rate": "",
+    "equity_dilution": "",
+    "NED_remuneration": "BlackRock believes that compensation for directors should be structured to attract and retain the best possible directors, while also aligning their interests with those of shareholders. The firm believes director compensation packages that are based on the company’s long-term value creation and include some form of long-term equity compensation are more likely to meet this goal. In addition, BlackRock expects directors to build meaningful share ownership over time.",
+    "NED_Equity_plan": "BlackRock believe that companies should prohibit directors from engaging in transactions with respect to their long-term compensation that might disrupt the intended economic alignment between equity plan beneficiaries and shareholders.",
+    "NED_retirement_plan": "",
+    "non_financial_linked_comp": "",
+    "Evergreen": "BlackRock generally oppose plans that contain “evergreen” provisions, which allow for the unlimited increase of shares reserved without requiring further shareholder approval after a reasonable time period.",
+    "executive_compensation": "BlackRock believes that executive compensation plans should allow compensation committees to have discretion to make adjustments as a result of unintended outcomes from plans. Where discretion\r\nhas been used by the compensation committee we expect disclosure relating to how and why the discretion was used and further, how the adjusted outcome is aligned with the interests of shareholders.<br/>\r\n",
+    "OBRA": "Because the primary objective of these proposals is to preserve the deductibility of such compensation, we generally favour approval in order to preserve net income.\r\n",
+    "compensation_non_financial": "",
+    "loans_for_options": "",
+    "hedging_pledging_stock": "",
+    "regional_investor": "",
+    "global_investor": "BlackRock Global"
+  },
+  "tableStructure": {
+    "name": "BlackRock US",
+    "investor_profile_id": 45,
+    "authorise_repurchase": "",
+    "preferred_stock": "Against",
+    "stock_split": "For",
+    "issuance_preemptive": "",
+    "issuance_unequal": "Against",
+    "supermajority": "",
+    "dual_stock": "Against",
+    "manda": "Case-by-Case",
+    "related_party": "",
+    "manda_text": "BlackRock’s primary concern is the best long-term economic interests of shareholders. While merger, asset sales, and other special transaction proposals vary widely in scope and substance, they closely examine certain salient features in its analyses such as:<br />\r\n• The degree to which the proposed transaction represents a premium to the company’s trading price<br />\r\n• There should be a clear strategic, operational and/or financial rationale for the combination<br />\r\n• Unanimous board approval and arm’s-length negotiations are preferred<br />\r\n• BlackRock prefers transaction proposals that include the fairness opinion of a reputable financial adviser assessing the value of the transaction to shareholders in comparison to recent similar transactions.",
+    "related_party_text": "",
+    "memorandum_articles": "BlackRock may withhold votes from the independent chair or lead independent director and members of the governance committee, where a board amends the charter/articles/by-laws to entrench directors or to significantly reduce shareholder rights. When voting on a management or shareholder proposal to make changes to the charter/articles/by-laws, BlackRock will consider in part the company’s and/or proponent’s publicly stated rationale for the changes, the company’s governance profile and history, relevant jurisdictional laws, and situational or contextual circumstances which may have motivated the proposed changes, among other factors. We will typically support changes to the charter/articles/by-laws where the benefits to shareholders, including the costs of failing to make those changes, demonstrably outweigh the costs or risks of making such changes.<br />\r\n<br />\r\nBlackRock believes that shareholders should have the right to vote on key corporate governance matters, including on changes to governance mechanisms and amendments to the charter/articles/by-laws. The firm may vote against certain directors where changes to governing documents are not put to a shareholder vote within a reasonable period of time, in particular if those changes have the potential to impact shareholder rights. In cases where a board’s unilateral adoption of changes to the charter/ articles/ by-laws promotes cost and operational efficiency benefits for the company and its shareholders, BlackRock may support such action if it does not have a negative effect on shareholder rights or the company’s corporate governance structure.",
+    "transactions_general": "",
+    "share_issuance_text": "BlackRock considers industry-specific norms in our analysis of these proposals, as well as a company’s history with respect to the use of its common shares. Generally, BlackRock are predisposed to support a company if the board believes additional common shares are necessary to carry out the firm’s business. The most substantial concern they might have with an increase is the possibility of use of common shares to fund a poison pill plan that is not in the economic interests of shareholders.<br />\r\n<br />\r\nBlackRock generally supports proposals to increase or issue preferred stock in cases where the company specifies the voting, dividend, conversion, and other rights of such stock where the terms of the preferred stock appear reasonable.",
+    "share_issuance_preemptive": "Pre-emptive rights are a key protection for shareholders against the dilution of their interests.**",
+    "issuance_unequal_voting": "",
+    "share_repurchase_text": "",
+    "adjustments_to_par": "",
+    "treasury_shares": "",
+    "dividends": "",
+    "dual_stock_structure": "BlackRock believes that shareholders should be entitled to voting rights in proportion to their economic interests. We believe that companies that look to add or already have dual or multiple class share structures should review these structures on a regular basis or as company circumstances change. Companies should receive shareholder approval of their capital structure on a periodic basis via a management proposal on the company’s proxy. The proposal should give unaffiliated shareholders the opportunity to affirm the current structure or establish mechanisms to end or phase out controlling structures at the appropriate time, while minimizing costs to shareholders.<br/>\r\nIn their letter on unequal voting structures, BlackRock articulates their view that \"one vote for one share\" is the preferred structure for publicly-traded companies. They also recognize the potential benefits of dual class shares to newly public companies as they establish themselves; however, BlackRock believes that these structures should have a specific and limited duration.",
+    "blank_cheque": "BlackRock frequently oppose proposals requesting authorization of a class of preferred stock with unspecified voting, conversion, dividend distribution, and other rights (“blank check” preferred stock) because they may serve as a transfer of authority from shareholders to the board as a possible entrenchment device. BlackRock generally view the board’s discretion to establish voting rights on a when-issued basis as a potential anti-takeover device, as it affords the board the ability to place a block of stock with an investor sympathetic to management, thereby foiling a takeover bid without a shareholder vote. Nonetheless, BlackRock may support the proposal where the company:<br />\r\n• Appears to have a legitimate financing motive for requesting blank check authority<br />\r\n• Has committed publicly that blank check preferred shares will not be used for anti-takeover purposes<br />\r\n• Has a history of using blank check preferred stock for financings<br />\r\n• Has blank check preferred stock previously outstanding such that an increase would not necessarily provide further anti-takeover protection but may provide greater financing flexibility",
+    "recap_plans": "",
+    "stock_splits_text": "BlackRock generally supports stock splits that are not likely to negatively affect the ability to trade shares or the economic value of a share.",
+    "reverse_splits": "BlackRock generally supports reverse stock splits that are designed to avoid delisting or to facilitate trading in the stock, where the reverse split will not have a negative impact on share value. In the event of a proposal for a reverse split that would not also proportionately reduce the company’s authorized stock, BlackRock applies the same analysis it would use for a proposal to increase authorized stock.",
+    "general_corp_structure": "",
+    "appraisal_rights": "",
+    "corporate_restructuring": "",
+    "spin_offs": "",
+    "asset_sales": "",
+    "liquidations": "",
+    "GPT": "",
+    "capital_reduction": "",
+    "preferred_stock_text": "",
+    "debt": "",
+    "private_placements": "",
+    "target_share_placements": "",
+    "tax": "",
+    "regional_investor": "",
+    "global_investor": "BlackRock Global"
+  },
+  "tableGeneral": {
+    "name": "BlackRock US",
+    "investor_profile_id": 45,
+    "adopt_cum_voting": "Case-by-case",
+    "confidential_voting": "",
+    "majority_votes_directors": "For",
+    "SH_written_consent": "Case-by-case",
+    "SH_Call_Special_Meeting": "Case-by-case",
+    "SH_Ratify_Poisonpill": "For",
+    "anti_greenmail": "",
+    "reincorp": "Case-by-case",
+    "other_business": "Against",
+    "engagement": "",
+    "meetings_short_notice": "",
+    "voting_rights": "",
+    "confidential_vote": "",
+    "cumulative_vote": "BlackRock believes that a majority vote standard is in the best long-term interest of shareholders. It ensures director accountability via the requirement to be elected by more than half of the votes cast. As such, the firm will generally oppose proposals requesting the adoption of cumulative voting, which may disproportionately aggregate votes on certain issues or director candidates. ",
+    "majority_vote": "BlackRock believes that directors should generally be elected by a majority of the shares voted and will normally support proposals seeking to introduce bylaws requiring a majority vote standard for director elections. Majority voting standards assist in ensuring that directors who are not broadly supported by shareholders are not elected to serve as their representatives. Some companies with a plurality voting standard have adopted a resignation policy for directors who do not receive support from at least a majority of votes cast. Where it believes that the company already has a sufficiently robust majority voting process in place, BlackRock may not support a shareholder proposal seeking an alternative mechanism.",
+    "plurality_carveout": "BlackRock note that majority voting is not appropriate in all circumstances, for example, in the context of a contested election.",
+    "controlling_shareholder": "For controlled companies, as defined by the U.S. stock exchanges, BlackRock will only vote against insiders or affiliates who sit\r\non the audit committee, but not other key committees. In situations where there is a substantial or dominant shareholder, supermajority voting may be protective of public shareholder interests and we may support supermajority requirements in those situations.",
+    "control_acquisition_provisions": "",
+    "control_cashout_provisions": "",
+    "Disgorgement": "",
+    "Supermajority": "BlackRock will support the reduction or the elimination of supermajority voting requirements to the extent that they determine shareholders’ ability to protect their economic interests is improved.",
+    "access_to_proxy": "BlackRock believes that long-term shareholders should have the opportunity, when necessary and under reasonable conditions, to nominate directors on the company’s proxy card.<br />\r\n<br />\r\nIn BlackRock's view, securing the right of shareholders to nominate directors without engaging in a control contest can enhance shareholders’ ability to meaningfully participate in the director election process, stimulate board attention to shareholder interests, and provide shareholders an effective means of directing that attention where it is lacking. Proxy access mechanisms should provide shareholders with a reasonable opportunity to use this right without stipulating overly restrictive or onerous parameters for use, and also provide assurances that the mechanism will not be subject to abuse by short-term investors, investors without a substantial investment in the company, or investors seeking to take control of the board.<br />\r\n<br />\r\nIn general, BlackRock supports market-standardized proxy access proposals, which allow a shareholder (or group of up to 20 shareholders) holding three percent of a company’s outstanding shares for at least three years the right to nominate the greater of up to two directors or 20% of the board. Where a standardized proxy access provision exists, the firm will generally oppose shareholder proposals requesting outlier thresholds.",
+    "written_consent": "In exceptional circumstances and with sufficiently broad support, shareholders should have the opportunity to raise issues of substantial importance without having to wait for management to schedule a meeting. BlackRock therefore believe that shareholders should have the right to solicit votes by written consent provided that: 1) there are reasonable requirements to initiate the consent solicitation process (in order to avoid the waste of corporate resources in addressing narrowly supported interests); and 2) shareholders receive a minimum of 50% of outstanding shares to effectuate the action by written consent. BlackRock may oppose shareholder proposals requesting the right to act by written consent in cases where the proposal is structured for the benefit of a dominant shareholder to the exclusion of others, or if the proposal is written to discourage the board from incorporating appropriate mechanisms to avoid the waste of corporate resources when establishing a right to act by written consent. Additionally, BlackRock may oppose shareholder proposals requesting the right to act by written consent if the company already provides a shareholder right to call a special meeting that BlackRock believe offers shareholders a reasonable opportunity to raise issues of substantial importance without having to wait for management to schedule a meeting.",
+    "call_special_meetings": "In exceptional circumstances and with sufficiently broad support, shareholders should have the right to call a special meeting in cases where a reasonably high proportion of shareholders (typically a minimum of 15% but no higher than 25%) are required to agree to such a meeting before it is called. BlackRock may oppose this right in cases where the proposal is structured for the benefit of a dominant shareholder to the exclusion of others. A right to act via written consent is not a sufficient alternative to the right to call a special meeting.",
+    "stakeholder_provision": "",
+    "shareholder_proposals": "",
+    "reimbursement_proxy_expenses": "BlackRock generally does not support shareholder proposals seeking the reimbursement of proxy contest expenses, even in situations where the firm supports the shareholder campaign. BlackRock believes that introducing the possibility of such reimbursement may incentivize disruptive and unnecessary shareholder campaigns.",
+    "bundled_proposals": "BlackRock believe that shareholders should have the opportunity to review substantial governance changes individually without having to accept bundled proposals. Where several measures are grouped into one proposal, BlackRock may reject certain positive changes when linked with proposals that generally contradict or impede the rights and economic interests of shareholders.",
+    "other_business_text": "BlackRock oppose giving companies our proxy to vote on matters where they are not given the opportunity to review and understand those measures and carry out an appropriate level of shareholder oversight.",
+    "general_shareholder_rights": "",
+    "Reincorporation_text": "BlackRock will evaluate, on a case-by-case basis, the economic and strategic rationale behind the company’s proposal to reincorporate. In all instances, they will evaluate the changes to shareholder protection under the new charter/articles/by-laws to assess whether the move increases or decreases shareholder protections. Where BlackRock find that shareholder protections are diminished, they may support reincorporation if they determine that the overall benefits outweigh the diminished rights.",
+    "Reincorp_USA": "",
+    "Reincorp_Outside_USA": "Where a company is listed on multiple exchanges or incorporated in a country different from its primary listing, BlackRock will seek to apply the most relevant market guideline(s) to its analysis of the company’s governance structure and specific proposals on the shareholder meeting agenda. In doing so, the firm typically considers the governance standards of the company’s primary listing, the market standards by which the company governs itself, and the market context of each specific proposal on the agenda. If the relevant standards are silent on the issue under consideration BlackRock will use its professional judgment as to what voting outcome would best protect the long-term economic interests of investors. The firm expects that companies will disclose the rationale for their selection of primary listing, country of incorporation, and choice of governance structures, in particular where there is conflict between relevant market governance practices.",
+    "Optinout_takeover_rules": "",
+    "forum_provisions": "BlackRock generally supports proposals to seek exclusive forum for certain shareholder litigation. In cases where a board unilaterally adopts exclusive forum provisions that the firm considers unfavorable to the interests of shareholders, BlackRock will vote against the independent chair or lead independent director and members of the governance committee. ",
+    "delisting_reincorp": "",
+    "anti_takeover": "",
+    "shareholder_rights_plans": "Where a poison pill is put to a shareholder vote by management, BlackRock's policy is to examine these plans individually. Although BlackRock opposes most plans, the firm may support plans that include a reasonable ‘qualifying offer clause.’ Such clauses typically require shareholder ratification of the pill, and stipulate a sunset provision whereby the pill expires unless it is renewed. These clauses also tend to specify that an all cash bid for all shares that includes a fairness opinion and evidence of financing does not trigger the pill, but forces either a special meeting at which the offer is put to a shareholder vote, or the board to seek the written consent of shareholders where shareholders could rescind the pill at their discretion. BlackRock may also support a pill where it is the only effective method for protecting tax or other economic benefits that may be associated with limiting the ownership changes of individual shareholders.<br />\r\n<br />\r\nWe generally votes in favor of shareholder proposals to rescind poison pills.",
+    "fair_price_amend": "",
+    "freeze_out": "",
+    "net_operating_loss": "",
+    "staggered_board": "",
+    "tax_gross_ups": "",
+    "anti_greenmail_proposals": "",
+    "SH_call_special_meeting_text": "BlackRock therefore believe that shareholders should have the right to call a special meeting in cases where a reasonably high proportion of shareholders (typically a minimum of 15% but no higher than 25%) are required to agree to such a meeting before it is called, in order to avoid the waste of corporate resources in addressing narrowly supported interests.",
+    "quickview_supermajority": "",
+    "virtual_meetings": "",
+    "advance_notice_req": "",
+    "amend_quorum_req": "",
+    "change_company_name": "",
+    "disclosure": "",
+    "regional_investor": "",
+    "global_investor": "BlackRock Global"
+  },
+  "tableESG": {
+    "name": "BlackRock US",
+    "investor_profile_id": 45,
+    "CDP": "",
+    "CDP_Water": "",
+    "CEO_water_mandate": "",
+    "EITI": "",
+    "forest_footprint": "",
+    "ES_EU_Dir": "",
+    "EIRIS": "",
+    "EUROSIF": "",
+    "UKSIF": "",
+    "ESG_overview": "BlackRock's fiduciary duty to clients is to protect and enhance their economic interest in the companies in which they invest on their behalf. It is within this context that BlackRock undertake their corporate governance activities. BlackRock believe that well -managed companies will deal effectively with the material environmental and social (“E&S”) factors relevant to their businesses. Robust disclosure is essential for investors to effectively gauge companies’ business practices and planning related to E&S risks and opportunities.\r\n<br/><br/>BlackRock expects companies to issue reports aligned with the recommendations of the Task Force on Climate-related Financial Disclosures (TCFD) and the standards put forward by the Sustainability Accounting Standards Board (SASB). BlackRock view the SASB and TCFD frameworks as complementary in achieving the goal of disclosing more financially material information, particularly as it relates to industry-specific metrics and target setting. TCFD’s recommendations provide an overarching framework for disclosure on the business implications of climate change, and potentially other E&S factors. BlackRock find SASB’s industry-specific guidance (as identified in its materiality map) beneficial in helping companies identify and discuss their governance, risk assessments, and performance against these key performance indicators (KPIs). Any global standards adopted, peer group benchmarking undertaken, and verification process in place should also be disclosed and discussed in this context.\r\n\r\n<br/><br/>BlackRock has been engaging with companies for several years on disclosure of material E&S factors. Given the increased understanding of sustainability risks and opportunities, and the need for better information to assess them, BlackRock specifically ask companies to:\r\n<br/>1) Publish disclosures in line with industry specific SASB guidelines by year-end, if they have not already done so, or disclose a similar set of data in a way that is relevant to their particular business; and\r\n<br/>2) Disclose climate-related risks in line with the TCFD’s recommendations, if they have not already done so. This should include the company’s plan for operating under a scenario where the Paris Agreement’s goal of limiting global warming to less than two degrees is fully realized, as expressed by the TCFD guidelines.\r\n\r\n<br/><br/>See BlackRock's commentary on their approach to engagement on TCFD and SASB aligned reporting for greater detail of their expectations.\r\n\r\n<br/><br/>BlackRock will use these disclosures and their engagements to ascertain whether companies are properly managing and overseeing these risks within their business and adequately planning for the future. In the absence of robust disclosures, investors, including BlackRock, will increasingly conclude that companies are not adequately managing risk.\r\n\r\n<br/><br/>BlackRock believe that when a company is not effectively addressing a material issue, its directors should be held accountable. BlackRock will generally engage directly with the board or management of a company when they identify issues. BlackRock may vote against the election of directors where they have concerns that a company might not be dealing with E&S factors appropriately. Sometimes BlackRock may reflect such concerns by supporting a shareholder proposal on the issue, where there seems to be either a significant potential threat or realized harm to shareholders’ interests caused by poor management of material E&S factors. In deciding their course of action, BlackRock will assess the nature of their engagement with the company on the issue over time, including whether:\r\n<br/>? The company has already taken sufficient steps to address the concern\r\n<br/>? The company is in the process of actively implementing a response\r\n<br/>? There is a clear and material economic disadvantage to the company in the near-term if the issue is not addressed in the manner requested by the shareholder proposal \r\n\r\n<br/><br/>BlackRock do not see it as their role to make social, ethical, or political judgments on behalf of clients, but rather, to protect their long-term economic interests as shareholders. BlackRock expect investee companies to comply, at a minimum, with the laws and regulations of the jurisdictions in which they operate. They should explain how they manage situations where such laws or regulations are contradictory or ambiguous.",
+    "water_text": "",
+    "CERES": "",
+    "energy": "",
+    "greenhouse_gas": "",
+    "industrial_waste": "",
+    "nuclear_waste": "",
+    "product_life_cycle": "",
+    "recycling": "",
+    "Biodiversity": "",
+    "climate_change": "Within the framework laid out above, as well as their guidance on “How BlackRock Investment Stewardship engages on climate risk,” BlackRock believe that climate presents significant investment risks and opportunities that may impact the longterm financial sustainability of companies. BlackRock believe that the reporting frameworks developed by TCFD and SASB provide useful guidance to companies on identifying, managing, and reporting on climate-related risks and opportunities. \r\n\r\n<br/><br/>BlackRock expect companies to help their investors understand how the company may be impacted by climate risk, in the context of its ability to realize a long-term strategy and generate value over time. BlackRock expect companies to convey their governance around this issue through their corporate disclosures aligned with TCFD and SASB. For companies in sectors that are significantly exposed to climate-related risk, BlackRock expect the whole board to have demonstrable fluency in how climate risk affects the business and how management approaches assessing, adapting to, and mitigating that risk. \r\n\r\n<br/><br/>Where a company receives a shareholder proposal related to climate risk, in addition to the factors laid out above, BlackRock's assessment will take into account the robustness of the company’s existing disclosures as well as their understanding of its management of the issues as revealed through their engagements with the company and board members over time. In certain instances, BlackRock may disagree with the details of a climate-related shareholder proposal but agree that the company in question has not made sufficient progress on climate-related disclosures. In these instances, BlackRock may not support the proposal, but may vote against the election of relevant directors.",
+    "hydraulic_fracturing": "",
+    "animal_welfare": "",
+    "GM_foods": "",
+    "protected_areas": "",
+    "natural_resources": "",
+    "enviro_other": "",
+    "Sustainability": "",
+    "conflict_areas": "",
+    "human_rights": "",
+    "internet_privacy": "",
+    "macbride_principles": "",
+    "outsourcing_offshoring": "",
+    "healthcare_reform": "",
+    "tobacco": "",
+    "Pharmaceutical_pricing": "",
+    "product_standards": "",
+    "weapons_military": "",
+    "employment_humancapital": "",
+    "supply_chain": "",
+    "health_safety": "",
+    "community_engagement": "",
+    "public_health": "",
+    "bribery_corruption": "",
+    "diversity": "",
+    "charitable_contributions": "",
+    "political_contributions": "BlackRock believe that companies which choose to engage in political activities should develop and maintain robust processes to guide these activities and to mitigate risks, including a level of board oversight. When presented with shareholder proposals requesting increased disclosure on corporate political activities, BlackRock may consider the political activities of that company and its peers, the existing level of disclosure, and BlackRock's view regarding the associated risks. They generally believe that it is the duty of boards and management to determine the appropriate level of disclosure of all types of corporate activity, and BlackRock are generally not supportive of proposals that are overly prescriptive in nature. BlackRock may decide to support a shareholder proposal requesting additional reporting of corporate political activities where there seems to be either a significant potential threat or actual harm to shareholders’ interests, and where BlackRock believe the company has not already provided shareholders with sufficient information to assess the company’s management of the risk. Finally, BlackRock believe that it is not the role of shareholders to suggest or approve corporate political activities; therefore they generally do not support proposals requesting a shareholder vote on political activities or expenditures.",
+    "social_other": "",
+    "environmental_general": "",
+    "social_general": "",
+    "regional_investor": "",
+    "global_investor": "BlackRock Global"
+  },
+  "tableVotingPolicy": {
+    "name": "BlackRock US",
+    "investor_profile_id": 45,
+    "vote_in_house": "Yes",
+    "electronic_vote_platform": "",
+    "vote_all_US": "Yes",
+    "vote_all_UK": "",
+    "vote_all_ROW": "Case-by-case",
+    "votes_shareblocking": "Case-by-case",
+    "stocklending_ownfunds": "Case-by-case",
+    "stocklending_otherfunds": "",
+    "voting_policy": "Proxy voting is executed by the Corporate Governance Group. BlackRock maintains three Corporate Governance Committees for the Americas, Europe, the Middle East and Africa (EMEA) and Asia-Pacific, consisting of senior BlackRock investment professionals. All of the regional Corporate Governance Committees report to a Global Corporate Governance Oversight Committee. The Corporate Governance Committees review and approve amendments to their respective proxy voting guidelines (“Guidelines”) and grant authority to the Global Head of Corporate Governance (“Global Head”) to vote in accordance with the Guidelines. The Global Head leads the Corporate Governance Group to carry out engagement, voting and vote operations in a manner consistent with the relevant Corporate Governance Committee’s mandate. The Corporate Governance Group, or vendors overseen by the Corporate Governance Group, monitor upcoming proxy votes, execute proxy votes and maintain records of votes cast. The Corporate Governance Group may refer complicated or particularly controversial matters or discussions to the appropriate investors and/or regional Corporate Governance Committees for their review, discussion and guidance prior to making a voting decision.",
+    "vote_in_house_text": "Proxy voting is executed by the Corporate Governance Group. ",
+    "electronic_vote_platform_text": "",
+    "vote_against_process": "",
+    "engagement_with_issuer": "BlackRock views engagement as an important activity; engagement provides BlackRock with the opportunity to improve their understanding of investee companies and their governance structures, so that their voting decisions may be better informed. Engagement also allows them to share their philosophy and approach to investment and corporate governance with companies to enhance their understanding of BlackRock's objectives. There are a range of approaches BlackRock may take in engaging companies depending on the nature of the issue under consideration, the company and the market.",
+    "conflicts_of_interest_process": "BIS maintains the following policies and procedures that seek to prevent undue influence on BlackRock’s proxy voting activity. Such influence might stem from any relationship between the investee company (or any shareholder proponent or dissident shareholder) and BlackRock, BlackRock’s affiliates, a Fund or a Fund’s affiliates, or BlackRock employees. The following are examples of sources of perceived or potential conflicts of interest:<br/><br/> BlackRock clients who may be issuers of securities or proponents of shareholder resolutions;<br/> BlackRock business partners or third parties who may be issuers of securities or proponents of shareholder resolutions;<br/> BlackRock employees who may sit on the boards of public companies held in Funds managed by BlackRock;<br/> Significant BlackRock, Inc. investors who may be issuers of securities held in Funds managed by BlackRock;<br/> Securities of BlackRock, Inc. or BlackRock investment funds held in Funds managed by BlackRock;<br/> BlackRock, Inc. board members who actively serve as senior executives of public companies held in Funds managed by BlackRock<br/><br/>BlackRock has taken certain steps to mitigate perceived or potential conflicts including, but not limited to, the following:<br/>Adopted the Guidelines which are designed to protect and enhance the economic value of the companies in which BlackRock invests on behalf of clients;<br/>Established a reporting structure that separates BIS from employees with sales, vendor management or business partnership roles. In addition, BlackRock seeks to ensure that all engagements with corporate issuers, dissident shareholders or shareholder proponents are managed consistently and without regard to BlackRock’s relationship with such parties. Clients or business partners are not given special treatment or differentiated access to BIS. BIS prioritizes engagements based on factors including but not limited to their need for additional information to make a voting decision or their view on the likelihood that an engagement could lead to positive outcome(s) over time for the economic value of the company. Within the normal course of business, BIS may engage directly with BlackRock clients, business partners and/or third parties, and/or with employees with sales, vendor management or business partnership roles, in discussions regarding their approach to stewardship, general corporate governance matters, client reporting needs, and/or to otherwise ensure that proxy-related client service levels are met;<br/>Determined to engage, in certain instances, an independent fiduciary to vote proxies as a further safeguard to avoid potential conflicts of interest, to satisfy regulatory compliance requirements, or as may be otherwise required by applicable law. In such circumstances, the independent fiduciary provides BlackRock’s proxy voting agent with instructions, in accordance with the Guidelines, as to how to vote such proxies, and BlackRock’s proxy voting agent votes the proxy in accordance with the independent fiduciary’s determination. BlackRock uses an independent fiduciary to vote proxies of (i) any company that is affiliated with BlackRock, Inc., (ii) any public company that includes BlackRock employees on its board of directors, (iii) The PNC Financial Services Group, Inc., (iv) any public\r\ncompany of which a BlackRock, Inc. board member serves as a senior executive, and (v) companies when legal or regulatory requirements compel BlackRock to use an independent fiduciary. In selecting an independent fiduciary, BlackRock assess several characteristics, including but not limited to: independence, an ability to analyze proxy issues and vote in the best economic interest of their clients, reputation for reliability and integrity, and operational capacity to accurately deliver the assigned votes in a timely manner. BlackRock may engage more than one independent fiduciary, in part in order to mitigate potential or perceived conflicts of interest at an independent fiduciary. The Global Committee appoints and reviews the performance of the independent fiduciar(ies), generally on an annual basis.**",
+    "Collaboration": "When BlackRock believe it is likely to enhance their ability to engage with a company or to achieve the desired outcome, and it is permitted by law and regulation, BlackRock will work with other investors. ",
+    "vote_all_resolutions": "In certain markets, proxy voting involves logistical issues which can affect BlackRock’s ability to vote such proxies, as well as the desirability of voting such proxies. These issues include but are not limited to: (i) untimely notice of shareholder meetings; (ii) restrictions on a foreigner’s ability to exercise votes; (iii) requirements to vote proxies in person; (iv) “share-blocking” (requirements that investors who exercise their voting rights surrender the right to dispose of their holdings for some specified period in proximity to the shareholder meeting); (v) potential difficulties in translating the proxy; (vi) regulatory constraints; and (vii) requirements to provide local agents with unrestricted powers of attorney to facilitate voting instructions. BlackRock are not supportive of impediments to the exercise of voting rights such as shareblocking or overly burdensome administrative requirements.<br/><br/>As a consequence, BlackRock votes proxies only on a “best-efforts” basis. In addition, BIS may determine that it is generally in the best interests of BlackRock’s clients not to vote proxies if the costs (including but not limited to opportunity costs associated with shareblocking constraints) associated with exercising a vote are expected to outweigh the benefit the client would derive by voting on the proposal.**",
+    "vote_all_US_text": "",
+    "vote_all_UK_text": "",
+    "vote_all_ROW_text": "",
+    "where_shareblocking": "BlackRock are not supportive of impediments to the exercise of voting rights such as shareblocking. BlackRock votes proxies in these markets only on a “best-efforts” basis.",
+    "vote_reporting": "BlackRock report their proxy voting activity directly to clients and publicly as required.",
+    "securities_lending": "",
+    "lending_own_funds_text": "The evaluation of the economic desirability of recalling loans involves balancing the revenue producing value of loans against the likely economic value of casting votes. Based on BlackRock's evaluation of this relationship, they believe that generally the likely economic value of casting most votes is less than the securities lending income.",
+    "lending_other_funds_text": "When so authorized, BlackRock acts as a securities lending agent on behalf of Funds. With regard to the relationship between securities lending and proxy voting, BlackRock’s approach is driven by their clients’ economic interests. The decision whether to recall securities on loan to vote is based on a formal analysis of the revenue producing value to clients of loans, against the assessed economic value of casting votes. Generally, we expect that the likely economic value to clients of casting votes would be less than the securities lending income, either because, in our assessment, the resolutions being voted on will not have significant economic consequences or because the outcome would not be affected by BlackRock recalling loaned securities in order to vote. BlackRock also may, in our discretion, determine\r\nthat the value of voting outweighs the cost of recalling shares, and thus recall shares to vote in that instance.<br/>\r\nPeriodically, BlackRock reviews their process for determining whether to recall securities on loan in order to vote and may modify it as necessary.**",
+    "proxy_advisor_top": "Yes",
+    "quickview_securities_lending": "",
+    "regional_investor": "",
+    "global_investor": "BlackRock Global"
+  },
+  "tableNews": [
+    {
+      "news_id": 37417,
+      "newsDate": "2020-08-11T10:51:00.000Z",
+      "headLine": "BlackRock targets pay at Australian banking group",
+      "shortArticle": "BlackRock has disclosed that it plans to engage with an Australian banking and financial services group. The engagement will focus on executive pay concerns after the group in question suffered a major revolt at this year's AGM.[[B]]\r\n\r\nThe group was not named but, according to BlackRock's latest investment stewardship report, it received only around 32% support for its remuneration report at its annual meeting in May. These details would seem to suggest the group in question could be AMP, which held its AGM on May 8 and received 32.7% support for the advisory pay vote.\r\n\r\nThe controversy at AMP arose partly after the company scrapped its annual dividend following a AU$2.5 billion loss, but raised the maximum short-term incentive for its CEO from 120% of base salary to 200%. BlackRock has disclosed that it voted against AMP's remuneration report this year, calling the group's incentive plans \"poorly structured.\"",
+      "img": "AMP.jpg"
+    },
+    {
+      "news_id": 37058,
+      "newsDate": "2020-07-14T10:50:00.000Z",
+      "headLine": "BlackRock brings banks under climate scrutiny",
+      "shortArticle": "BlackRock has already stepped up its scrutiny of climate issues, voting against directors at several large companies this year over a lack of progress. Next year, the investment giant will extend these efforts to banks.[[B]]\r\n\r\nBanks are already facing questions about the financing they provide to fossil fuel projects. Japan's Mizuho Financial Group, the world's largest lender to fossil fuels, faced a shareholder proposal this year, as did the UK's Barclays. Now, BlackRock has unveiled a watch list of 191 companies, including banks, which will face revolts from BlackRock if they fail to make climate progress.\r\n\r\n\"While we have already had conversations with a number of banks, we plan to increase these engagements over the next year,\" BlackRock said in the report containing the watch list. The report also revealed votes BlackRock had cast against management at 53 companies this year due to climate concerns, primarily energy companies. This included opposing the re-election of directors at oil giant ExxonMobil and vehicle manufacturer Daimler.",
+      "img": "Climate Change.jpg"
+    },
+    {
+      "news_id": 37020,
+      "newsDate": "2020-07-10T10:43:00.000Z",
+      "headLine": "NPS criticized over lack of action on KEPCO",
+      "shortArticle": "Korea's National Pension Service (NPS) is facing criticism over its silence on Korea Electric Power Corp's (KEPCO's) decision to continue investing in coal power in Indonesia. NPS owns 8.2% of KEPCO.[[B]]\r\n\r\nKEPCO is already under fire from a number of its other investors, with some warning they may go so far as to divest if KEPCO continues to develop new coal-fired plants outside of Korea. Critics include BlackRock, which sent a letter to KEPCO earlier this year asking for better disclosure on this issue. \"KEPCO should take note of the ways in which leading global investors such as BlackRock may react to KEPCO's current climate strategy and energy transition plans,\" the letter read.\r\n\r\nNPS, the third-largest shareholder of KEPCO, has so far declined to add its voice to the call to move away from coal. This is despite a drive for active stewardship that has seen the pension giant engage with the management of other large companies such as Samsung Electronics. A spokesperson for NPS defended the decision not to weigh in on KEPCO yet. \"We need time for our decision makers to review our investments in KEPCO,\" the spokesperson said.",
+      "img": "NPS.jpg"
+    },
+    {
+      "news_id": 36464,
+      "newsDate": "2020-05-28T10:49:00.000Z",
+      "headLine": "Exxon shareholders reject independent chair",
+      "shortArticle": "Shareholders of Exxon have rejected a shareholder proposal asking for the company to appoint an independent chair. 32.7% of investors voted in favor of separating the roles at yesterday's annual meeting.[[B]]\r\n\r\nThis is down from 40.7% support for a similar proposal last year. In fact, a proposal asking Exxon to separate the roles has appeared on the ballot of every annual meeting since 2015 and this year's result is the lowest level of support it has received in that time.\r\n\r\nThe defeat comes despite several large asset managers announcing their support for the proposal. Shortly before the meeting began, BlackRock announced it intended to support the proposal as well as vote against the re-elections of two directors. Legal & General and the New York State Common Retirement Fund are also among the investors who announced they would support the motion.",
+      "img": "Exxon.jpg"
+    },
+    {
+      "news_id": 36098,
+      "newsDate": "2020-05-01T11:41:00.000Z",
+      "headLine": "BlackRock hires new stewardship boss",
+      "shortArticle": "BlackRock has hired Sandra Boss as its new Global Head of Investment Stewardship. Boss will take over leadership of the investment behemoth's voting and engagement efforts from Barbara Novick, who has been scaling back her role.[[B]]\r\n\r\nBoss' appointment was announced in an internal memo that was also seen by several major press organizations. She takes over just months after the latest annual letters from CEO Larry Fink announced the investor will take a more active approach to voting at companies which are not responsive to the engagement BlackRock has traditionally favored.\r\n\r\nBoss is based in London, and will remain there in her new role with BlackRock. She has previously held roles such as Senior Partner at McKinsey & Company. Until recently, she had two outside committee member roles with the Bank of England, one as chair of a risk committee and one as a member of the Prudential Regulation Committee.",
+      "img": "BlackRock_1.jpg"
+    },
+    {
+      "news_id": 35826,
+      "newsDate": "2020-04-14T12:24:00.000Z",
+      "headLine": "<i>From our Twitter feed</i>",
+      "shortArticle": "Investment giant BlackRock to advise EU on new environmental regulations for the banking industry <b>#ESG #CorpGov <a href=\"https://bit.ly/2z0Vuwv\">bit.ly/2z0Vuwv</a></b>[[B]]",
+      "img": "BlackRock_1.jpg"
+    },
+    {
+      "news_id": 35456,
+      "newsDate": "2020-03-18T14:15:00.000Z",
+      "headLine": "BlackRock maintains governance priorities despite coronavirus",
+      "shortArticle": "Asset management giant BlackRock has said it will continue to hold companies accountable on corporate governance despite the coronavirus crisis. The statement comes as many companies experience disruption to their AGM plans because of the virus.[[B]]\r\n\r\nAt the start of this year, BlackRock boss Larry Fink announced a focus on sustainability, including issues such as long-term-focused executive pay and board quality. According to Michelle Edkins, global head of investment stewardship, BlackRock still expects to see progress on these issues. \"Companies can still demonstrate that they have effective leadership. In times of crisis that becomes more apparent, not less apparent,\" she said.\r\n\r\nMeanwhile, Barbara Novick, co-founder and outgoing vice-chair of BlackRock, said: \"A lot of AGMs in Europe are being delayed. But in the US, our expectation is that a lot of AGM will go virtual. There will be a lot of changes this year. But I think a lot of companies are still engaged and moving forward.\"",
+      "img": "BlackRock_1.jpg"
+    },
+    {
+      "news_id": 35418,
+      "newsDate": "2020-03-16T12:14:00.000Z",
+      "headLine": "<i>From our Twitter feed</i>",
+      "shortArticle": "BlackRock reportedly continues its pressure on directors over climate change <b>#ESG #CorpGov <a href=\"http://bit.ly/3d8CdZJ\">bit.ly/3d8CdZJ</a></b>[[B]]",
+      "img": "BlackRock_1.jpg"
+    },
+    {
+      "news_id": 35369,
+      "newsDate": "2020-03-12T12:05:00.000Z",
+      "headLine": "<i>From our Twitter feed</i>",
+      "shortArticle": "BlackRock was among the investors voting against Qualcomm's failed Say-on-Pay proposal <b>#ExecPay #CorpGov $QCOM <a href=\"https://on.ft.com/2TYBGkf\">on.ft.com/2TYBGkf</a></b>[[B]]",
+      "img": "Qualcomm.jpg"
+    },
+    {
+      "news_id": 35345,
+      "newsDate": "2020-03-11T12:28:00.000Z",
+      "headLine": "<i>From our Twitter feed</i>",
+      "shortArticle": "BlackRock and JP Morgan will not face shareholder proposals on their ESG voting records <b>#ESG #CorpGov $BLK $JPM <a href=\"http://bit.ly/2TW5spx\">bit.ly/2TW5spx</a></b>[[B]]",
+      "img": "Climate Change.jpg"
+    },
+    {
+      "news_id": 35234,
+      "newsDate": "2020-03-04T16:05:00.000Z",
+      "headLine": "<i>From our Twitter feed</i>",
+      "shortArticle": "Fascinating BlackRock analysis of ownership, governance and proxy voting in Europe, featuring Proxy Insight data! <b>#CorpGov <a href=\"http://bit.ly/38sMvQR\">bit.ly/38sMvQR</a></b>[[B]]",
+      "img": "BlackRock_1.jpg"
+    },
+    {
+      "news_id": 35203,
+      "newsDate": "2020-03-03T11:43:00.000Z",
+      "headLine": "<i>From our Twitter feed</i>",
+      "shortArticle": "BlackRock's pledge for greater focus on sustainability will soon start being tested in practice <b>#CorpGov #ESG <a href=\"http://bit.ly/2TifGl1\">bit.ly/2TifGl1</a></b>[[B]]",
+      "img": "BlackRock_1.jpg"
+    },
+    {
+      "news_id": 35149,
+      "newsDate": "2020-02-28T11:46:00.000Z",
+      "headLine": "<i>From our Twitter feed</i>",
+      "shortArticle": "An opinion on BlackRock's recent commitments to address ESG issues at investee companies <b>#ESG #CorpGov $BLK <a href=\"https://on.wsj.com/386fLMZ\">on.wsj.com/386fLMZ</a></b>[[B]]",
+      "img": "BlackRock_1.jpg"
+    },
+    {
+      "news_id": 34852,
+      "newsDate": "2020-02-10T10:41:00.000Z",
+      "headLine": "Large investors often diverge from proxy advisers, research says",
+      "shortArticle": "According to recent research, the largest investors only vote in line with their proxy advisers on about one out of every four ESG proposals. The study was carried out by ShareAction for the Charities Responsible Investment Network.[[B]]\r\n\r\nShareAction looked at shareholder proposals on environmental and social issues, as well as on political lobbying payments. It found that roughly three quarters of the time, votes from BlackRock, Vanguard and State Street differed from the recommendations of major advisers ISS and Glass Lewis. The research casts doubt on the idea that large investors \"robo vote\" on these issues, giving huge weight to advisers recommendations and frequently choosing to follow them.\r\n\r\n\"Corporate lobby groups have managed to paint proxy advisers with a bad brush,\" said ShareAction's Isobel Mitchell, one of the authors of the report. \"Our research shows asset owners should be concerned about their managers’ own practices and behaviour influencing their voting decisions, rather than an over-reliance on the recommendations of proxy advisers, as is often claimed by business lobbyists.\"",
+      "img": "ShareAction.jpg"
+    },
+    {
+      "news_id": 34796,
+      "newsDate": "2020-02-06T11:54:00.000Z",
+      "headLine": "BlackRock blasts Siemens over environment",
+      "shortArticle": "BlackRock has given a public dressing down to industrial group Siemens over environmental concerns. The $7tn asset manager said that Siemens has not properly considered the \"breadth of risks\" to which it is exposed.[[B]]\r\n\r\nThe criticisms relate to a controversial project which will see Siemens provide systems to an Australian coal-mining site. BlackRock said that though the company had \"followed its internal review process for the project, it is nevertheless clear that it requires a more thorough review of the potential risks, including ESG risks, presented by future projects.\"\r\n\r\nBlackRock extensively makes use of engagement when it has issues with companies, but in the past has usually preferred to keep these talks behind closed doors. The decision to comment publicly in this case follows a recent announcement that the asset manager was going to be more active in pressuring companies over ESG concerns, as well as take steps to make its stewardship efforts more transparent.",
+      "img": "BlackRock_1.jpg"
+    },
+    {
+      "news_id": 34524,
+      "newsDate": "2020-01-17T12:40:00.000Z",
+      "headLine": "<i>From our Twitter feed</i>",
+      "shortArticle": "A look at BlackRock's recent climate commitments and what the ripple effects may be <b>#ESG #CorpGov <a href=\"http://bit.ly/2NxfpHx\">bit.ly/2NxfpHx</a></b>[[B]]",
+      "img": "Forest.jpg"
+    },
+    {
+      "news_id": 34498,
+      "newsDate": "2020-01-16T12:19:00.000Z",
+      "headLine": "<i>From our Twitter feed</i>",
+      "shortArticle": "An opinion on Extinction Rebellion's calls for BlackRock to do more on climate change <b>#CorpGov #ESG <a href=\"https://on.ft.com/3ac1QXU\">on.ft.com/3ac1QXU</a></b>[[B]]",
+      "img": "Forest.jpg"
+    },
+    {
+      "news_id": 34478,
+      "newsDate": "2020-01-15T12:19:00.000Z",
+      "headLine": "<i>From our Twitter feed</i>",
+      "shortArticle": "BlackRock has promised greater climate focus, but Extinction Rebellion wants to see the investor do more. Article with Proxy Insight data! <b>#ESG #CorpGov <a href=\"http://bit.ly/2tmyzJn\">bit.ly/2tmyzJn</a></b>[[B]]",
+      "img": "BlackRock_1.jpg"
+    },
+    {
+      "news_id": 34464,
+      "newsDate": "2020-01-14T16:11:00.000Z",
+      "headLine": "Environment dominates Larry Fink's letter",
+      "shortArticle": "Larry Fink has sent <a href=\"https://www.blackrock.com/corporate/investor-relations/larry-fink-ceo-letter\">his annual letter to CEOs</a>, and this year the dominant theme was the environment. This comes just days after BlackRock announced it was joining the investor advocacy group Climate Action 100+.[[B]]\r\n\r\n\"The evidence on climate risk is compelling investors to reassess core assumptions about modern finance,\" Fink wrote. \"Research from a wide range of organizations... is deepening our understanding of how climate risk will impact both our physical world and the global system that finances economic growth.\"\r\n\r\nFink outlined several types of action that BlackRock intends to take against companies when it believes these risks are not being addressed. Where it believes the risk is high, the investor will start selling investments. He also said BlackRock intended to vote more aggressively if progress is not being made, and pressure them to disclose their plans for complying with the Paris Agreement's two degree target.\r\n\r\nReferencing <a href=\"https://www.blackrock.com/corporate/investor-relations/blackrock-client-letter\">another letter sent to clients</a>, Fink said that BlackRock planned to \"[make] sustainability integral to portfolio construction and risk management.\" He also said that the investor would create new funds that exclude fossil fuels.",
+      "img": "Larry Fink.jpg"
+    },
+    {
+      "news_id": 34454,
+      "newsDate": "2020-01-14T12:17:00.000Z",
+      "headLine": "<i>From our Twitter feed</i>",
+      "shortArticle": "Vanguard has no plans to follow BlackRock in joining Climate Action 100+ - With Proxy Insight data! <b>#CorpGov #ESG <a href=\"http://bit.ly/3a8v9dM\">bit.ly/3a8v9dM</a></b>[[B]]",
+      "img": "Vanguardlogo13.07.17.jpg"
+    },
+    {
+      "news_id": 34405,
+      "newsDate": "2020-01-10T10:15:00.000Z",
+      "headLine": "BlackRock joins climate group",
+      "shortArticle": "Asset management behemoth BlackRock has joined Climate Action 100+, an influential group of investors pressuring companies to take action to prevent climate change.[[B]]\r\n\r\nThe group consists of 370 investors with combined assets of US$35 trillion. This does not include BlackRock, which brings another US$7 trillion of assets into the fold. Climate Action 100+ submits shareholder proposals on climate issues directly to companies, some of which BlackRock has previously voted against.\r\n\r\nIn fact, BlackRock has recently been under fire over its lack of support for climate resolutions, though the investor has always maintained it prefers to engage with companies and treat a vote against as a last resort. Nonetheless, joining the group suggests that BlackRock will be placing more emphasis on these issues at future meetings in one way or another. Climate Action 100+ requires its members to pressure companies to cut greenhouse gas emissions and report on risks associated with climate change.",
+      "img": "BlackRock_1.jpg"
+    },
+    {
+      "news_id": 33765,
+      "newsDate": "2019-11-15T11:03:00.000Z",
+      "headLine": "BlackRock raises concerns about APRA's bonus reforms",
+      "shortArticle": "BlackRock, the world's largest asset manager, has taken issue with potential reforms to executive pay in Australia's finance industry. The reforms were recently proposed by the Australian Prudential Regulation Authority (APRA).[[B]]\r\n\r\nThe proposed reforms are a response to the findings of the royal commission on banking, and would tie executive pay more closely to non-financial factors such as customer service. If the changes come into force, they would require that no more than half of an executive's bonus be tied to financial metrics.\r\n\r\nBlackRock is the latest voice to raise concerns about the reforms, which have already faced opposition within the banking industry. The asset management giant fears that the rules would make \"gaming\" of targets by executives easier, and that non-financial metrics would be harder for investors to interpret.\r\n\r\n\"Our concerns lie in setting an overly prescriptive framework which results in a delineation between financial and non-financial risk rather than viewing the two as symbiotic and necessarily embedded throughout a firm’s strategy,\" said BlackRock.",
+      "img": "BLACKROCK.jpg"
+    },
+    {
+      "news_id": 33172,
+      "newsDate": "2019-10-09T12:17:00.000Z",
+      "headLine": "<i>From our Twitter feed</i>",
+      "shortArticle": "BlackRock teams up with Ellen MacArthur Foundation to launch recycling-focused fund <b>#ESG</b> <a href=\"https://on.ft.com/30Y5aA0\">on.ft.com/30Y5aA0</a>[[B]]",
+      "img": "BLACKROCK.jpg"
+    },
+    {
+      "news_id": 32738,
+      "newsDate": "2019-09-11T09:51:00.000Z",
+      "headLine": "EY report finds investor engagement lags in some areas",
+      "shortArticle": "According to a new report from EY, investors are engaging regularly with companies on corporate governance and environmental issues. However, engagement in some areas such as audit is lagging behind.[[B]]\r\n\r\nThe report covered engagement by a number of large asset managers and asset owners, including BlackRock, Fidelity and JP Morgan Asset Management. It identified a number of areas in which these investors had been \"less engaged.\"  These included audit, reporting, reputational risk and trust. Environmental topics such as sustainability and climate change, on the other hand, emerged as the biggest priority areas for investors. Corporate governance issues followed close behind.\r\n\r\n\"Trust in business needs all three elements of the financial ecosystem to be working effectively: stewardship, governance and reporting,\" said EY UK managing partner Hywel Ball. \"Asset managers and asset owners have a vital role to play in setting the standards expected from the companies they invest in.\"",
+      "img": "EY_191213.jpg"
+    },
+    {
+      "news_id": 32641,
+      "newsDate": "2019-09-04T11:27:00.000Z",
+      "headLine": "Walmart changes gun policies",
+      "shortArticle": "US retail giant Walmart has revised its policies on firearm sales after a series of mass shootings, including one in a Walmart store. Investors and lobby groups have been pressuring gun makers and distributors since early last year.[[B]]\r\n\r\nThe bulk of recent shareholder efforts to pressure companies on firearm issues were sparked by a mass shooting in Florida on Valentine's Day last year, which left 17 dead. In the wake of that shooting, the likes of BlackRock and State Street announced plans to engage with manufacturers and distributors of guns. A shareholder proposal was tabled and passed at Sturm Ruger calling for a report on the risks that gun violence posed to the company.\r\n\r\nMore recently, a shooting took place in one of Walmart's own branches in Texas which killed 22. Following the incident and continued pressure from both investors and social activists, Walmart announced it would stop selling certain types of ammunition for use in assault-style rifles and handguns. The retailer will also cease handgun sales in Alaska, the one remaining location where these weapons were available in Walmart stores. The company has also asked its customers to stop openly carrying weapons in its store.",
+      "img": "Walmart050615.jpg"
+    },
+    {
+      "news_id": 32565,
+      "newsDate": "2019-08-29T11:43:00.000Z",
+      "headLine": "<i>From our Twitter feed</i>",
+      "shortArticle": "BlackRock has grown its stewardship team from 36 to 45 members over the past year <b>#CorpGov #ESG $BLK</b> <a href=\"http://bit.ly/2MKayUG\">bit.ly/2MKayUG</a>[[B]]",
+      "img": "Climate Change.jpg"
+    },
+    {
+      "news_id": 32544,
+      "newsDate": "2019-08-28T12:24:00.000Z",
+      "headLine": "<i>From our Twitter feed</i>",
+      "shortArticle": "BlackRock says it has been cracking down on overboarding, voting against 94 overcommitted CEOs this year <b>#CorpGov #ProxyVoting</b> <a href=\"http://bit.ly/2NBcm28\">bit.ly/2NBcm28</a>[[B]]",
+      "img": "BLACKROCK.jpg"
+    },
+    {
+      "news_id": 32202,
+      "newsDate": "2019-08-05T12:04:00.000Z",
+      "headLine": "<i>From our Twitter feed</i>",
+      "shortArticle": "Fossil fuel investment can be costly - story with Proxy Insight data! <b>#ESG #CorpGov</b> <a href=\"http://bit.ly/2yFUhay\">bit.ly/2yFUhay</a>[[B]]",
+      "img": "Climate Change.jpg"
+    },
+    {
+      "news_id": 32155,
+      "newsDate": "2019-07-31T11:29:00.000Z",
+      "headLine": "<i>From our Twitter feed</i>",
+      "shortArticle": "GAM appoints BlackRock director Peter Sanderson as its new CEO <b>#CorpGov</b> <a href=\"http://bit.ly/318fF4l\">bit.ly/318fF4l</a>[[B]]",
+      "img": "GAM holding 1.jpg"
+    },
+    {
+      "news_id": 31869,
+      "newsDate": "2019-07-12T10:07:00.000Z",
+      "headLine": "Large asset managers support climate change framework",
+      "shortArticle": "Eight of the world's largest asset managers have backed a climate change framework to accelerate the integration of climate issues into the management of asset pools. Specifically, investors including BlackRock, Amundi, BNP Paribas, State Street Global Advisors and HSBC Global Asset Management have all endorsed the One Planet Sovereign Wealth Fund Framework to form the One Planet Asset Managers Initiative.\r\n\r\nWithin the framework, the managers have agreed to share investment practices, publish relevant research and engage with regulators and the broader industry, in order to understand the implications of climate-related risks and opportunities within investment portfolios.\r\n\r\nJohanna Lasker, head of official institutions at BNP Paribas Asset Management said: \"The eight asset managers collectively account for more than one fifth of global assets under management, and their decision to work together towards the full integration of climate risks and opportunities into investment portfolios represents an important step towards the realization of sustainable markets.\"",
+      "img": "Climate Change.jpg"
+    },
+    {
+      "news_id": 31853,
+      "newsDate": "2019-07-11T10:18:00.000Z",
+      "headLine": "Rice Brothers claim victory in EQT proxy battle",
+      "shortArticle": "Natural gas producer EQT has revealed in a statement that the dissident Rice Brothers have won control of the company's board, and one of the brothers Toby Rice has been named EQT's new chief executive officer. The vote ended a long-running campaign against EQT's management during which the Rice Brothers suggested the board had mismanaged the company.\r\n\r\nFrom the beginning of their campaign the brothers had the support of two significant EQT shareholders, D.E. Shaw Group and Elliott Management. In the lead up to yesterday's vote, proxy adviser ISS backed the brothers' nominees, and EQT's largest shareholder T. Rowe Price also outlined its support in advance.\r\n\r\nEQT's statement said that investors including T. Rowe Price and CalSTRS voted to elect all seven Rice nominees as directors as well as five nominees supported by both Rice and EQT. Further, according to a person familiar with the voting, BlackRock and State Street both sided with the dissidents.",
+      "img": "EQT-Corporation-logo 2.jpg"
+    },
+    {
+      "news_id": 31506,
+      "newsDate": "2019-06-17T11:53:00.000Z",
+      "headLine": "<i>From our Twitter feed</i>",
+      "shortArticle": "BlackRock, Vanguard and State Street on track to control 40% of votes at large US companies <b>#CorpGov #ProxyVoting</b> <a href=\"https://on.ft.com/31EyZXS\">on.ft.com/31EyZXS</a>[[B]]",
+      "img": "proxy access.jpg"
+    },
+    {
+      "news_id": 31184,
+      "newsDate": "2019-05-29T09:48:00.000Z",
+      "headLine": "BlackRock blasts UK Stewardship Code",
+      "shortArticle": "The world's largest investor has criticized the UK's proposed new Stewardship Code, announced recently by the Financial Reporting Council (FRC). BlackRock said that the revised guidelines could put companies off listing in the UK.[[B]]\r\n\r\nThe revised code would urge investors to reveal more about their efforts to push companies for change. According to BlackRock's response to a consultation on the proposals, this may mean that too much information is disclosed about the way investors and companies have engaged. \r\n\r\nThis, the asset manager argued, \"may, in fact, instead of raising the bar across the market, prompt some market participants to opt out entirely. This could include companies considering whether to list in the UK.\" BlackRock insisted that establishing \"the trust necessary to support effective dialogue\" requires that some conversations stay behind closed doors.\r\n\r\nThe FRC is the UK's accounting watchdog, but also oversees the country's corporate governance guidelines and stewardship code. The body is due to be replaced with a new regulator after a damning review of its operations concluded earlier this year.",
+      "img": "BLACKROCK.jpg"
+    },
+    {
+      "news_id": 31064,
+      "newsDate": "2019-05-21T10:00:00.000Z",
+      "headLine": "BlackRock to outsource Deutsche voting",
+      "shortArticle": "BlackRock has mandated a specialised company to cast its votes at the Deutsche Bank AG shareholder meeting this Wednesday. Regulation was the reason used to explain BlackRock’s decision[[B]], with a spokesman saying, “BlackRock appoints an independent fiduciary to vote proxies where we are required by regulation or where there are actual or perceived conflicts of interest.”\r\n\r\nDeutsche Bank, Germany’s largest lender, saw its shares fall 3.5 percent to a new record low on Monday. The bank also ended incomplete merger talks with Commerzbank AG last month, and investors are uncertain of Deutsche’s strategy going forward.\r\n\r\nThe meeting agenda for Deutsche Bank includes a resolution to remove Chairman Paul Achleitner. ISS recommends voting against this ousting, while Glass Lewis recommends abstaining from the proposal. Both advisory firms have recommended voting against the bank’s supervisory board.\r\n\r\nVice Chairman of BlackRock, Philipp Hildebrand, commented on the upcoming AGMs for Deutsche and Commerzbank, saying, “These meetings are not going to be fun for the boards or the management undoubtedly,” adding that the two lenders will need to find “an answer to the business model problem which has been at the core of European banking.”\r\n",
+      "img": "Deutsche Bank.jpg"
+    },
+    {
+      "news_id": 30553,
+      "newsDate": "2019-04-24T09:35:00.000Z",
+      "headLine": "Bayer's management under fire from shareholders",
+      "shortArticle": "Executives at German pharmaceutical firm Bayer AG are facing considerable opposition from a number of large shareholders ahead of the firm's annual meeting later this week. Specifically, shareholders have said they will not support executives and board members in a no-confidence vote, that despite not having legal implications, will raise questions about the future of Bayer's chief executive Werner Baumann.\r\n\r\nThe opposition is centered around Bayer's acquisition of US agriculture firm Monsanto last year. Lawsuits and health concerns connected with Roundup, Monsanto's weedkiller product, have caused Bayer's share price to plummet by 38 percent. Ingo Speich of Deka Investment, one of Bayer's disgruntled shareholders, said: \"In all good conscience, we can’t exculpate management if so much shareholder value is destroyed.\"\r\n\r\nAccording to people close to the matter, fellow shareholders BlackRock and DWS, the asset manager of Deutsche Bank, are both intending to abstain from the vote. Proxy advisers Glass Lewis and Institutional Shareholder Services have both called for a vote of no confidence in Mr Baumann and other senior executives.",
+      "img": "Bayer.jpg"
+    },
+    {
+      "news_id": 30425,
+      "newsDate": "2019-04-16T10:36:00.000Z",
+      "headLine": "LGIM tighten overboarding stance",
+      "shortArticle": "The UK’s largest fund manager, Legal & General Investment Management (LGIM), has updated its voting policy to take a tougher stance on overboarding, joining BlackRock and Vanguard in tightening their guidelines on this issue. \r\n\r\nSacha Sadan, director of corporate governance at LGIM, said, “If you are the chief executive of a big business, it’s very difficult for you to have many other outside roles… The increased figures reflect the higher standards we expect companies to adhere to.” \r\n\r\nLGIM is a £1tn investment group and has updated its global voting policy to state that executive directors should not take on more than one outside non-executive director role. In January, BlackRock also changed its voting guidelines for Europe, Africa and the Middle East, requiring companies to provide explanation when independent directors serve on more than three other public boards, and when chairmen serve on more than two other boards.\r\n\r\nIn 2018 LGIM voted against the re-election of 3,864 directors globally, 37 percent more votes against than the year before. LGIM also voted against audit-related issues in 2018 four times more than in 2017.\r\n",
+      "img": "Legal and General.jpg"
+    },
+    {
+      "news_id": 29518,
+      "newsDate": "2019-02-26T09:39:00.000Z",
+      "headLine": "Fink urges Japanese companies to consider purpose",
+      "shortArticle": "BlackRock CEO Larry Fink has written to Japanese companies urging them to consider their purpose. The letter was sent to around 500 listed companies in Japan, all of which can count BlackRock among their shareholders.[[B]]\r\n\r\nMr Fink's annual \"Dear CEO\" letter, which had already been sent to companies in some other markets, was provided to Japanese issuers yesterday. In the letter, he wrote that when a business \"truly understands and expresses its purpose, it functions with the focus and strategic discipline that drive long-term profitability.\" He went on to say that it will become more and more important for a company to account for ESG considerations and serve all of its stakeholders as wealth moves into the hands of younger generations.\r\n\r\nTo support these points, Mr Fink referenced a survey of millennials conducted by Deloitte. The survey questioned millennials who work full time and are educated to at least degree level. It found that 60 percent of them believe that businesses should not just focus on \"generating profit,\" but also on \"improving society.\"",
+      "img": "Larry Fink.jpg"
+    },
+    {
+      "news_id": 29422,
+      "newsDate": "2019-02-20T10:48:00.000Z",
+      "headLine": "<i>From our Twitter feed</i>",
+      "shortArticle": "BlackRock and Marathon Asset Management seeking reasons for departure of Lixil CEO <b>#CorpGov</b> <a href=\"https://s.nikkei.com/2V9aKNC\">s.nikkei.com/2V9aKNC</a>[[B]]",
+      "img": "Lixil.jpg"
+    },
+    {
+      "news_id": 29403,
+      "newsDate": "2019-02-19T10:52:00.000Z",
+      "headLine": "<i>From our Twitter feed</i>",
+      "shortArticle": "The top two asset managers, BlackRock and Vanguard, attracted 57% of net inflows last year <b>#CorpGov</b> <a href=\"https://on.ft.com/2GOjTqR\">on.ft.com/2GOjTqR</a>[[B]]",
+      "img": "BLACKROCK.jpg"
+    },
+    {
+      "news_id": 29356,
+      "newsDate": "2019-02-15T10:04:00.000Z",
+      "headLine": "Asset managers united against ownership limits",
+      "shortArticle": "A number of asset managers have united against proposed limits on company ownership. Around two dozen investors, including BlackRock and State Street, have all opposed the idea in comments to the US Federal Trade Commission (FTC).[[B]]\r\n\r\nThe FTC held a consultation last year on the concept of \"common ownership,\" the idea that when investors have significant holdings across multiple companies in an industry there are fewer incentives to compete or innovate. One academic proposal under discussion suggests that investors be limited to owning one company per sector or one percent of an industry as a whole. Since the consultation, multiple investors have submitted comments to the FTC, opposing the theory of common ownership and urging the Commission to reject the proposal.\r\n\r\nOne of the firmest critics has been BlackRock. The world's largest investor's letter to the FTC, signed by vice-chair Barbara Novick and Chief Risk Officer Bennett Golub, highlighted efforts by BlackRock to influence company strategy despite broad investment in a sector. The letter also criticized a talk at the hearing by Oxford professor Martin Schmalz, saying he misrepresented the investor's engagement activities.",
+      "img": "FTC.jpg"
+    },
+    {
+      "news_id": 29355,
+      "newsDate": "2019-02-15T09:54:00.000Z",
+      "headLine": "BlackRock vice chair supports further proxy adviser regulation",
+      "shortArticle": "According to the Main Street Investors Coalition, BlackRock vice chair Barbara Novick said during an event in early February that proxy advisers should be required to disclose conflicts of interest and allow issuers to refute their recommendations before they are sent out to investors.\r\n\r\nMs Novick's November letter to the Securities and Exchange Commission (SEC) expressed similar views. This puts BlackRock at odds with many other institutional investors and investor rights organizations, including the Council of Institutional Investors (CII) and the Principles for Responsible Investment (PRI). Many of these investors and organizations see further proxy adviser regulation as an attempt to dilute adviser influence within the corporate governance world.",
+      "img": "Barbara Novick.jpg"
+    },
+    {
+      "news_id": 29252,
+      "newsDate": "2019-02-11T08:44:00.000Z",
+      "headLine": "Imperial Brands chair expected to step down",
+      "shortArticle": "Mark Williamson, chair of Imperial Brands, is expected to leave the company in the next few months. According to a report in The Times, the tobacco group plans to replace Mr Williamson because of his lengthy tenure chairing the board.[[B]]\r\n\r\nMr Williamson has served as chair of Imperial Brands since 2007. This exceeds the nine-year limit recommended by the UK's latest corporate governance guidelines. According to The Times, the introduction of the new guidelines prompted the tobacco giant to begin succession planning for Mr Williamson, and as a result the company is likely to announce his departure this year.\r\n\r\n17.8 percent of shareholders voted against Mr Williamson's re-election at the company's AGM last week, although it is believed that much of this was down to concerns about overboarding rather than tenure. He also chairs another board and serves as both senior independent director and audit committee chair at the National Grid. It is understood that BlackRock, which owns 5.6 percent of Imperial Brands, voted against his re-election. The world's largest investor tightened its rules on overboarding as part of its proxy voting policy updates this year, and Mr Williamson did not meet the new standards.",
+      "img": "Imperial Brands.jpg"
+    },
+    {
+      "news_id": 29212,
+      "newsDate": "2019-02-07T10:49:00.000Z",
+      "headLine": "Letters sent to asset owners and managers",
+      "shortArticle": "Letters were sent to large institutional asset owners and managers by eight US senators asking them to ensure that the companies in which they invest are doing enough to address global deforestation. Asset owners and managers that received a letter include BlackRock, Vanguard, CalPERS, TIAA-CREF, J.P. Morgan Chase, Prudential Financial, Northern Trust and Fidelity Investments.\r\n\r\nIn each letter it was stated that risks emerging from deforestation \"is in line with your fiduciary responsibility. As such, we are interested in learning what due diligence and risk management procedures your firm has put in place to address and mitigate these risks for both active investments and passively managed funds.\" The senators expect asset owners and managers to respond to the letter by the start of March. The letter campaign is led by senator Brian Schatz, the co-chair of the Senate Climate Action Task Force. \r\n\r\nAccording to Jeff Conant, international forests program manager for advocacy group Friends of the Earth: \"The fact that leading members of the Senate Climate Action Task Force and the Senate Banking Committee are now pressing the nation's top investment firms on their approach to managing deforestation risks should be seen as a very big deal.... It shows that awareness of the financial sector's ties to forest destruction has hit the political mainstream.\"",
+      "img": "Forest.jpg"
+    },
+    {
+      "news_id": 28896,
+      "newsDate": "2019-01-21T10:09:00.000Z",
+      "headLine": "EU lawmakers to possibly constrain large index fund managers",
+      "shortArticle": "Based on research on common ownership theory carried out by the Organisation for Economic Co-operation and Development (OECD), European lawmakers are currently looking at the threat posed by large index fund managers.\r\n\r\nCommon ownership is a theory developed within US academic circles. It argues that passive index fund managers, owning stakes in multiple companies within a sector, are incentivized to constrain competition within that sector. According to the OECD research, the three largest international index fund managers, BlackRock, Vanguard and State Street, collectively own 17.6 percent of 1,662 listed US firms.\r\n\r\nLast week, the OECD research was quoted by the European Parliament. The institution stated that higher levels of common ownership would have a \"hidden social cost and reduced product competition.\" For instance, German Green MEP Sven Giegold argued that the \"dramatic change in the asset management industry\" could be dangerous to the running of a market economy. He went on to call for large index fund houses to be regulated.\r\n\r\nThese concerns are not new. Last year, EU competition Commissioner Margrethe Vestager began looking into the effects of common ownership on competition. The debate  is also at a nascent stage within the US, the Federal Trade Commission (FTC) conducting a hearing on the subject of common ownership last month.\r\n\r\nLarge index fund managers, however, argue that the OECD research is flawed. BlackRock sent a letter to the FTC's hearing on common ownership, stating: \"Any debate on ‘common ownership’ should be grounded in accurate and robust analysis. To date, the existing research does not meet this standard.\"\r\n\r\nThe index fund managers also contend that the incentive to reduce competition between firms does not exist and that the research does not take into account the influence of proxy advisers over shareholder voting. Speaking on the subject, BlackRock vice-chair Barbara Novick said that attempts to constrain large index fund managers were seeking \"to fix a problem that does not exist.\" She also noted that possible solutions, such as limiting managers to one equity stake per sector, were a \"cause for concern.\"",
+      "img": "BLACKROCK-1.jpg"
+    },
+    {
+      "news_id": 28868,
+      "newsDate": "2019-01-18T08:57:00.000Z",
+      "headLine": "BlackRock's Larry Fink sends latest letter to CEOs",
+      "shortArticle": "Larry Fink, chief executive of BlackRock, has written his latest annual \"Dear CEO\" letter. Mr Fink says that the near-US$6 trillion asset manager will focus on issues such as the environment, diversity and executive pay this year.[[B]]\r\n\r\nThe letter was titled \"Purpose and Profit,\" and it urged business leaders to take action in a time when \"frustration with years of stagnant wages, the effect of technology on jobs, and uncertainty about the future have fueled popular anger, nationalism, and xenophobia.\"\r\n\r\nHe continued: \"Companies cannot solve every issue of public importance, but there are many – from retirement to infrastructure to preparing workers for the jobs of the future – that cannot be solved without corporate leadership.\" Indeed, the issue of retirement was one that Mr Fink gave some attention to in the letter, encouraging businesses to help their workers save for their later years. \"In doing so,\" he said, \"companies will create not just a more stable and engaged workforce, but also a more economically secure population in the places where they operate.\"\r\n\r\nMr Fink also said that ESG would become \"increasingly meaningful to corporate valuations\" over the coming years. Surveys have shown that younger savers place more weight on environmental and social considerations when investing than previous generations have done.",
+      "img": "Larry Fink.jpg"
+    },
+    {
+      "news_id": 28851,
+      "newsDate": "2019-01-17T11:35:00.000Z",
+      "headLine": "<i>From our Twitter feed</i>",
+      "shortArticle": "BlackRock has now updated most of its regional proxy voting guidelines for 2019 <b>#ProxyVoting #CorpGov</b> <a href=\"http://bit.ly/2RvOhgi\">bit.ly/2RvOhgi</a>[[B]]",
+      "img": "BLACKROCK.jpg"
+    },
+    {
+      "news_id": 28475,
+      "newsDate": "2018-12-14T12:11:00.000Z",
+      "headLine": "Thermal coal increasingly prominent in asset manager portfolios",
+      "shortArticle": "According to an analysis carried out by UK-based InfluenceMap, the 15 largest international asset managers have increased thermal coal reserves within their portfolios by 20 percent since the signing of the Paris Accord in 2016. This is despite the fact that the reserves of the 300 largest global fossil fuel issuers have risen only 6 percent over the same time frame. \r\n\r\nApparently, the main reason for this shift seems to be the growing popularity of passive investing. Ranked by the tons of coal per US$1 million in assets, BlackRock ranks highest among the ten largest fund houses.\r\n\r\n",
+      "img": "Coal_151012.jpg"
+    },
+    {
+      "news_id": 28442,
+      "newsDate": "2018-12-13T10:28:00.000Z",
+      "headLine": "<I>From our Twitter feed</I>",
+      "shortArticle": "Opinion piece in the FT on the increasing dominance of large fund managers <b>#corpgov #proxyvoting</b> <A HREF = \"https://on.ft.com/2QvUEQg\">on.ft.com/2QvUEQg</A>[[B]]\r\n",
+      "img": "BLACKROCK.jpg"
+    },
+    {
+      "news_id": 28110,
+      "newsDate": "2018-11-26T09:51:00.000Z",
+      "headLine": "BlackRock suggests proxy process improvements",
+      "shortArticle": "As the SEC continues to review the proxy reforms following the recent roundtable, BlackRock has made suggestions as to how the system could be improved. The asset management giant offered opinions on shareholder proposals and proxy advisers.[[B]]\r\n\r\nIn a recent letter to the US securities regulator, BlackRock suggested that the shareholder proposal process might \"benefit from greater transparency.\" The firm suggested the SEC should start collecting data on proposals, such as the costs they have incurred, as this could \"help in modernising the eligibility criteria for initial submissions.\"\r\n\r\nBlackRock also weighed in on the debate about the regulation of proxy advisers. \"Governance services firms play an important support role, helping institutional investors meet their fiduciary responsibility to vote thousands of securities in an informed manner, usually in a very compressed timeframe,\" BlackRock acknowledged in its letter. However, the firm also said that more \"disclosure around potential conflicts of interest and how they are mitigated may be warranted.\"\r\n\r\nThe letter was signed by vice-chair Barbara Novick and head of investment stewardship for the Americas Ray Cameron.",
+      "img": "BLACKROCK-1.jpg"
+    },
+    {
+      "news_id": 27725,
+      "newsDate": "2018-11-01T13:52:00.000Z",
+      "headLine": "Fink predicts big future for ESG",
+      "shortArticle": "Larry Fink has told the New York Times' DealBook conference he believes every active manager will use ESG lenses in as little as five years[[B]].\r\n\r\nThe CEO of BlackRock, the world's largest asset manager, said using ESG criteria was primarily a question of accessing appropriate data, saying demand from clients was \"overwhelming.\"\r\n\r\nFink defended his letter to public company CEOs at the beginning of the year, in which he called on executives to consider the purpose of their business. \"I'm not telling any company what their purpose should be,\" he told New York Times columnist Andrew Ross Sorkin. \"It's up to the companies to identify their purpose.\"\r\n\r\nThe Rockefeller Foundation's Saadia Madsbjerg, one of the first to coin the phrase impact investing, called Fink's letter \"a true gift to impact investing,\" citing its influence bringing the discussion from private to public markets.\r\n\r\nFink was also quizzed on his decision not to attend a conference linked to the Saudi royal family, saying it had not cost BlackRock any business to date, and the risk of running a consistent deficit when China held a large amount of U.S. treasuries and could influence interest rates.\r\n\r\n\"If the path remains the same for the next two weeks we're going to have a full-fledged trade war,\" Fink said. \"Let's hope I'm wrong, let's hope the U.S. and China come to an agreement.\"\r\n\r\nFink also touched on BlackRock's engagement with firearm manufacturers and retailers. The investor divested its active stakes in a number of gunmakers and engaged with those companies through its stewardship team following a shooting at a school in Parkland, Florida on Valentine's Day 2018.",
+      "img": "BLACKROCK-1.jpg"
+    },
+    {
+      "news_id": 27559,
+      "newsDate": "2018-10-24T09:22:00.000Z",
+      "headLine": "US investors in favor of sunset provisions for dual-stock structures",
+      "shortArticle": "A group of US investors, including many of the country's main pension funds and the asset managers BlackRock and T. Rowe Price, plan to ask stock exchanges to introduce sunset provisions for companies with unequal voting right structures.[[B]] \r\n\r\nAccording to director of the Council of Institutional Investors (CII) Ken Bertsch, the introduction of sunset provisions would represent a compromise between advocates of the one share, one vote principle and stock exchanges attempting to entice companies to list.\r\n\r\nDual-stock structures are popular among US tech firms, allowing founders voting power out of proportion to their stake in the company. Sunset provisions would see the superior voting rights of founders revert to a traditional one share, one vote structure, usually after a set amount of time.\r\n\r\nThe group of investors will ask Intercontinental Exchange and Nasdaq to require that listed companies choosing to go public with dual-stock structures  surrender them within seven years. Such companies would be allowed to extend the structure for another seven years if supported by a majority of shareholders voting on an equal basis.",
+      "img": "Sunset provisions.jpg"
+    },
+    {
+      "news_id": 27538,
+      "newsDate": "2018-10-23T09:53:00.000Z",
+      "headLine": "BlackRock plans to become leader in sustainable investment",
+      "shortArticle": "According to BlackRock chief executive Larry Fink, the asset manager intends to be at the forefront of sustainable investment. The world's largest fund house has recently launched a number of exchange traded funds (ETFs) incorporating ESG criteria.[[B]]\r\n\r\nThe $7 billion BlackRock currently invests in these socially-conscious ETFs is already approximately a quarter of the global total. Mr Fink expects the $25 billion market to expand to over $400 billion in the next ten years. Speaking to the <I>Financial Times</I>, he said that \"Sustainable investing will be a core component for how everyone invests in the future....We are only at the early stages.\"\r\n\r\nBlackRock's enthusiasm for ETFs incorporating ESG criteria has been seen as an attempt by the asset manager to capitalize on two rising trends in the investment world. Firstly, the proliferation of low-cost, passive investing and secondly the increasingly widespread enthusiasm among institutional investors for the incorporation of ESG factors into investment processes. \r\n\r\nBlackRock's assets under management continue their inexorable rise, now a colossal $6.4 trillion.",
+      "img": "Larry Fink.jpg"
+    },
+    {
+      "news_id": 27405,
+      "newsDate": "2018-10-15T10:03:00.000Z",
+      "headLine": "BlackRock clarifies its position on the FRC",
+      "shortArticle": "In a letter to the editor, the world's largest asset manager asserted that its position, as presented in the <I>Financial Times</I> article 'BlackRock under fire for backing watchdog', was not fully reflective of its stance on the future of the UK Financial Reporting Council (FRC). According to Vice-chair Barbara Novick, the article suggests that BlackRock is not in favor of overhauling the FRC's oversight regime.\r\n\r\nIn the letter, Ms Novick reiterates BlackRock's support for the FRC's operational functions, as the asset manager believes that the institution's corporate governance and stewardship oversight responsibilities fit comfortably alongside its accounting and auditing duties. However, BlackRock does advocate the significant reforming of these functions, even though its position falls short of a parceling out of the institution's responsibilities to other bodies. \r\n\r\nIn its independent review, BlackRock outlined that the FRC should better align its duties with its mission and highlighted the need for better regulation and oversight with regards to auditing and accounting practices. The asset manager is also in favor of extending culpability for auditing practices to entire boards by gifting the FRC sanctioning powers against company directors.",
+      "img": "BLACKROCK-1.jpg"
+    },
+    {
+      "news_id": 27388,
+      "newsDate": "2018-10-12T10:49:00.000Z",
+      "headLine": "BlackRock expands its low-carbon strategy",
+      "shortArticle": "The world's largest asset manager has joined with Wespath Benefits and Investments to contemplate new ways in which it can invest in the low-carbon economy. BlackRock is now looking for opportunities associated with the gradual shift towards the widespread use of sustainable energy. \r\n\r\nLike many other asset managers, BlackRock already offers its clients funds that focus exclusively on companies with low-carbon footprints. However, Wespath goes further, investing in companies that do more than merely have a low-carbon footprint. These include firms that invest directly in renewable energy and companies that use technology to limit the use of natural resources or increase efficiency. Wespath manages $23 billion on behalf of the US United Methodist Church.\r\n\r\nSpeaking on BlackRock's expansion to its low-carbon strategy, Brian Deese, the asset manager's global head of sustainable investing, said that it is \"seeing and will see a greater disruption across a wide variety of industries.... There is a long-term financial upside if you can be a transition-ready investor.\" \r\n\r\nBlackRock's strategy endeavors to profit from the low-carbon transition and will be managed on a passive basis. Wespath will allocate $750 million to the strategy. Although it is currently in its testing phase, BlackRock is already considering whether to offer the strategy to the rest of its clients.",
+      "img": "BLACKROCK-1.jpg"
+    },
+    {
+      "news_id": 27312,
+      "newsDate": "2018-10-09T09:47:00.000Z",
+      "headLine": "BlackRock backs embattled British regulator",
+      "shortArticle": "Investment giant BlackRock has spoken up in support of the UK's audit and accounting regulator, the Financial Reporting Council (FRC). The FRC is currently under review, with some calling for it to be reformed.[[B]]\r\n\r\nIn its response to the review, led by Legal & General chair Sir John Kingman, BlackRock has insisted that there should not be \"wholesale changes\" to the UK's accounting watchdog. The multi-trillion-dollar asset manager has also called for the FRC's powers to be expanded. BlackRock said that the FRC, which also oversees corporate governance in the UK, should have the power to investigate any director of a company. Currently, the watchdog can only investigate directors if they are also registered as either accountants or actuaries.\r\n\r\nThe FRC has itself called for its powers to be expanded. A number of accountants recently issued a similar call, arguing that the regulator could better oversee companies if it had stronger powers to investigate directors and executives. BlackRock also suggested that the FRC would benefit from having more resources at its disposal, particularly for investigating \"grey areas\" where \"a series of individually legitimate accounting practises... taken together, give rise to a misleading picture of a company’s health.\"",
+      "img": "BLACKROCK-1.jpg"
+    },
+    {
+      "news_id": 27295,
+      "newsDate": "2018-10-08T10:40:00.000Z",
+      "headLine": "Fund managers hold UK directors to account",
+      "shortArticle": "Proxy Insight data has shed some light on those asset managers most willing to hold UK directors to account. BlackRock, Legal & General Investment Management (L&G), Aviva Investors and UBS Asset Management were revealed to be among the most rebellious large managers.[[B]]\r\n\r\nAccording to L&G's director of corporate governance, Sacha Sadan, the fund house voted against directors at UK firms for various reasons, including overboarding, executive pay and a lack of board diversity. He also expects that resistance will grow in the coming years, as investors increasingly vote against culpable directors directly on their re-election proposals rather than merely opposing the relevant resolutions.\r\n\r\nDirector of corporate governance at FTI Consulting, Peter Reilly echoed Mr Sadan's last point, arguing that investors are increasingly singling out directors for dissent if they believe that the pace of change is too slow: \"Chairs of each key committee are in the line of fire. They are easily identifiable and have taken on additional responsibility. They are supposed to take an active role and to spur action in an active way. The threat of going to an AGM and being voted down would be significant for a director.\"",
+      "img": "boardroom.jpg"
+    },
+    {
+      "news_id": 26929,
+      "newsDate": "2018-09-17T10:24:00.000Z",
+      "headLine": "2017 sees rise in CEO pay for asset managers",
+      "shortArticle": "A study by FTfm has compared the remuneration of US and European CEOs at asset managers for 2017. The general trend was record earnings for CEOs during a year that also saw annual profits reach new heights. \r\n\r\nIt must be noted that transparency surrounding asset manager executive pay remains generally poor. Only a small number of asset managers disclose the remuneration of their executives. Despite this, FTfm managed to compare the executive pay of many asset managers to their respective revenues. \r\n\r\nPresented as a ratio, Mario Gabelli, the majority owner of Gamco, tops the list (1925:1). In 2017, he received $69.4 million despite the small size of his company. This was equal to approximately 43 percent of the company's operating profits and more than double the $28 million earned by BlackRock's Larry Fink, CEO of the world's largest asset manager. Amundi's Yves Perrier was at the bottom of the list, his salary rising to €2.58 million in 2017. Mr Perrier's pay to revenue ratio was 9.5:1.\r\n\r\n\r\n\r\n",
+      "img": "mario gabelli.jpg"
+    },
+    {
+      "news_id": 26689,
+      "newsDate": "2018-08-31T11:15:00.000Z",
+      "headLine": "<i>From our Twitter feed</i>",
+      "shortArticle": "BlackRock supported vote to replace Elon Musk with independent chair at Tesla, voting disclosures show <b>#CorpGov #ProxyVoting $TSLA</b> <a href=\"https://reut.rs/2MImsPg\">reut.rs/2MImsPg</a>[[B]]",
+      "img": "Tesla Model 3.jpg"
+    },
+    {
+      "news_id": 26640,
+      "newsDate": "2018-08-29T10:57:00.000Z",
+      "headLine": "<i>From our Twitter feed</i>",
+      "shortArticle": "Vanguard, the world's second-largest asset manager, is catching up with the largest, BlackRock, and could overtake by 2021 <b>#CorpGov</b> <a href=\"https://on.ft.com/2MFEAJX\">on.ft.com/2MFEAJX</a>[[B]]",
+      "img": "Vanguardlogo13.07.17.jpg"
+    }
+  ]
+}

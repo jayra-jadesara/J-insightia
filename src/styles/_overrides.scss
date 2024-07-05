@@ -1,0 +1,30 @@
+.nav-item {
+  .nav-link {
+    display: flex;
+    align-items: center;
+    border-radius: 0;
+
+    &.active {
+      color: #fff;
+      // opacity: 1;
+      border-radius: 0;
+    }
+  }
+}
+
+.sidebar .nav a {
+  transition: all 150ms ease-in;
+}
+
+.card-header {
+  text-transform: uppercase;
+}
+
+.badge:empty {
+  display: inline-block;
+}
+
+.modal-backdrop.show {
+  opacity: .5;
+  zoom: 2;
+}

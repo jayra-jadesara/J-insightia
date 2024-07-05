@@ -1,0 +1,44 @@
+.cr-quickSearch {
+  margin-top: 10px;
+  text-transform: uppercase;
+  width: 100%;
+
+  & .btnQuickSearch {
+    font-size: 0.9rem;
+    padding: 0.175rem 0.52rem;
+    color: white;
+    font-weight: 300;
+    background-color: $secondary;
+    border: 0px solid black;
+    line-height: 1.5;
+    position: relative;
+    text-transform: uppercase;
+  }
+  button::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    z-index: 100;
+    top: 7px;
+    width: 1px;
+    height: 50%; /* or 100px */
+    background: #d9dee8;
+    opacity: 0.4;
+  }
+
+  .btnQuickSearch:hover {
+    font-weight: 600;
+    color: $primary;
+  }
+  @media (min-width: 1440px) {
+    .btnQuickSearch {
+      font-size: 1rem;
+      padding: 0.275rem 0.72rem;
+      color: white;
+      font-weight: 300;
+      background-color: $secondary;
+      border: 0px;
+      line-height: 1.5;
+    }
+  }
+}

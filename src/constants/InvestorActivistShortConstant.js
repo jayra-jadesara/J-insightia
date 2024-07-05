@@ -1,0 +1,5 @@
+export const INVESTOR_ACTIVIST_SHORT_SHORT = 'S';
+
+export default {
+  INVESTOR_ACTIVIST_SHORT_SHORT
+};

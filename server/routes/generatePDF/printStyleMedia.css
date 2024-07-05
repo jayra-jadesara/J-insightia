@@ -1,0 +1,16 @@
+@media print {
+  .pdfpagebreak {
+    page-break-before: always;
+    page-break-inside: avoid !important;
+  }
+  .pdfpb-30 {
+    padding-bottom: 30px !important;
+  }
+  .cr-myCard {
+    min-height: auto;
+  }
+  .cr-myCard .divTitle .titleSelection {
+    page-break-inside: avoid !important;
+  }
+}
+/*# sourceMappingURL=printStyleMedia.css.map */

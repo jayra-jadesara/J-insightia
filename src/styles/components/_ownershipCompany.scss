@@ -1,0 +1,19 @@
+.cr-ownershipCompany {
+  & .nav-tabs {
+    border-bottom: 1px solid #ffffff;
+    & .nav-item {
+      & .nav-link {
+        background-color: #f1f1f1;
+        border-bottom: 1px solid #193d75;
+        &.active {
+          color: #193d75;
+          border-top: 1px solid #193d75 !important;
+          border-right: 1px solid #193d75 !important;
+          border-left: 1px solid #193d75 !important;
+          border-bottom: 1px solid white;
+          background-color: white !important;
+        }
+      }
+    }
+  }
+}

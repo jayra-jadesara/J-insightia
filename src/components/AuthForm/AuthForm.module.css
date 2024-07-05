@@ -1,0 +1,163 @@
+/* ---------- START FORM ANIMATION ---------- */
+.main {
+  animation: fadeInAnimation ease 2s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+
+@keyframes fadeInAnimation {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.animatebottom {
+  position: relative;
+  animation: animatebottom 0.6s;
+}
+@keyframes animatebottom {
+  from {
+    bottom: -300px;
+    opacity: 0;
+  }
+  to {
+    bottom: 0;
+    opacity: 1;
+  }
+}
+
+/* ---------- END FORM ANIMATION ---------- */
+.container {
+  left: 50%;
+  position: fixed;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* ---------- LOGIN ---------- */
+.login form {
+  width: 350px;
+}
+
+.login,
+.logo {
+  display: inline-block;
+  width: 45%;
+}
+
+.logoForgetPassword {
+  display: inline-block;
+  width: 25%;
+}
+
+.logo,
+.logoForgetPassword {
+  border-right: 1px solid #ced4da;
+  margin: auto;
+}
+
+.require {
+  display: inline-block;
+  border-left: 1px solid #ced4da;
+  text-align: left;
+  margin: auto;
+  padding: 20px;
+}
+
+.logo img,
+.logoForgetPassword img {
+  width: 250px;
+  padding: 50px 0;
+  box-sizing: initial;
+}
+
+.login {
+  padding: 0px 22px;
+  width: 55%;
+}
+
+.loginForgetPassword {
+  padding: 0px 22px;
+  width: 75%;
+  display: flex;
+}
+
+.login h1,
+.loginForgetPassword h1 {
+  color: #1eb8ec;
+  text-align: initial;
+  margin-bottom: 0;
+  /* font-size: 35px; */
+}
+
+.login form input,
+.loginForgetPassword form input {
+  height: 50px;
+  width: 100%;
+}
+
+.middle {
+  display: flex;
+  width: 800px;
+}
+
+.middleForgetpass {
+  display: flex;
+  width: 1300px;
+}
+
+.spanSubmitConformation {
+  float: left;
+}
+
+.isValidPassword {
+  color: green;
+}
+
+.isInvalidPassword {
+  color: red;
+}
+
+@media only screen and (max-width: 600px) {
+  .login,
+  .logo,
+  .logoForgetPassword,
+  .loginForgetPassword {
+    display: inline-block;
+    width: 100%;
+  }
+
+  .login form,
+  .loginForgetPassword form {
+    width: 100%;
+  }
+
+  .middle,
+  .middleForgetpass {
+    width: 100%;
+    display: initial;
+  }
+
+  .container {
+    left: unset;
+    position: unset;
+    top: unset;
+    transform: unset;
+  }
+
+  .login h1,
+  .loginForgetPassword h1 {
+    /* font-size: 30px; */
+  }
+  .logo,
+  .logoForgetPassword {
+    border-right: 0;
+  }
+  .require {
+    border-left: 0;
+    padding: 12px;
+  }
+}

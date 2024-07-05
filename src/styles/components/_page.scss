@@ -1,0 +1,445 @@
+// page
+.cr-page {
+  min-height: auto;
+  padding-top: 30px;
+  &__header {
+    @include media-breakpoint-down(sm) {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    display: flex;
+    align-items: flex-end;
+    align-self: center;
+  }
+
+  &__title {
+    @include media-breakpoint-down(sm) {
+      margin-bottom: 0;
+    }
+    padding-right: 0.5rem;
+    margin-bottom: $standard;
+  }
+
+  &__breadcrumb {
+    @include media-breakpoint-down(sm) {
+      align-self: flex-start;
+    }
+    align-self: flex-end;
+    padding: 0;
+
+    text-transform: capitalize;
+    background: theme-color("light");
+  }
+  &__header {
+    display: inline-block;
+    & h1 {
+      padding: 0;
+      margin: 0;
+    }
+  }
+
+  .row {
+    .col,
+    > [class^="col-"] {
+      margin-bottom: $standard;
+    }
+  }
+
+  & .tblAdvanceVotingData small {
+    color: red;
+  }
+
+  @include sm {
+    & .divFilterTable {
+      width: 50%;
+    }
+    & .divShowHideTable {
+      width: 50%;
+    }
+  }
+
+  @include md {
+    & .divFilterTable {
+      width: 50%;
+    }
+    & .divShowHideTable {
+      width: 50%;
+    }
+  }
+}
+
+.cr-underconstruction {
+  background-color: #ffff;
+}
+
+.cr-title__ {
+  background-color: transparent;
+  color: $navyfonttext;
+  & .titleComponentLogo {
+    @media (max-width: $screen-md-max) {
+      display: none !important;
+    }
+  }
+}
+
+.pdfCustomStyle {
+  position: absolute;
+  top: 95px;
+  right: 5px;
+  @media (max-width: $screen-md-max) {
+    display: none !important;
+  }
+}
+.pdfCustomStyleTool {
+  position: absolute;
+  right: 280px;
+  top: 14.5px;
+  @media (max-width: $screen-md-max) {
+    display: none !important;
+  }
+}
+.pdfBtnResolutionTool {
+  position: absolute;
+  right: 135px;
+  top: 50.5px;
+  @media (max-width: $screen-md-max) {
+    display: none !important;
+  }
+}
+
+.mainTitleBar {
+  background-color: #ffff !important;
+}
+
+.skeletonLoader {
+  body {
+    margin: 0;
+  }
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .post {
+    width: 100%;
+    // height: 80px;
+  }
+
+  .post .navHeaderSkeleton {
+    float: left;
+    width: 50%;
+    height: 40px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    // background-image: linear-gradient(90deg, #ddd 0px, #e8e8e8 40px, #ddd 80px);
+    background-image: linear-gradient(
+      90deg,
+      #dddddd8c 0px,
+      #e8e8e8ad 40px,
+      #dddddd70 80px
+    );
+    background-size: 600px;
+    animation: shine-lines 1.5s infinite linear;
+  }
+
+  .post .navBreadcrumbsSkeleton {
+    float: left;
+    width: 40%;
+    height: 20px;
+    margin-bottom: 12px;
+    // background-image: linear-gradient(90deg, #ddd 0px, #e8e8e8 40px, #ddd 80px);
+    background-image: linear-gradient(
+      90deg,
+      #dddddd8c 0px,
+      #e8e8e8ad 40px,
+      #dddddd70 80px
+    );
+    background-size: 600px;
+    animation: shine-lines 1.5s infinite linear;
+  }
+
+  .post .navBarSkeleton {
+    float: left;
+    width: 100%;
+    height: 45px;
+    margin-top: 2px;
+    // background-image: linear-gradient(90deg, #ddd 0px, #e8e8e8 40px, #ddd 80px);
+    background-image: linear-gradient(
+      90deg,
+      #dddddd8c 0px,
+      #e8e8e8ad 40px,
+      #dddddd70 80px
+    );
+    background-size: 600px;
+    animation: shine-lines 1.5s infinite linear;
+  }
+
+  .post + .navHeaderSkeleton + .navHeaderSkeleton + .navBreadcrumbsSkeleton {
+    margin-top: 11px;
+    width: 100px;
+  }
+  .post
+    .navHeaderSkeleton
+    ~ .navHeaderSkeleton
+    .navBarSkeleton
+    ~ .navBarSkeleton
+    .navBreadcrumbsSkeleton
+    ~ .navBreadcrumbsSkeleton {
+    background-color: #ddd;
+  }
+
+  @keyframes shine-lines {
+    0% {
+      background-position: -100px;
+    }
+    100% {
+      background-position: 140px;
+    }
+  }
+}
+
+.cr-content {
+  margin: 0;
+  // background: linear-gradient(#f1f4fa, 60%, #dce1eb);
+  background: #eef1f8;
+  // background: linear-gradient(#ebe4e457, 80% ,#c3c3c357);
+}
+
+.navFixed {
+  width: 110%;
+  .sticky-outer-wrapper {
+    height: 75px;
+    background: #eef1f8 !important;
+  }
+}
+
+.noSubHeader .sticky-outer-wrapper {
+  height: 15px;
+  background: #eef1f8 !important;
+}
+
+.cr-myCard {
+  background-color: #ffff;
+  box-shadow: 0 2px 5px 0 rgba(97, 97, 97, 0.2),
+    0 5px 30px 0 rgba(136, 136, 136, 0.19);
+  border: transparent;
+}
+
+.cr-page-spinner {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.breadcrumb {
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 10px 0px;
+  background-color: transparent;
+  font-size: $standard-sm;
+  font-weight: 300;
+  color: $breadcrumbs;
+}
+.breadcrumb-item {
+  font-size: $standard-sm !important;
+}
+
+.breadcrumb a {
+  font-weight: 300;
+  color: $breadcrumbs;
+  padding-left: 3px;
+}
+
+.breadcrumb-item.active {
+  font-size: $standard-sm !important;
+  color: $breadcrumbs;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+  content: "/";
+  color: $breadcrumbs;
+}
+
+.px-3 {
+  background: transparent;
+}
+
+.searchtable {
+  color: $navyfonttext;
+  font-size: $main-nav-items;
+  font-weight: 300;
+
+  .searchtableresults {
+    // background-color: #ffff;
+    background-color: transparent;
+  }
+
+  .tbody,
+  span {
+    font-size: $standard;
+    font-weight: 400;
+  }
+}
+
+//whole of navbar
+.sticky-outer-wrapper {
+  padding: 0;
+  // to make navbar overlay without pushing content down
+  // position: absolute;
+  // z-index: 1;
+
+  & .navbar {
+    background-color: $subnavbar;
+    padding: 0;
+  }
+
+  & .mainnavbar .nav-link.disabled {
+    background: #000000;
+    opacity: 0.3;
+    pointer-events: none;
+    background-color: transparent;
+    background-image: none;
+  }
+
+  & .subnavbar .nav-link.disabled {
+    background: #000000;
+    color: #000000;
+    opacity: 0.3;
+    pointer-events: none;
+    background-color: transparent;
+    background-image: none;
+  }
+
+  & .navbar .nav-link {
+    color: #ffff;
+    font-weight: 300;
+    font-size: $navigation-items;
+    // padding: 15px 15px;
+  }
+
+  & .nav-tabs {
+    border-bottom: none;
+    & .nav-link:hover,
+    & .nav-link:not(:focus) {
+      border: 0;
+    }
+  }
+
+  & .mainnavbar {
+    background-color: $mainnavbar;
+    .nav-link {
+      color: $primary;
+      font-weight: 400;
+    }
+  }
+
+  .nav-link.active:nth-child(1) {
+    text-decoration: underline;
+  }
+
+  //line under nav selected item
+  // & .navbar-light,
+  // .primary-link:active {
+  //   border-bottom: 2px solid $topNavBarPrimary;
+  // }
+
+  & .navbar-light .nav-link.active,
+  .navbar-light .nav-link {
+    transition: 0.5s;
+    transition-delay: 0.5s;
+    padding: 10px 20px;
+  }
+
+  // targets top nav bar items
+  & .navbar-light .primary-link.active,
+  .navbar-light .primary-link:hover {
+    color: #ffff;
+    background-color: $topNavBarPrimary !important;
+    font-weight: 500;
+    border: none !important;
+    text-decoration: none !important;
+    padding: 10px 20px;
+  }
+
+  // targets bottom nav bar items
+  & .navbar-light .nav-link.active,
+  .navbar-light .nav-link:hover {
+    border: 0;
+    color: $primary-text !important;
+    font-weight: 500;
+    transition: 0.1s;
+    transition-delay: 0.1s;
+  }
+}
+
+.w-100 {
+  height: 100%;
+}
+
+.tblShortCampData .divShowHideTable button.btn-primary {
+  position: absolute;
+  right: 130px;
+  top: 18px;
+}
+
+.tblShortCampData .divShowHideTable button.btn-primary.btnsecond {
+  right: 310px;
+}
+
+.btnShowHide {
+  float: right;
+}
+
+//used in ActivistCampaign
+.divChildBlock {
+  margin: 15px auto;
+  width: 90%;
+  color: $primary;
+  padding: inherit;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
+  & table {
+    border: 1px solid #dde2eb;
+    overflow-y: auto;
+    max-height: 100px;
+    display: block;
+    &::-webkit-scrollbar-track {
+      -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+      // background-color: #ffffff;
+    }
+
+    &::-webkit-scrollbar {
+      width: 10px;
+      background-color: #ffffff;
+    }
+
+    &::-webkit-scrollbar-thumb {
+      background-color: $primary;
+      border: 2px solid #ffffff;
+    }
+
+    & tr {
+      border: 1px solid #dde2eb;
+      // border-right: none;
+    }
+    & td:nth-child(1) {
+      width: 120px;
+      font-weight: bold;
+      display: block;
+    }
+    & td:nth-child(3) {
+      width: 100%;
+    }
+    & td {
+      padding: 5px;
+      white-space: pre-line;
+    }
+  }
+}
+.btnToLink {
+  border: 0px;
+  text-decoration: underline !important;
+  background: top; 
+}

@@ -1,0 +1,15 @@
+export const VOTING_DETAILS_VALUE = '1';
+export const VOTING_RESULT_VALUE = '2';
+export const RATIONALE_VALUE = '3';
+export const INVESTOR_VOTING_VALUE = '3';
+export const INTERNAL_VALUE = '4';
+export const COMPANY_RESULTS_VALUE = '5';
+
+export default {
+  VOTING_DETAILS_VALUE,
+  VOTING_RESULT_VALUE,
+  RATIONALE_VALUE,
+  INTERNAL_VALUE,
+  INVESTOR_VOTING_VALUE,
+  COMPANY_RESULTS_VALUE
+};

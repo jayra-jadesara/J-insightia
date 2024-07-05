@@ -1,0 +1,47 @@
+[
+  {
+    "filing_date": "2020-07-11T19:57:00",
+    "activist_id": 1,
+    "company_id": 1,
+    "pcent_held": 1,
+    "document_type": "Toyota",
+    "seq_id": 1,
+    "activist_name": "Toyota",
+    "company_name": "Toyota",
+    "Row": 1,
+    "country_id": 1,
+    "act_country_id": "1",
+    "image_link": "USA.svg",
+    "act_image_link": "USA.svg"
+  },
+  {
+    "filing_date": "2020-07-11T19:57:00",
+    "activist_id": 2,
+    "company_id": 2,
+    "pcent_held": 2,
+    "document_type": "Ford",
+    "seq_id": 2,
+    "activist_name": "Ford",
+    "company_name": "Ford",
+    "Row": 2,
+    "country_id": 2,
+    "act_country_id": "2",
+    "image_link": "USA.svg",
+    "act_image_link": "USA.svg"
+  },
+  {
+    "filing_date": "2020-07-11T19:57:00",
+    "activist_id": 3,
+    "company_id": 3,
+    "pcent_held": 3,
+    "document_type": "Porsche",
+    "seq_id": 3,
+    "activist_name": "Porsche",
+    "company_name": "Porsche",
+    "Row": 3,
+    "country_id": 3,
+    "act_country_id": "3",
+    "image_link": "USA.svg",
+    "act_image_link": "USA.svg"
+  }
+]

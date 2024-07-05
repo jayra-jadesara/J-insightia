@@ -1,0 +1,44 @@
+[
+  {
+    "value": 1,
+    "label": "My Insightia Dashboard",
+    "Module": "Dashboard",
+    "product_id": 0
+  },
+  {
+    "value": 2,
+    "label": "Activism Portal",
+    "Module": "AiO",
+    "product_id": 1
+  },
+  {
+    "value": 3,
+    "label": "Voting Portal",
+    "Module": "PiO",
+    "product_id": 3
+  },
+  {
+    "value": 4,
+    "label": "Activist Shorts Portal",
+    "Module": "AiS",
+    "product_id": 5
+  },
+  {
+    "value": 5,
+    "label": "Governance Portal",
+    "Module": "AiG",
+    "product_id": 6
+  },
+  {
+    "value": 6,
+    "label": "ESG Portal",
+    "Module": "AiG",
+    "product_id": 7
+  },
+  {
+    "value": 7,
+    "label": "Vulnerability Portal",
+    "Module": "AiV",
+    "product_id": 4
+  }
+]

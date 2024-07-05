@@ -1,0 +1,98 @@
+@import "react-select";
+.cr-dropdownList {
+  display: flex;
+
+  & .css-1uccc91-singleValue {
+    background-color: #ebf5ff;
+    border: 1px solid rgba(0, 126, 255, 0.24);
+    font-size: 0.9em;
+    line-height: 1.4;
+    color: #007eff;
+    padding: 2px 5px;
+  }
+
+  & .css-2b097c-container {
+    background-color: transparent;
+    width: 100%;//30rem;
+    @media (max-width: $screen-md-max) {
+      font-size: 1.3rem;
+    }
+    & .css-1lfkbvt-control {
+      -webkit-align-items: center;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      align-items: center;
+      background-color: transparent;
+      // border-color: hsl(0,0%,80%);
+      border-radius: $standard-border-radius;
+      border-style: solid;
+      border-width: 1px;
+      box-shadow: none;
+      cursor: default;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+      -webkit-box-pack: justify;
+      -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+      justify-content: space-between;
+      min-height: 38px;
+      outline: 0 !important;
+      position: relative;
+      -webkit-transition: all 100ms;
+      transition: all 100ms;
+      box-sizing: border-box;
+      border: 0;
+      font-size: $standard;
+    }
+  }
+
+  // #region standard dropdown
+  & .css-1uccc91-singleValue {
+    background-color: #ebf5ff;
+    border: 1px solid rgba(0, 126, 255, 0.24);
+    font-size: 0.9em;
+    line-height: 1.4;
+    color: #007eff;
+    padding: 2px 5px;
+  }
+
+  & .css-1rhbuit-multiValue {
+    background-color: #ebf5ff;
+    & :hover {
+      background-color: #ebf5ff;
+    }
+    & .css-12jo7m5 {
+      border-left: 1px solid rgba(0, 126, 255, 0.24);
+      border-top: 1px solid rgba(0, 126, 255, 0.24);
+      border-bottom: 1px solid rgba(0, 126, 255, 0.24);
+      font-size: 0.9em;
+      line-height: 1.4;
+      color: #007eff;
+      padding: 2px 5px;
+      white-space: normal !important;
+    }
+    & .css-xb97g8 {
+      // X : button
+      border: 1px solid rgba(0, 126, 255, 0.24);
+      font-size: 0.9em;
+      line-height: 1.4;
+      color: #007eff;
+      padding: 0;
+      & :hover {
+        color: #ff0000b8;
+      }
+    }
+  } 
+  // #endregion
+}
+.dropdownPdf {
+  & .css-2b097c-container {
+    background-color: transparent;
+    width: 80rem !important;
+  }
+}

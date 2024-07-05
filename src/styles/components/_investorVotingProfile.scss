@@ -1,0 +1,75 @@
+.cr-investorVotingProfile {
+  & .headerTitle {
+    color: $secondary !important;
+    white-space: normal;
+    line-height: 1.2;
+    // font-weight: 500;
+  }
+  & .subHeaderTitle {
+    color: $primary;
+    white-space: normal;
+    line-height: 1.2;
+    padding-right: 0.3rem;
+  }
+  .contacts {
+    &.rowSection {
+      position: relative;
+      padding: 14px 10px;
+      margin: 0px;
+      border: 1px solid #dde6f3;
+      background: #f4f5f7;
+      span {
+        color: #183f74;
+      }
+      &:hover {
+        background: #e8ecf2;
+      }
+    }
+    & .contacts_img {
+      padding-left: 0px;
+      height: 125px;
+      width: 125px;
+      max-width: 100%;
+      object-fit: cover;
+      max-height: 100vh;
+      border-radius: 5%;
+      -webkit-box-shadow: -4px 2px 8px -2px #383838;
+      box-shadow: -4px 2px 8px -2px #383838;
+      -moz-box-shadow: -4px 2px 8px -2px #383838;
+    }
+    & .contacts_mobileImg {
+      padding-left: 0px;
+      height: 70px;
+      width: 70px;
+      max-width: 100%;
+      object-fit: cover;
+      max-height: 100vh;
+      border-radius: 5%;
+      -webkit-box-shadow: -4px 2px 8px -2px #383838;
+      box-shadow: -4px 2px 8px -2px #383838;
+      -moz-box-shadow: -2px 2px 8px -2px #383838;
+    }
+    & .text-right {
+      text-align: right;
+    }
+    & .linkedInImg {
+      height: 20px;
+    }
+    & .lineHeight_1_5 {
+      line-height: 1.5;
+    }
+    & .lineHeight_2 {
+      line-height: 2;
+    }
+    & .whitespace-normal {
+      white-space: normal;
+    }
+    & .whitespace-break-spaces {
+      white-space: break-spaces;
+    }
+    & .wordbreak-break-allANDw-95 {
+      word-break: break-all;
+      width: 95%;
+    }
+  }
+}

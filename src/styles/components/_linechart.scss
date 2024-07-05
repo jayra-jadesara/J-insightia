@@ -1,0 +1,30 @@
+.cr-linechart{
+     .line { fill: none; stroke: steelblue; stroke-width: 2px; }
+     .chart__grid { stroke: #e7eef4; opacity: 0.3; }
+     .area { fill: rgba(255,100,100,0.5); clip-path: url("#clip"); }
+     .axis path,
+     .axis line { fill: none; stroke: #e7eef4; shape-rendering: crispEdges; }
+     .brush .extent { stroke: #fff; fill-opacity: 0.125; shape-rendering: crispEdges; }
+    /*New*/
+     .chart text { fill: #7f8faf; }
+     .chart__line { fill: none; stroke-width: 1.2px; clip-path: url("#clip"); }
+     .chart__price--focus { stroke-width: 2px; stroke: #2980b9; }
+     .chart__average--focus { stroke-width: 2px; stroke: #f00; opacity: 0.3; }
+     .chart__overlay { opacity: 0; pointer-events: all; }
+     .chart__tooltip--price { fill: none; stroke: #f00; }
+     .chart__tooltip--average { fill: none; stroke: #f00; }
+     .chart__bars { fill: #99c5df; opacity: 1; }
+     .chart__lollipop { fill: #ff0000; opacity: 0.5; }
+     .chart__lollipop_stick { fill: #ff0000; opacity: 0.5; }
+     .chart__range-selection text { cursor: pointer; text-decoration: underline; fill: #2980b9; }
+     .chart__axis--context text { fill: #7f8faf; }
+     .chart__axis--context .tick:nth-child(odd) { display: none; }
+     .chart__axis--context path,
+     .chart__axis--context line { display: none; }
+     .chart__area { fill: #e6f6fe; stroke: #3587bc; }
+     .extent { fill: #e2f0ff; fill: #3587bc; fill-opacity: 0.3; }
+     .y.axis .tick text { text-anchor: start !important; fill: #7f8faf; }
+     .y.axis .tick line { display: none; }
+     .y.axis path { display: none; }
+     div.tooltip { position: absolute; text-align: center; padding: 2px; font: 12px sans-serif; background: lightsteelblue; border: 0px; border-radius: 8px; pointer-events: none; }
+}

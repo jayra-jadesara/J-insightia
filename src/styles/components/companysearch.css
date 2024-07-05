@@ -1,0 +1,11 @@
+.cr-companysearch button.btn-primary {
+  /* font-size: $standard; */
+  color: #ffff;
+  border: none;
+  text-decoration: none;
+  background-color: #183f74 !important;
+  -webkit-transform: none;
+          transform: none;
+  width: 130px;
+}
+/*# sourceMappingURL=companysearch.css.map */

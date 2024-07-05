@@ -1,0 +1,10 @@
+export const TOKEN = 'token';
+export const TOKEN_MODULE_STATUS_TWO = 2;
+export const TOKEN_MODULE_STATUS_FOUR = 4;
+export const MOBILE_TOKEN_UPDATE_AFTER_MINUTE = 15;
+export const MOBILE_TOKEN_UPDATE_MAX_MINUTE = 720; // 12 Hours
+export const DEFAULT_MAGAZINE_IMAGE_PATH = '/images/CoverAiM.jpg';
+export const DEFAULT_INVESTOR_BLACKROCK = 72;
+export const IS_ENABLE = 1;
+export const IS_DISABLE = 0;
+export const DATE_FORMATE = 'dd-mmm-yy';

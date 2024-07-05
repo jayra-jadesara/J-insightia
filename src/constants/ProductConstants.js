@@ -1,0 +1,85 @@
+export const ACTIVISM = 1;
+export const ACTIVIST_INSIGHT_MONTHLY = 2;
+export const VOTING = 3;
+export const ACTIVIST_VULNERABILITY = 4;
+export const ACTIVIST_SHORTS = 5;
+export const COMPENSATION = 7;
+export const GOVERNANCE = 6;
+export const PEOPLE = 6;
+export const AMALGAMATED = 0;
+export const FAQ = 3;
+export const DEFINITION = 2;
+export const GENERAL = 0;
+
+/* for reference on product_ids
+ACTIVISM = Activist Insight Online = AiO = 1
+ACTIVIST_INSIGHT_MONTHLY = Activist Insight Monthly = AiM = 2
+VOTING = Proxy Insight = PiO = 3
+ACTIVIST_VULNERABILITY = Activist Insight Vulnerability = AiV = 4
+ACTIVIST_SHORTS = Activist Insgith Shorts = AiS = 5
+GOVERNANCE = Activist Insight Governance = AiG = 6
+*/
+
+// ArticleType Lists Constants // select * from tblarticle_type
+export const SPECIAL_REPORT_ARTICLE_TYPE = 1;
+export const PROXY_MONTHLY_ARTICLE_TYPE = 2;
+export const ACTIVISM_ARTICLE_TYPE = 3;
+export const SHORTS_ARTICLE_TYPE = 4;
+export const VOTING_ARTICLE_TYPE = 5;
+export const GOVERNANCE_ARTICLE_TYPE = 6;
+export const ESG_ARTICLE_TYPE = 7;
+export const MA_ARTICLE_TYPE = 8;
+export const VULNERABILITY_ARTICLE_TYPE = 9;
+export const COMPENSATION_ARTICLE_TYPE = 10;
+export const MONTHLY_ARTICLE_TYPE = 11;
+export const SPECIAL_ARTICLE_TYPE = 12;
+export const ANNUAL_ARTICLE_TYPE = 13;
+export const QUARTERLY_STATS_ARTICLE_TYPE = 14;
+export const HALF_YEAR_ARTICLE_TYPE = 15;
+export const FF_ARTICLE_TYPE = 16;
+
+export const INSIGHTIA_DASHBOARD_PORTAL = 1;
+export const ACTIVISM_PORTAL = 2;
+// problem with 3
+export const VOTING_PORTAL = 3;
+export const ACTIVIST_SHORTS_PORTAL = 4;
+export const GOVERNANCE_PORTAL = 5;
+export const ESG_PORTAL = 6;
+export const VULNERABILITY_PORTAL = 7;
+
+export default {
+  ACTIVISM,
+  VOTING,
+  ACTIVIST_VULNERABILITY,
+  ACTIVIST_SHORTS,
+  GOVERNANCE,
+  COMPENSATION,
+  FAQ,
+  DEFINITION,
+  ACTIVIST_INSIGHT_MONTHLY,
+  AMALGAMATED,
+  GENERAL,
+  PROXY_MONTHLY_ARTICLE_TYPE,
+  ACTIVISM_ARTICLE_TYPE,
+  SHORTS_ARTICLE_TYPE,
+  VOTING_ARTICLE_TYPE,
+  GOVERNANCE_ARTICLE_TYPE,
+  ESG_ARTICLE_TYPE,
+  MA_ARTICLE_TYPE,
+  VULNERABILITY_ARTICLE_TYPE,
+  COMPENSATION_ARTICLE_TYPE,
+  MONTHLY_ARTICLE_TYPE,
+  SPECIAL_ARTICLE_TYPE,
+  ANNUAL_ARTICLE_TYPE,
+  QUARTERLY_STATS_ARTICLE_TYPE,
+  HALF_YEAR_ARTICLE_TYPE,
+  FF_ARTICLE_TYPE,
+
+  INSIGHTIA_DASHBOARD_PORTAL,
+  ACTIVISM_PORTAL,
+  ESG_PORTAL,
+  ACTIVIST_SHORTS_PORTAL,
+  GOVERNANCE_PORTAL,
+  VOTING_PORTAL,
+  VULNERABILITY_PORTAL
+};

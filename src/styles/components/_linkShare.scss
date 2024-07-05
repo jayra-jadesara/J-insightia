@@ -1,0 +1,28 @@
+.cr-linkShare {
+  height: auto;
+  transition-property: none;
+  width: 95px;
+  background-color: #193d75;
+  border: 1px solid #193d75;
+  border-radius: 9px;
+  z-index: 5;
+  position: relative;
+  & ul {
+    width: 60px;
+    text-align: center;
+    & li {
+      list-style: none;
+      margin: 5px;
+      border-radius: 50%;
+      padding: 3px;
+    }
+  }
+
+  & .bi {
+    color: $primary-text;
+  }
+}
+ul.shareicons {
+  display: flex;
+  align-items: center;
+}

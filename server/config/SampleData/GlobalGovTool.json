@@ -1,0 +1,472 @@
+{
+  "getCountryGovList": {
+    "countryProfileDetails": [
+      {
+        "Country_id": 35,
+        "Country_name": "Canada",
+        "Country_code": "CA",
+        "ISO_3": "CAN",
+        "ISO_Num": 124,
+        "Capital": "Ottawa - Toronto",
+        "Phone_code": "1",
+        "image_link": "CANADA.svg",
+        "updated_at": "2019-07-24T11:37:33.840Z",
+        "created_at": null,
+        "Nationality": "Canadian",
+        "admin_grouping": null,
+        "glass_lewis_code": null
+      }
+    ],
+    "overviewDetails": "The principal requirements of companies incorporated in Canada are set out in the Canada Business Corporations Act which provides the basic corporate governance framework for a large number of companies. Securities regulation is the responsibility of the provincial and territorial governments each with its own legislation but coordinate their activities through the Canadian Securities Authorities which act as a forum for developing a balanced approach to securities regulation across the country.",
+    "documentsDetails": [
+      {
+        "Document_Name": "NP 58-201 Corporate Governance Guidelines",
+        "Date": "2005-06-17T00:00:00.000Z",
+        "Binding": "Non-Binding",
+        "URL": "https://www.osc.gov.on.ca/documents/en/Securities-Category5/rule_20050617_58-201_corp-gov-guidelines.pdf"
+      },
+      {
+        "Document_Name": "NP 52-110 Audit Committees",
+        "Date": "2015-11-17T00:00:00.000Z",
+        "Binding": "Non-Binding",
+        "URL": "https://www.bcsc.bc.ca/Securities_Law/Policies/Policy5/PDF/52-110__NI___November_17__2015/"
+      },
+      {
+        "Document_Name": "Canada Business Corporations Act",
+        "Date": "2018-05-01T00:00:00.000Z",
+        "Binding": "Binding    ",
+        "URL": "https://laws-lois.justice.gc.ca/eng/acts/C-44/"
+      }
+    ],
+    "boardDetails": [
+      {
+        "Board_Details": "Board can Amend Bylaws Without Shareholder Approval",
+        "Yes_no": "No",
+        "number_global": "",
+        "description": "103 (1) Unless the articles, by-laws or a unanimous shareholder agreement otherwise provide, the directors may, by resolution, make, amend or repeal any by-laws that regulate the business or affairs of the corporation.Shareholder approval (2) The directors shall submit a by-law, or an amendment or a repeal of a by-law, made under subsection (1) to the shareholders at the next meeting of shareholders, and the shareholders may, by ordinary resolution, confirm, reject or amend the by-law, amendment or repeal.",
+        "url": "https://laws-lois.justice.gc.ca/eng/acts/C-44/",
+        "gov_metric_id": 27
+      },
+      {
+        "Board_Details": "Board Fills All Vacancies",
+        "Yes_no": "Yes",
+        "number_global": "",
+        "description": "Vacancy among candidates (7) If a meeting of shareholders fails to elect the number or the minimum number of directors required by the articles by reason of the lack of consent, disqualification, incapacity or death of any candidates, the directors elected at that meeting may exercise all the powers of the directors if the number of directors so elected constitutes a quorum.Marginal note:Appointment of directors(8) The directors may, if the articles of the corporation so provide, appoint one or more additional directors, who shall hold office for a term expiring not later than the close of the next annual meeting of shareholders, but the total number of directors so appointed may not exceed one third of the number of directors elected at the previous annual meeting of shareholders.",
+        "url": "https://laws-lois.justice.gc.ca/eng/acts/C-44/",
+        "gov_metric_id": 1
+      },
+      {
+        "Board_Details": "Director Term Limit",
+        "Yes_no": "Not Specified",
+        "number_global": "",
+        "description": "",
+        "url": "",
+        "gov_metric_id": 40
+      },
+      {
+        "Board_Details": "Directors Removed only for Cause",
+        "Yes_no": "No",
+        "number_global": "0.5",
+        "description": "Removal of directors109 (1) Subject to paragraph 107(g), the shareholders of a corporation may by ordinary resolution at a special meeting remove any director or directors from office.Marginal note:Exception(2) Where the holders of any class or series of shares of a corporation have an exclusive right to elect one or more directors, a director so elected may only be removed by an ordinary resolution at a meeting of the shareholders of that class or series.",
+        "url": "https://laws-lois.justice.gc.ca/eng/acts/C-44/",
+        "gov_metric_id": 3
+      },
+      {
+        "Board_Details": "Exclusive Forum Provision",
+        "Yes_no": "Not Specified",
+        "number_global": "",
+        "description": "",
+        "url": "",
+        "gov_metric_id": 35
+      },
+      {
+        "Board_Details": "Overboarding Threshold",
+        "Yes_no": "Not Specified",
+        "number_global": "",
+        "description": "",
+        "url": "",
+        "gov_metric_id": 41
+      },
+      {
+        "Board_Details": "Separate CEO & Chairman Requirement",
+        "Yes_no": "Not Specified",
+        "number_global": "",
+        "description": "",
+        "url": "",
+        "gov_metric_id": 4
+      },
+      {
+        "Board_Details": "Size of Board",
+        "Yes_no": "Yes",
+        "number_global": "1",
+        "description": "A corporation shall have one or more directors but a distributing corporation, any of the issued securities of which remain outstanding and are held by more than one person, shall have not fewer than three directors, at least two of whom are not officers or employees of the corporation or its affiliates.",
+        "url": "https://laws-lois.justice.gc.ca/eng/acts/C-44/",
+        "gov_metric_id": 8
+      },
+      {
+        "Board_Details": "Staggered Board",
+        "Yes_no": "Yes",
+        "number_global": "",
+        "description": "Term of office (2) Each director named in the notice referred to in subsection (1) holds office from the issue of the certificate of incorporation until the first meeting of shareholders.Marginal note:Election of directors(3) Subject to paragraph 107(b), shareholders of a corporation shall, by ordinary resolution at the first meeting of shareholders and at each succeeding annual meeting at which an election of directors is required, elect directors to hold office for a term expiring not later than the close of the third annual meeting of shareholders following the election.Marginal note:Staggered terms(4) It is not necessary that all directors elected at a meeting of shareholders hold office for the same term.Marginal note:No stated terms(5) A director not elected for an expressly stated term ceases to hold office at the close of the first annual meeting of shareholders following the director’s election.",
+        "url": "https://laws-lois.justice.gc.ca/eng/acts/C-44/",
+        "gov_metric_id": 2
+      },
+      {
+        "Board_Details": "Supermajority Shareholder Vote Required to Amend Certain Provisions",
+        "Yes_no": "Mandatory",
+        "number_global": "0.66",
+        "description": "Amendment of articles 173 (1) Subject to sections 176 and 177, the articles of a corporation may by special resolution be amended to(a) change its name;(b) change the province in which its registered office is situated;(c) add, change or remove any restriction on the business or businesses that the corporation may carry on;(d) change any maximum number of shares that the corporation is authorized to issue;(e) create new classes of shares;(f) reduce or increase its stated capital, if its stated capital is set out in the articles;(g) change the designation of all or any of its shares, and add, change or remove any rights, privileges, restrictions and conditions, including rights to accrued dividends, in respect of all or any of its shares, whether issued or unissued;(h) change the shares of any class or series, whether issued or unissued, into a different number of shares of the same class or series or into the same or a different number of shares of other classes or series;(i) divide a class of shares, whether issued or unissued, into series and fix the number of shares in each series and the rights, privileges, restrictions and conditions thereof;(j) authorize the directors to divide any class of unissued shares into series and fix the number of shares in each series and the rights, privileges, restrictions and conditions thereof;(k) authorize the directors to change the rights, privileges, restrictions and conditions attached to unissued shares of any series;(l) revoke, diminish or enlarge any authority conferred under paragraphs (j) and (k);(m) increase or decrease the number of directors or the minimum or maximum number of directors, subject to sections 107 and 112;(n) add, change or remove restrictions on the issue, transfer or ownership of shares; or(o) add, change or remove any other provision that is permitted by this Act to be set out in the articles.",
+        "url": "https://laws-lois.justice.gc.ca/eng/acts/C-44/",
+        "gov_metric_id": 28
+      }
+    ],
+    "votingDetails": [
+      {
+        "Voting_MA": "Constituency",
+        "Yes_no": "Not Specified",
+        "number_global": "",
+        "description": "",
+        "url": "",
+        "gov_metric_id": 32
+      },
+      {
+        "Voting_MA": "Cumulative Voting",
+        "Yes_no": "Yes",
+        "number_global": "",
+        "description": "Cumulative voting 107 Where the articles provide for cumulative voting,(a) the articles shall require a fixed number and not a minimum and maximum number of directors;(b) each shareholder entitled to vote at an election of directors has the right to cast a number of votes equal to the number of votes attached to the shares held by the shareholder multiplied by the number of directors to be elected, and may cast all of those votes in favour of one candidate or distribute them among the candidates in any manner;(c) a separate vote of shareholders shall be taken with respect to each candidate nominated for director unless a resolution is passed unanimously permitting two or more persons to be elected by a single resolution;(d) if a shareholder has voted for more than one candidate without specifying the distribution of votes, the shareholder is deemed to have distributed the votes equally among those candidates;(e) if the number of candidates nominated for director exceeds the number of positions to be filled, the candidates who receive the least number of votes shall be eliminated until the number of candidates remaining equals the number of positions to be filled;(f) each director ceases to hold office at the close of the first annual meeting of shareholders following the director’s election;(g) a director may be removed from office only if the number of votes cast in favour of the director’s removal is greater than the product of the number of directors required by the articles and the number of votes cast against the motion; and(h) the number of directors required by the articles may be decreased only if the votes cast in favour of the motion to decrease the number of directors is greater than the product of the number of directors required by the articles and the number of votes cast against the motion.",
+        "url": "https://laws-lois.justice.gc.ca/eng/acts/C-44/",
+        "gov_metric_id": 17
+      },
+      {
+        "Voting_MA": "Majority Vote (Other than Election)",
+        "Yes_no": "Yes",
+        "number_global": "",
+        "description": "2 (1) In this Act, ordinary resolution- means a resolution passed by a majority of the votes cast by the shareholders who voted in respect of that resolution; (résolution ordinaire)special resolution- means a resolution passed by a majority of not less than two-thirds of the votes cast by the shareholders who voted in respect of that resolution or signed by all the shareholders entitled to vote on that resolution; (résolution spéciale)",
+        "url": "https://laws-lois.justice.gc.ca/eng/acts/C-44/",
+        "gov_metric_id": 34
+      },
+      {
+        "Voting_MA": "Majority Vote for Uncontested Election",
+        "Yes_no": "No",
+        "number_global": "",
+        "description": "Election of directors (3) Subject to paragraph 107(b), shareholders of a corporation shall, by ordinary resolution at the first meeting of shareholders and at each succeeding annual meeting at which an election of directors is required, elect directors to hold office for a term expiring not later than the close of the third annual meeting of shareholders following the election. 107 Where the articles provide for cumulative voting,(a) the articles shall require a fixed number and not a minimum and maximum number of directors;(b) each shareholder entitled to vote at an election of directors has the right to cast a number of votes equal to the number of votes attached to the shares held by the shareholder multiplied by the number of directors to be elected, and may cast all of those votes in favour of one candidate or distribute them among the candidates in any manner;",
+        "url": "https://laws-lois.justice.gc.ca/eng/acts/C-44/",
+        "gov_metric_id": 14
+      },
+      {
+        "Voting_MA": "Multiple Share Classes",
+        "Yes_no": "Yes",
+        "number_global": "",
+        "description": "Rights to classes of shares (4) The articles may provide for more than one class of shares and, if they so provide,(a) the rights, privileges, restrictions and conditions attaching to the shares of each class shall be set out therein; and(b) the rights set out in subsection (3) shall be attached to at least one class of shares but all such rights are not required to be attached to one class.",
+        "url": "https://laws-lois.justice.gc.ca/eng/acts/C-44/",
+        "gov_metric_id": 16
+      },
+      {
+        "Voting_MA": "Pre-emptive rights to existing shareholders",
+        "Yes_no": "Yes",
+        "number_global": "",
+        "description": "Pre-emptive right 28 (1) If the articles so provide, no shares of a class shall be issued unless the shares have first been offered to the shareholders holding shares of that class, and those shareholders have a pre-emptive right to acquire the offered shares in proportion to their holdings of the shares of that class, at such price and on such terms as those shares are to be offered to others.",
+        "url": "https://laws-lois.justice.gc.ca/eng/acts/C-44/",
+        "gov_metric_id": 19
+      }
+    ],
+    "generalGovDetails": [
+      {
+        "General_Gov": "Gender Diversity",
+        "Yes_no": "Not Specified",
+        "number_global": "",
+        "description": "",
+        "url": "",
+        "gov_metric_id": 52
+      },
+      {
+        "General_Gov": "Independence Requirements",
+        "Yes_no": "Yes",
+        "number_global": "",
+        "description": "Independence(2) For the purposes of this section,(a) independence is a question of fact; and(b) a person is deemed not to be independent if they or their business partner(i) is a business partner, a director, an officer or an employee of the corporation or any of its affiliates, or a business partner of any director, officer or employee of any such corporation or any of its affiliates,(ii) beneficially owns or controls, directly or indirectly, a material interest in the securities of the corporation or any of its affiliates, or(iii) has been a receiver, receiver-manager, sequestrator, liquidator or trustee in bankruptcy of the corporation or any of its affiliates within two years of the person’s proposed appointment as auditor of the corporation.",
+        "url": "https://laws-lois.justice.gc.ca/eng/acts/C-44/",
+        "gov_metric_id": 54
+      },
+      {
+        "General_Gov": "Shareholder Proposals",
+        "Yes_no": "Mandatory",
+        "number_global": "",
+        "description": "Proposals137 (1) Subject to subsections (1.1) and (1.2), a registered holder or beneficial owner of shares that are entitled to be voted at an annual meeting of shareholders may(a) submit to the corporation notice of any matter that the person proposes to raise at the meeting (a “proposal”); and(b) discuss at the meeting any matter in respect of which the person would have been entitled to submit a proposal.Marginal note:Persons eligible to make proposals(1.1) To be eligible to submit a proposal, a person(a) must be, for at least the prescribed period, the registered holder or the beneficial owner of at least the prescribed number of outstanding shares of the corporation; or(b) must have the support of persons who, in the aggregate, and including or not including the person that submits the proposal, have been, for at least the prescribed period, the registered holders, or the beneficial owners of, at least the prescribed number of outstanding shares of the corporation.",
+        "url": "https://laws-lois.justice.gc.ca/eng/acts/C-44/",
+        "gov_metric_id": 84
+      }
+    ],
+    "shareholderActDetails": [
+      {
+        "Shareholder_Act": "Advance Notice Bylaws",
+        "Yes_no": "Yes",
+        "number_global": "",
+        "description": "Exemptions(5) A corporation is not required to comply with subsections (2) and (3) if(a) the proposal is not submitted to the corporation at least the prescribed number of days before the anniversary date of the notice of meeting that was sent to shareholders in connection with the previous annual meeting of shareholders",
+        "url": "https://laws-lois.justice.gc.ca/eng/acts/C-44/",
+        "gov_metric_id": 11
+      },
+      {
+        "Shareholder_Act": "Proxy Access",
+        "Yes_no": "Yes",
+        "number_global": "0.05",
+        "description": "Nomination for director (4) A proposal may include nominations for the election of directors if the proposal is signed by one or more holders of shares representing in the aggregate not less than five per cent of the shares or five per cent of the shares of a class of shares of the corporation entitled to vote at the meeting to which the proposal is to be presented, but this subsection does not preclude nominations made at a meeting of shareholders.",
+        "url": "https://laws-lois.justice.gc.ca/eng/acts/C-44/",
+        "gov_metric_id": 24
+      },
+      {
+        "Shareholder_Act": "Right for Shareholders to call special meeting",
+        "Yes_no": "Mandatory",
+        "number_global": "0.05",
+        "description": "Requisition of meeting 143 (1) The holders of not less than five per cent of the issued shares of a corporation that carry the right to vote at a meeting sought to be held may requisition the directors to call a meeting of shareholders for the purposes stated in the requisition. Shareholder calling meeting(4) If the directors do not within twenty-one days after receiving the requisition referred to in subsection (1) call a meeting, any shareholder who signed the requisition may call the meeting.",
+        "url": "https://laws-lois.justice.gc.ca/eng/acts/C-44/",
+        "gov_metric_id": 13
+      }
+    ],
+    "govTakeoverDetails": [
+      {
+        "Gov_Takeover": "Compulsory Purchase of Remaining Shares",
+        "Yes_no": "Yes",
+        "number_global": "0.9",
+        "description": "Right to acquire(2) If within one hundred and twenty days after the date of a take-over bid the bid is accepted by the holders of not less than ninety per cent of the shares of any class of shares to which the take-over bid relates, other than shares held at the date of the take-over bid by or on behalf of the offeror or an affiliate or associate of the offeror, the offeror is entitled, on complying with this section, to acquire the shares held by the dissenting offerees.",
+        "url": "https://laws-lois.justice.gc.ca/eng/acts/C-44/",
+        "gov_metric_id": 64
+      },
+      {
+        "Gov_Takeover": "Poison Pills",
+        "Yes_no": "Yes",
+        "number_global": "",
+        "description": "",
+        "url": "https://laws-lois.justice.gc.ca/eng/acts/C-44/",
+        "gov_metric_id": 68
+      }
+    ],
+    "provisionDetails": [
+      {
+        "Comply_Provision": "Independence Requirements",
+        "Yes_no": "Yes",
+        "number_global": "",
+        "description": "(1) An audit committee member is independent if he or she has no direct or indirectmaterial relationship with the issuer.(2) For the purposes of subsection (1), a “material relationship” is a relationshipwhich could, in the view of the issuer's board of directors, be reasonably expectedto interfere with the exercise of a member's independent judgement.(3) Despite subsection (2), the following individuals are considered to have a materialrelationship with an issuer:(a) an individual who is, or has been within the last three years, an employeeor executive officer of the issuer;(b) an individual whose immediate family member is, or has been within thelast three years, an executive officer of the issuer;(c) an individual who:(i) is a partner of a firm that is the issuer's internal or external auditor,(ii) is an employee of that firm, or(iii) was within the last three years a partner or employee of that firmand personally worked on the issuer's audit within that time;(d) an individual whose spouse, minor child or stepchild, or child or stepchildwho shares a home with the individual:(i) is a partner of a firm that is the issuer's internal or external auditor,-5-(ii) is an employee of that firm and participates in its audit, assuranceor tax compliance (but not tax planning) practice, or(iii) was within the last three years a partner or employee of that firmand personally worked on the issuer's audit within that time;(e) an individual who, or whose immediate family member, is or has beenwithin the last three years, an executive officer of an entity if any of theissuer's current executive officers serves or served at that same time on theentity's compensation committee; and(f) an individual who received, or whose immediate family member who isemployed as an executive officer of the issuer received, more than$75,000 in direct compensation from the issuer during any 12 monthperiod within the last three years.",
+        "url": "https://www.bcsc.bc.ca/Securities_Law/Policies/Policy5/PDF/52-110__NI___November_17__2015/",
+        "gov_metric_id": 54
+      },
+      {
+        "Comply_Provision": "Independent Board Chairman Requirement",
+        "Yes_no": "Yes",
+        "number_global": "",
+        "description": "3.2 The chair of the board should be an independent director.",
+        "url": "https://www.osc.gov.on.ca/documents/en/Securities-Category5/rule_20050617_58-201_corp-gov-guidelines.pdf",
+        "gov_metric_id": 5
+      },
+      {
+        "Comply_Provision": "Independent Director Majority Requirement",
+        "Yes_no": "Yes",
+        "number_global": "",
+        "description": "3.1 The board should have a majority of independent directors.",
+        "url": "https://www.osc.gov.on.ca/documents/en/Securities-Category5/rule_20050617_58-201_corp-gov-guidelines.pdf",
+        "gov_metric_id": 42
+      },
+      {
+        "Comply_Provision": "Lead Director Requirement",
+        "Yes_no": "Yes",
+        "number_global": "",
+        "description": "Where this is not appropriate, an independent director should be appointed to act as “lead director”. However, either an independent chair or an independent lead director should act as the effective leader of the board and ensure that the board's agenda will enable it to successfully carry out its duties.",
+        "url": "https://www.osc.gov.on.ca/documents/en/Securities-Category5/rule_20050617_58-201_corp-gov-guidelines.pdf",
+        "gov_metric_id": 43
+      }
+    ]
+  },
+  "getStateGovDetailList": {
+    "descDetails": [
+      {
+        "sp500": 313,
+        "sp500_pcent": "62.85 %",
+        "russ3000": 1786,
+        "russ3000_pcent": "60.13 %"
+      }
+    ],
+    "boardDetails": [
+      {
+        "Board_Detail": "Staggered Board",
+        "yes_no": "Yes",
+        "Conditions": "",
+        "number": "",
+        "description": "",
+        "source": ""
+      },
+      {
+        "Board_Detail": "Directors Removed only for Cause",
+        "yes_no": "No",
+        "Conditions": "In the case of a corporation having cumulative voting, if less than the entire board is to be removed, no director may be removed without cause if the votes cast against such director's removal would be sufficient to elect such director if then cumulatively voted at an election of the entire board of directors, or, if there be classes of directors, at an election of the class of directors of which such director is a part.",
+        "number": "50%",
+        "description": "Any director or the entire board of directors may be removed, with or without cause, by the holders of a majority of the shares then entitled to vote at an election of directors, except as follows: Unless the certificate of incorporation otherwise provides, in the case of a corporation whose board is classified as provided in subsection (d) of this section, stockholders may effect such removal only for cause;",
+        "source": "http://delcode.delaware.gov/title8/c001/index.shtml  "
+      },
+      {
+        "Board_Detail": "Board Fills All Vacancies",
+        "yes_no": "Yes",
+        "Conditions": "",
+        "number": "",
+        "description": "Vacancies and newly created directorships resulting from any increase in the authorized number of directors elected by all of the stockholders having the right to vote as a single class may be filled by a majority of the directors then in office, although less than a quorum, or by a sole remaining director;\r\n",
+        "source": "http://delcode.delaware.gov/title8/c001/index.shtml  "
+      },
+      {
+        "Board_Detail": "Separate CEO & Chairman Requirement",
+        "yes_no": "No",
+        "Conditions": "",
+        "number": "",
+        "description": "Any number of offices may be held by the same person unless the certificate of incorporation or bylaws otherwise provide.",
+        "source": "http://delcode.delaware.gov/title8/c001/index.shtml"
+      },
+      {
+        "Board_Detail": "Board can Amend Bylaws Without Shareholder Approval",
+        "yes_no": "Yes",
+        "Conditions": "",
+        "number": "",
+        "description": "The original by-laws of a corporation may be adopted by the incorporators or by the initial directors if they were named in the certificate of incorporation. Thereafter, the power to make, alter or repeal by-laws shall be in the stockholders or, in the case of a non-stock corporation, in its members; but any corporation may, in its certificate of incorporation, confer that power upon the directors or, in the case of a non-stock corporation, upon its governing body by whatever name designated.\r\n",
+        "source": "http://delcode.delaware.gov/title8/c001/index.shtml"
+      },
+      {
+        "Board_Detail": "Amendments to size of board without shareholder approval",
+        "yes_no": "Yes",
+        "Conditions": "",
+        "number": "",
+        "description": "The number of directors shall be fixed by, or in the manner provided in, the bylaws, unless the certificate of incorporation fixes the number of directors, in which case a change in the number of directors shall be made only by amendment of the certificate.",
+        "source": "http://delcode.delaware.gov/title8/c001/index.shtml"
+      },
+      {
+        "Board_Detail": "Exclusive Forum Provision",
+        "yes_no": "No",
+        "Conditions": "",
+        "number": "",
+        "description": "",
+        "source": ""
+      }
+    ],
+    "shareholderDetails": [
+      {
+        "Shareholder_Activism": "Action by Written Consent",
+        "yes_no": "Yes",
+        "Conditions": "Stockholders may, unless the certificate of incorporation otherwise provides, act by written consent to elect directors; provided, however, that, if such consent is less than unanimous, such action by written consent may be in lieu of holding an annual meeting only if all of the directorships to which directors could be elected at an annual meeting held at the effective time of such action are vacant and are filled by such action. Any other proper business may be transacted at the annual meeting.",
+        "number": "5%",
+        "description": "Stockholders may, unless the certificate of incorporation otherwise provides, act by written consent to elect directors; provided, however, that, if such consent is less than unanimous, such action by written consent may be in lieu of holding an annual meeting only if all of the directorships to which directors could be elected at an annual meeting held at the effective time of such action are vacant and are filled by such action. Any other proper business may be transacted at the annual meeting.\r\n",
+        "source": "http://delcode.delaware.gov/title8/c001/index.shtml"
+      },
+      {
+        "Shareholder_Activism": "Right for Shareholders to call special meeting",
+        "yes_no": "Yes",
+        "Conditions": "",
+        "number": "",
+        "description": "Special meetings of the stockholders may be called by the board of directors or by such person or persons as may be authorized by the certificate of incorporation or by the bylaws.",
+        "source": "http://delcode.delaware.gov/title8/c001/index.shtml"
+      }
+    ],
+    "votingDetails": [
+      {
+        "Voting": "Cumulative Voting",
+        "yes_no": "Yes",
+        "Conditions": "",
+        "number": "",
+        "description": "The certificate of incorporation of any corporation may provide that at all elections of directors of the corporation, or at elections held under specified circumstances, each holder of stock or of any class or classes or of a series or series thereof shall be entitled to as many votes as shall equal the number of votes which (except for such provision as to cumulative voting) such holder would be entitled to cast for the election of directors with respect to such holder's shares of stock multiplied by the number of directors to be elected by such holder, and that such holder may cast all of such votes for a single director or may distribute them among the number to be voted for, or for any 2 or more of them as such holder may see fit.",
+        "source": "http://delcode.delaware.gov/title8/c001/index.shtml"
+      },
+      {
+        "Voting": "Majority Vote (Other than Election)",
+        "yes_no": "Yes",
+        "Conditions": "",
+        "number": "",
+        "description": "In all matters other than the election of directors, the affirmative vote of the majority of shares present in person or represented by proxy at the meeting and entitled to vote on the subject matter shall be the act of the stockholders;\r\n",
+        "source": "http://delcode.delaware.gov/title8/c001/index.shtml"
+      },
+      {
+        "Voting": "Majority Vote for Uncontested Election",
+        "yes_no": "Yes",
+        "Conditions": "",
+        "number": "",
+        "description": "Directors shall be elected by a plurality of the votes of the shares present in person or represented by proxy at the meeting and entitled to vote on the election of directors.                        Where a separate vote by a class or series or classes or series is required, a majority of the outstanding shares of such class or series or classes or series, present in person or represented by proxy, shall constitute a quorum entitled to take action with respect to that vote on that matter and, in all matters other than the election of directors, the affirmative vote of the majority of shares of such class or series or classes or series present in person or represented by proxy at the meeting shall be the act of such class or series or classes or series.",
+        "source": "http://delcode.delaware.gov/title8/c001/index.shtml"
+      },
+      {
+        "Voting": "Pre-emptive rights to existing shareholders",
+        "yes_no": "Yes",
+        "Conditions": "aaa",
+        "number": "",
+        "description": "No stockholder shall have any preemptive right to subscribe to an additional issue of stock or to any security convertible into such stock unless, and except to the extent that, such right is expressly granted to such stockholder in the certificate of incorporation.",
+        "source": "http://delcode.delaware.gov/title8/c001/index.shtml"
+      },
+      {
+        "Voting": "Multiple Share Classes",
+        "yes_no": "Yes",
+        "Conditions": "",
+        "number": "",
+        "description": "Every corporation may issue 1 or more classes of stock or 1 or more series of stock within any class thereof, any or all of which classes may be of stock with par value or stock without par value and which classes or series may have such voting powers, full or limited, or no voting powers, and such designations, preferences and relative, participating, optional or other special rights, and qualifications, limitations or restrictions thereof, as shall be stated and expressed in the certificate of incorporation or of any amendment thereto, or in the resolution or resolutions providing for the issue of such stock adopted by the board of directors pursuant to authority expressly vested in it by the provisions of its certificate of incorporation.",
+        "source": "http://delcode.delaware.gov/title8/c001/index.shtml"
+      }
+    ],
+    "mnDetails": [
+      {
+        "Voting": "Interested Shareholder",
+        "yes_no": "Yes",
+        "Conditions": "",
+        "number": "15%",
+        "description": "\"Interested stockholder\" means any person (other than the corporation and any direct or indirect majority-owned subsidiary of the corporation) that (i) is the owner of 15% or more of the outstanding voting stock of the corporation, or (ii) is an affiliate or associate of the corporation and was the owner of 15% or more of the outstanding voting stock of the corporation at any time within the 3-year period immediately prior to the date on which it is sought to be determined whether such person is an interested stockholder, and the affiliates and associates of such person; provided, however, that the term \"interested stockholder\" shall not include (x) any person who (A) owned shares in excess of the 15% limitation set forth herein as of, or acquired such shares pursuant to a tender offer commenced prior to, December 23, 1987, or pursuant to an exchange offer announced prior to the aforesaid date and commenced within 90 days thereafter and either (I) continued to own shares in excess of such 15% limitation or would have but for action by the corporation or (II) is an affiliate or associate of the corporation and so continued (or so would have continued but for action by the corporation) to be the owner of 15% or more of the outstanding voting stock of the corporation at any time within the 3-year period immediately prior to the date on which it is sought to be determined whether such a person is an interested stockholder or (B) acquired said shares from a person described in item (A) of this paragraph by gift, inheritance or in a transaction in which no consideration was exchanged; or (y) any person whose ownership of shares in excess of the 15% limitation set forth herein is the result of action taken solely by the corporation; provided that such person shall be an interested stockholder if thereafter such person acquires additional shares of voting stock of the corporation, except as a result of further corporate action not caused, directly or indirectly, by such person. For the purpose of determining whether a person is an interested stockholder, the voting stock of the corporation deemed to be outstanding shall include stock deemed to be owned by the person through application of paragraph (9) of this subsection but shall not include any other unissued stock of such corporation which may be issuable pursuant to any agreement, arrangement or understanding, or upon exercise of conversion rights, warrants or options, or otherwise.\r\n",
+        "source": "https://delcode.delaware.gov/title8/c001/index.shtml"
+      },
+      {
+        "Voting": "Supermajority Vote for Merger",
+        "yes_no": "Yes",
+        "Conditions": "adsfdfsdf",
+        "number": "67%",
+        "description": "(3) At or subsequent to such time the business combination is approved by the board of directors and authorized at an annual or special meeting of stockholders, and not by written consent, by the affirmative vote of at least 66 2/3% of the outstanding voting stock which is not owned by the interested stockholder.\r\n",
+        "source": "https://delcode.delaware.gov/title8/c001/index.shtml"
+      },
+      {
+        "Voting": "Control Share Acquisition",
+        "yes_no": "No",
+        "Conditions": "",
+        "number": "",
+        "description": "",
+        "source": ""
+      },
+      {
+        "Voting": "Business Combination",
+        "yes_no": "Yes",
+        "Conditions": "adfsfa",
+        "number": "3%",
+        "description": "§ 203 Business combinations with interested stockholders.\r\n(a) Notwithstanding any other provisions of this chapter, a corporation shall not engage in any business combination with any interested stockholder for a period of 3 years following the time that such stockholder became an interested stockholder, unless:\r\n(1) Prior to such time the board of directors of the corporation approved either the business combination or the transaction which resulted in the stockholder becoming an interested stockholder;\r\n(2) Upon consummation of the transaction which resulted in the stockholder becoming an interested stockholder, the interested stockholder owned at least 85% of the voting stock of the corporation outstanding at the time the transaction commenced, excluding for purposes of determining the voting stock outstanding (but not the outstanding voting stock owned by the interested stockholder) those shares owned (i) by persons who are directors and also officers and (ii) employee stock plans in which employee participants do not have the right to determine confidentially whether shares held subject to the plan will be tendered in a tender or exchange offer; or\r\n(3) At or subsequent to such time the business combination is approved by the board of directors and authorized at an annual or special meeting of stockholders, and not by written consent, by the affirmative vote of at least 66 2/3% of the outstanding voting stock which is not owned by the interested stockholder.",
+        "source": "https://delcode.delaware.gov/title8/c001/index.shtml"
+      },
+      {
+        "Voting": "Fair Price",
+        "yes_no": "No",
+        "Conditions": "",
+        "number": "",
+        "description": "",
+        "source": ""
+      },
+      {
+        "Voting": "Constituency",
+        "yes_no": "No",
+        "Conditions": "",
+        "number": "",
+        "description": "",
+        "source": ""
+      },
+      {
+        "Voting": "Poison Pill Validation",
+        "yes_no": "No",
+        "Conditions": "",
+        "number": "",
+        "description": "",
+        "source": ""
+      },
+      {
+        "Voting": "Poison Pill Validation",
+        "yes_no": "Yes",
+        "Conditions": "In the ISTQB Foundation Level syllabus, test analysis and design are grouped into one topic. However, the ISTQB Test Manager syllabus treats them as separate activities that can be implemented together, in parallel, or as iterative tasks to produce the desired work products in the test design phase.",
+        "number": "4%",
+        "description": "Test analysis describes “what” should be tested, in terms of test conditions. In simple terms, test condition is something that can be tested by us.",
+        "source": "abc.abc@abc.com"
+      }
+    ]
+  }
+}

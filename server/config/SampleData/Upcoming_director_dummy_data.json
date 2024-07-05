@@ -1,0 +1,27 @@
+
+[
+    {
+    "name": "Julia Susan Wilson",
+    "age": 54,
+    "event_type": "Departure",
+    "director_type": "Direcor",
+    "Director_since": "15-Jun-22",
+    "director_id": 32918
+   },
+   {
+    "name": "Jasi Hari Halai",
+    "age": 43,
+    "event_type": "Appointment",
+    "director_type": "Direcor",
+    "Director_since": "01-May-22",
+    "director_id": 115169
+   },
+   {
+    "name": "James Hatchley",
+    "age": 54,
+    "event_type": "Appointment",
+    "director_type": "Direcor",
+    "Director_since": "01-May-22",
+    "director_id": 210244
+   }
+  ]

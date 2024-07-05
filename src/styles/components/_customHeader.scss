@@ -1,0 +1,32 @@
+.cr-customHeader {
+    .customHeaderMenuButton {
+        float: left;
+        margin: 0 0 0 3px;
+      }
+      
+      .customHeaderLabel {
+        float: left;
+        margin: 0 0 0 3px;
+      }
+      
+      .customSortDownLabel {
+        float: left;
+        margin: 0 0 0 3px;
+        font-size: x-large;
+        color: black;
+      }
+      
+      .customSortUpLabel {
+        float: left;
+        margin: 0;
+      }
+      
+      .customSortRemoveLabel {
+        float: left;
+        margin: 0 0 0 3px;
+      }
+      
+      .active {
+        color: cornflowerblue;
+      }      
+}

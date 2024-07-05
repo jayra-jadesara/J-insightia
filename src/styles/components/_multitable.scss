@@ -1,0 +1,49 @@
+.cr-multitable {
+  color: $primary;
+
+  & .nav-tabs {
+    border-bottom: 1px solid $primary;
+  }
+
+  & .nav-link {
+    margin-right: 20px;
+    border: 1px solid $primary;
+    padding: 4px 12px;
+    font-weight: 400;
+    border-radius: 0;
+    cursor: pointer;
+
+    &.active {
+      border-color: $primary $primary #fff;
+      color: $primary;
+      &:hover {
+        border-color: $primary $primary #fff;
+      }
+    }
+    &:focus,
+    &:hover {
+      border-color: $primary;
+    }
+  }
+
+  & .tab-content {
+    border-right: 1px solid $primary;
+    border-left: 1px solid $primary;
+    border-bottom: 1px solid $primary;
+  }
+
+  & .chartTitle {
+    color: $primary;
+    font-weight: 800;
+    display: block;
+    width: 80%;
+  }
+
+  & .cr-chart{
+    height: 220px;
+  }
+
+  & .chart {
+    height: 250px;
+  }
+}

@@ -1,0 +1,80 @@
+.cr-votingOverview {
+  & .chart {
+    & .card-body {
+      margin: 41px 0;
+    }
+    & .divShowHideTable button.btn-primary {
+      position: absolute !important;
+      right: 125px;
+      top: 14.5px;
+      margin-bottom: 0 !important;
+      font-size: $main-nav-items;
+      color: #ffff;
+      border: none;
+      text-decoration: none;
+      background-color: $primary !important;
+      padding: 10px;
+      transform: none;
+      width: auto;
+    }
+
+    & .divFilterTable,
+    .divShowHideTable {
+      margin-bottom: 0 !important;
+    }
+  }
+
+  .votingDualClassBtn {
+    position: absolute;
+    top: 14px;
+    right: 315px;
+    color: #ffff;
+    border: none;
+    text-decoration: none;
+    background-color: $primary !important;
+    padding: 4px 8px;
+    transform: none;
+  }
+
+  & .divFilterTable,
+  .divShowHideTable {
+    margin-bottom: 0 !important;
+  }
+
+  .cr-agGrid {
+    .ag-header-cell {
+      padding-left: 4px;
+      padding-right: 4px;
+      text-align: center;
+    }
+    .ag-header-cell-text {
+      font-size: 14px !important;
+    }
+  }
+}
+
+.votingDualClassBtn {
+  position: absolute;
+  top: 14px;
+  right: 315px;
+  font-size: 0.9rem;
+  color: #ffff;
+  border: none;
+  text-decoration: none;
+  background-color: $primary !important;
+  padding: 4px 15px;
+  &:hover {
+    transform: none;
+    color: #ffff !important;
+  }
+}
+
+.tblCompanyVotingquickview {
+  .btn-primary {
+    right: 125px;
+    top: 15px;
+  }
+  .divShowHideTable {
+    margin-bottom: 0px !important;
+  }
+}

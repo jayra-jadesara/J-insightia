@@ -1,0 +1,23 @@
+.cr-chart {
+  & svg {
+    width: 100%;
+    height: 100%;
+    display: block;
+    overflow: visible;
+
+    & rect.selection {
+      stroke: none;
+    }
+    
+    & .gridline {
+      opacity: 0.1;
+    }
+
+    & .y-axis .domain {
+      color: white;
+    }
+    & .y-axis .tick line {
+      color: white;
+    }
+  }
+}

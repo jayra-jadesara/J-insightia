@@ -1,0 +1,128 @@
+[
+  {
+    "task": "Chairman",
+    "type": "Apple Inc",
+    "startTime": "2013",
+    "endTime": "2014",
+    "details": "This actually didnt take any conceptualization"
+  },
+  {
+    "task": "director",
+    "type": "Apple Inc",
+    "startTime": "2015", 
+    "endTime": "2025",
+    "details": "This actually didnt take any conceptualization"
+  },
+  {
+    "task": "Executive",
+    "type": "Applegreen PLC",
+    "startTime": "2013",
+    "endTime": "2015",
+    "details": "This actually didnt take any conceptualization"
+  },
+  {
+    "task": "director",
+    "type": "Applegreen PLC",
+    "startTime": "2016", 
+    "endTime": "2017",
+    "details": "This actually didnt take any conceptualization"
+  },
+  {
+    "task": "CEO",
+    "type": "Apyx Medical Corporation",
+    "startTime": "2012", 
+    "endTime": "2014",
+    "details": "This actually didnt take any conceptualization"
+  },
+  {
+    "task": "director",
+    "type": "ACADIA Pharmaceuticals Inc.",
+    "startTime": "2010", 
+    "endTime": "2026",
+    "details": "This actually didnt take any conceptualization"
+  },
+  {
+    "task": "CEO",
+    "type": "ACADIA Pharmaceuticals Inc.Pharmaceuticals Inc.",
+    "startTime": "2011", 
+    "endTime": "2013",
+    "details": "This actually didnt take any conceptualization"
+  },
+  {
+    "task": "CEO",
+    "type": "ACADIA.",
+    "startTime": "2011", 
+    "endTime": "2013",
+    "details": "This actually didnt take any conceptualization"
+  },
+  {
+    "task": "CEO",
+    "type": "ACADIA2",
+    "startTime": "2012", 
+    "endTime": "2013",
+    "details": "This actually didnt take any conceptualization"
+  },
+  {
+    "task": "CEO",
+    "type": "ACADIA3",
+    "startTime": "2012", 
+    "endTime": "2013",
+    "details": "This actually didnt take any conceptualization"
+  },
+  {
+    "task": "CEO",
+    "type": "ACADIA4",
+    "startTime": "2012", 
+    "endTime": "2013",
+    "details": "This actually didnt take any conceptualization"
+  },
+  {
+    "task": "CEO",
+    "type": "ACADIA5",
+    "startTime": "2012", 
+    "endTime": "2013",
+    "details": "This actually didnt take any conceptualization"
+  },
+  {
+    "task": "CEO",
+    "type": "ACADIA6",
+    "startTime": "2012", 
+    "endTime": "2013",
+    "details": "This actually didnt take any conceptualization"
+  },
+  {
+    "task": "CEO",
+    "type": "ACADIA 6",
+    "startTime": "2012", 
+    "endTime": "2013",
+    "details": "This actually didnt take any conceptualization"
+  },
+  {
+    "task": "CEO",
+    "type": "ACADIA 7",
+    "startTime": "2012", 
+    "endTime": "2013",
+    "details": "This actually didnt take any conceptualization"
+  },
+  {
+    "task": "Director",
+    "type": "Tesla",
+    "startTime": "2011", 
+    "endTime": "2023",
+    "details": "This actually didnt take any conceptualization"
+  },
+  {
+    "task": "CEO",
+    "type": "Tesla",
+    "startTime": "2014", 
+    "endTime": "2016",
+    "details": "This actually didnt take any conceptualization"
+  },
+  {
+    "task": "CEO",
+    "type": "Tesla 2",
+    "startTime": "2015", 
+    "endTime": "2022",
+    "details": "This actually didnt take any conceptualization"
+  }
+]

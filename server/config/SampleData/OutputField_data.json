@@ -1,0 +1,7 @@
+[
+  { "label": "Fund Voting", "value": "1" },
+  { "label": "Fund Voting(with Rationale)", "value": "2" },
+  { "label": "Investor Voting", "value": "3" },
+  { "label": "Internal", "value": "4" },
+  { "label": "Company Results", "value": "5" }
+]

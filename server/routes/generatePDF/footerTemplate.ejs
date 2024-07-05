@@ -1,0 +1,41 @@
+<html>
+  <head>
+    <style>
+      .fontFooter {
+        font-size: 10px;
+        margin-left: 20px;
+        color: #ced4da;
+      }
+      .d-block {
+        display: block;
+      }
+      .pagination {
+        float: left;
+        position: relative;
+      }
+      .dateTimeFormat {
+        border-left: 1px solid #ced4da;
+        padding-left: 20px;
+        position: relative;
+        float: right;
+      }
+      .userEport {
+        /* border-left: 1px solid #ced4da; */
+        padding-left: 5px;
+        font-family: "Roboto, 'Helvetica Neue', Arial, sans-serif";
+        float: left;
+        position: relative;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="d-block">
+      <!-- <p class="fontFooter pagination">
+        Page <span class="pageNumber"></span> of
+        <span class="totalPages"></span>
+      </p> -->
+      <!-- <p class="fontFooter dateTimeFormat"><%=tableFooter.dateTimeFormat %></p> -->
+      <p class="fontFooter userEport">Exported by: <%=tableFooter.UserName %></p>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,6 @@
+[
+  { "label": "For", "value": "1" },
+  { "label": "Against", "value": "2" },
+  { "label": "Withhold", "value": "3" },
+  { "label": "Abstain", "value": "4" }
+]

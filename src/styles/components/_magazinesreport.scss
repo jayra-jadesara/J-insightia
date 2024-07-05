@@ -1,0 +1,211 @@
+.cr-magazinesreport {
+  margin: 4px 0px;
+  .magazineMain {
+    position: relative;
+    margin: 5px 0px;
+    border-radius: $standard-border-radius;
+    & p {
+      margin-bottom: 0;
+    }
+
+    & img {
+      object-fit: contain;
+      max-height: 90%;
+      //added
+      height: 130px;
+      max-width: 100%;
+      width: 100%;
+      background-color: white;
+      padding: 0 !important;
+      border-radius: $standard-border-radius !important;
+      width: 1000vh;
+    }
+    & .readOnly {
+      opacity: 0.3;
+    }
+    & .titleAlignment {
+      display: flex !important;
+      align-items: baseline;
+      justify-content: space-between;
+    }
+    & .MagazinesParagraph {
+      word-wrap: break-word;
+      white-space: pre-wrap;
+      line-height: 1.4;
+      font-size: 15px !important;
+      color: $primary;
+    }
+    & .titleMagazine {
+      white-space: break-spaces;
+      text-overflow: ellipsis;
+      overflow: hidden;
+      display: block;
+      color: $secondary;
+      font-weight: bold !important;
+    }
+    & .buttonDiv {
+      height: fit-content;
+      display: grid !important;
+      & button.bg-disable:focus:not(:focus-visible) {
+        box-shadow: none;
+        outline: 0 none;
+      }
+      & button.bg-disable:active {
+        background-image: linear-gradient(
+          180deg,
+          rgba(255, 255, 255, 0.15),
+          rgba(255, 255, 255, 0)
+        );
+      }
+      & button.bg-disable:hover {
+        cursor: default !important;
+      }
+    }
+    & .buttonDiv.disableCursor:hover {
+      cursor: default !important  ;
+    }
+  }
+  @include md {
+    .magazineMain {
+      Img {
+        height: 75px;
+        width: 100vh !important;
+      }
+      & .buttonDiv {
+        line-height: 1.9rem;
+        padding: 0px !important;
+        // width: 50%;
+      }
+      & .titleMagazine {
+        width: 180px;
+      }
+      .btn {
+        font-size: 12px;
+        width: 80px;
+        margin: 0px !important;
+      }
+    }
+  }
+  @include sm {
+    .magazineMain {
+      border: 1px solid #193d75;
+      box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
+      .btn {
+        font-size: 10px;
+        width: 68px;
+        margin: 0px !important;
+      }
+      & .MagazinesParagraph,
+      .moreInfoSection {
+        font-size: 13px !important;
+      }
+      Img {
+        height: 60px;
+        width: 100vh !important;
+      }
+      & .titleMagazine {
+        width: 135px;
+      }
+      & .titleBlock {
+        padding: 5px;
+        font-size: 15px;
+      }
+      & .buttonDiv {
+        line-height: 1.5rem;
+        padding: 0px !important;
+      }
+    }
+  }
+
+  & .expandBlock {
+    background: #f5f5f5;
+    & img {
+      height: 100px;
+      max-width: 100%;
+      margin: auto;
+      object-fit: contain;
+      padding: 5px;
+    }
+
+    & .cardInformation {
+      box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px,
+        rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+      & .card-header {
+        background: $background-Title;
+        // border: 1px solid $primary;
+        font-weight: 500;
+      }
+
+      & .moreInfoInputGrp {
+        text-align: end;
+      }
+
+      & ul {
+        // border-right: 1px solid $primary;
+        // border-left: 1px solid $primary;
+        // border-bottom: 1px solid $primary;
+
+        & li {
+          color: $primary;
+        }
+      }
+    }
+
+    & .cardTimeLines {
+      box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px,
+        rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+      & .card-header {
+        background: $background-Title;
+        // border: 1px solid $primary;
+        font-weight: 500;
+      }
+
+      & ul {
+        // border-right: 1px solid $primary;
+        // border-left: 1px solid $primary;
+        // border-bottom: 1px solid $primary;
+
+        & .list-group-item {
+          border: 0;
+        }
+      }
+    }
+  }
+
+  & .row > [class^='col-'] {
+    margin-bottom: 0;
+  }
+}
+
+// .dropdown-trigger .search {
+//   width: 320px;
+// }
+// .labelNewsCompanyFilter {
+//   margin: auto;
+//   padding: 10px;
+// }
+
+// .ag-row.ag-row-group-expanded {
+//   background: #f5f5f5 !important;
+// }
+
+// @include sm {
+//   .labelNewsCompanyFilter {
+//     padding: 0 15px;
+//   }
+//   .dropdown-trigger .search {
+//     width: 270px;
+//   }
+//   .closePDFBtn {
+//     font-size: 9px;
+//   }
+//   .rpv-toolbar {
+//     display: inline-table !important;
+//   }
+// }
+// @include lg {
+//   .dropdown-trigger .search {
+//     width: auto;
+//   }
+// }

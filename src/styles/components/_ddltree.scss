@@ -1,0 +1,131 @@
+.cr-ddltree {
+  & .dropdown {
+    width: 100%;
+    display: inline-block !important;
+
+    & .dropdown-trigger {
+      border: 1px solid #ced4da;
+      border-radius: $standard-border-radius;
+      width: 100%;
+      padding: 1px 2px;
+      outline: none;
+
+      & input[placeholder],
+      *[placeholder],
+      input::-webkit-input-placeholder {
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+        padding-right: 10px;
+      }
+
+      & .tag-item {
+        border-radius: $standard-border-radius;
+        color: #007eff;
+        display: inline-block;
+        line-height: 1.4;
+        width: auto;
+
+        & ::placeholder {
+          color: #aaa;
+        }
+
+        & .tag {
+          border: 1px solid rgba(0, 126, 255, 0.24);
+          background-color: rgba(0, 126, 255, 0.08);
+          color: #007eff;
+          padding-left: 6px;
+
+          & .tag-remove {
+            padding: 7px 5px 6px 5px;
+            color: #007eff;
+            cursor: pointer;
+            border-left: 1px solid rgba(0, 126, 255, 0.24);
+            margin: -4px 0px -5px 5px;
+
+            &:hover {
+              background-color: rgba(0, 113, 230, 0.08);
+            }
+          }
+        }
+        & .search {
+          border: 0 !important;
+          // width: 390px;
+        }
+      }
+
+      &.arrow.bottom:after {
+        content: '' !important;
+        color: #cccccc !important;
+        margin: 8px 8px 8px 6px !important;
+        display: inherit;
+        background-image: url('data:image/svg+xml;utf8,<svg width="" height="" viewBox="0 0 16 16" class="bi bi-app" fill="gray" xmlns="http://www.w3.org/2000/svg"><path d="M7.247 11.14L2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z"/></svg>');
+        height: 20px;
+        width: 28px;
+        right: -6px !important;
+        background-repeat: no-repeat;
+        position: absolute;
+        opacity: 0.9;
+        background-size: 11px 24px;
+        background-position: center;
+        top: 0;
+      }
+
+      &.arrow.top:after {
+        content: '' !important;
+        color: #cccccc !important;
+        margin: 8px 8px 8px 6px !important;
+        display: inherit;
+        background-image: url('data:image/svg+xml;utf8,<svg width="" height="" viewBox="0 0 16 16" class="bi bi-app" fill="currentColor" xmlns="http://www.w3.org/2000/svg"> <path d="M7.247 4.86l-4.796 5.481c-.566.647-.106 1.659.753 1.659h9.592a1 1 0 0 0 .753-1.659l-4.796-5.48a1 1 0 0 0-1.506 0z"/></svg>');
+        height: 20px;
+        width: 28px;
+        right: -6px !important;
+        background-repeat: no-repeat;
+        position: absolute;
+        opacity: 0.5;
+        background-size: 11px 24px;
+        background-position: center;
+        top: 0;
+      }
+
+      & .react-dropdown-tree-select {
+        width: 100%;
+      }
+    }
+
+    & .dropdown-content {
+      overflow: auto;
+      width: 100%;
+      background-color: hsl(0, 0%, 100%);
+      border-color: hsl(0, 0%, 80%);
+      border-radius: $standard-border-radius;
+      border-style: solid;
+      border-width: 1px;
+      cursor: default;
+      box-sizing: border-box;
+      max-height: 20em;
+      &:hover {
+        border-color: hsl(0, 0%, 70%);
+      }
+
+      & .node {
+        display: flex;
+        & label {
+          padding-left: 17px;
+          text-indent: -17px;
+          & span.node-label {
+            white-space: break-spaces;
+          }
+        }
+      }
+    }
+  }
+}
+
+.react-dropdown-tree-select .dropdown .dropdown-trigger {
+  padding: 0 !important;
+}
+
+.afterSelection .dropdown .dropdown-trigger .tag-item .search {
+  width: 90% !important;
+}

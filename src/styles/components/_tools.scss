@@ -1,0 +1,105 @@
+.cr-tools {
+  & .m-0-auto {
+    margin: 0 auto;
+  }
+  & .ms-03rem {
+    margin-left: 0.3rem;
+  }
+  & .title-tool {
+    margin-left: 1.3rem;
+    color: $primary;
+  }
+  & .text-danger {
+    color: red !important;
+  }
+
+  & .hr-line {
+    margin: 0.3rem 0rem 1rem 0.2rem;
+    color: $darkgreytext;
+  }
+  & .card {
+        // scales tools section items 
+        -webkit-transform:scale(0.90);
+        -moz-transform:scale(0.90);
+        -ms-transform:scale(0.90);
+        transform:scale(0.90);
+        -ms-transform-origin:0 0;
+        -webkit-transform-origin:0 0;
+        -moz-transform-origin:0 0;
+        transform-origin:0 0;
+    // uncomment for larger cards
+    // width: 24rem;
+    // height: 20rem;
+    // uncomment for small cards
+    width: 15rem;
+    background-color: $toolscard;
+    border-radius: 5px;
+    border: none;
+    margin: 15px 15px 30px 15px;
+    box-shadow: 0 1px 5px rgba(0,0,0,.4);
+    & .card-header {
+      cursor: default;
+      text-transform: none;
+      background-color: transparent;
+      border: none !important;
+      height: 50px;
+      font-weight: 300;
+      color: #ffff !important;
+      padding: 20px 10px 10px 10px;
+      font-size: $tools-header;
+    }
+    & .card-body {
+      padding: 10px 5px;
+      justify-content: center;
+      min-height: 200px;
+      margin-bottom: -5px;
+
+      & p {
+        margin-top: 20px;
+      }
+
+      & .card-text {
+        color: #183f74;
+        margin: 1px 5px;
+      }
+    }
+
+    & .card-button {
+      background: $primary;
+      padding: 5px;
+      font-size: $standard;
+      font-weight: 300;
+      border-radius: 5px;
+      color: #ffff;
+      margin: 0px 0px 20px 8px;
+      width: 100px;
+      font-weight: 300;
+      height: 2rem;
+      box-shadow: 0 1px 2px rgba(0,0,0,.4);
+    }
+    & p {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.btn {
+  & .divShowHideTable{
+  background-color: $primary !important;
+  }
+}
+
+.tblShortCampData.divShowHideTable button {	
+  position: absolute;
+  right: 130px; 
+  top: 18px;
+  }
+
+.lblInfo {
+  margin: 14px 14px;
+  color: $primary;
+  }
+
+.display-linebreak {
+    white-space: pre-line;    
+  }

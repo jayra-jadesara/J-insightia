@@ -1,0 +1,84 @@
+<html>
+  <head>
+    <style>
+      img {
+        height: 30px !important;
+        border-right: 1px solid #ced4da;
+        padding-right: 20px;
+        margin-top: 5px;
+      }
+      .pagetitle {
+        margin: 0px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        width: 100%;
+        text-align: left;
+        overflow-wrap: break-word;
+        color: #00a9d9;
+        font-weight: 300;
+        font-size: 15px;
+        /* white-space: nowrap; */
+        margin-top: 3px;
+        margin-left: 8px;
+      }
+      body {
+        margin: 0;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      .header {
+        overflow: hidden;
+        padding: 0px 10px;
+        width: 100%;
+      }
+      .header .logo {
+        float: left;
+        color: black;
+        text-align: center;
+        padding: 0 12px;
+        text-decoration: none;
+        /* font-size: 18px; */
+        line-height: 25px;
+        border-radius: 4px;
+      }
+      .header .logo {
+        /* font-size: 25px; */
+        font-weight: bold;
+      }
+      .header-right {
+        max-width: 300px;
+        line-height: 16px;
+        margin-left: 20px;
+        text-align: left;
+        display: flex;
+        align-items: center;
+      }
+      .header-left {
+        border-right: 1px solid #ced4da;
+        max-width: 300px;
+        vertical-align: middle;
+        text-align: left;
+        height: 30px !important;
+        display: flex;
+        align-items: center;
+        line-height: 16px;
+      }
+      .hrLine {
+        border: 1px solid #ced4da;
+        border-bottom: none;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="header">
+      <div class="logo"><img src="<%= tableHeader.logoBase64 %>" /></div>
+      <div style="display: flex; align-items: center">
+        <p class="header-left pagetitle"><%= tableHeader.pdfTitle %></p>
+        <p class="header-right pagetitle"><%= tableHeader.pdfPageName %></p>
+      </div>
+    </div>
+    <div class="hrLine"></div>
+  </body>
+</html>

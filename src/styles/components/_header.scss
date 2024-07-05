@@ -1,0 +1,246 @@
+.cr-header {
+  margin-bottom: $spacer * 0.5;
+  // border-bottom: $border-width solid $border-color;
+  padding: 0.2rem 1rem;
+  margin-bottom: 0;
+  background-color: transparent;
+
+  & .btn-outline-secondary:focus {
+    box-shadow: none;
+  }
+
+  &__nav-right {
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-left: auto;
+  }
+
+  &__badge {
+    background-color: red;
+    color: #fff;
+    bottom: -3px;
+    right: -10px;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border: 2px solid rgb(255, 255, 255);
+    top: -5px;
+    left: 14px;
+    justify-content: center;
+    align-items: center;
+    // animation: blink-animation 1s steps(5, start) infinite;
+    // -webkit-animation: blink-animation 1s steps(5, start) infinite;
+    p {
+      margin-top: 0.8px;
+      font-size: 0.69em;
+      color: white;
+      font-weight: bold;
+      margin-left: 5px;
+    }
+  }
+  @keyframes blink-animation {
+    to {
+      visibility: hidden;
+    }
+  }
+  @-webkit-keyframes blink-animation {
+    to {
+      visibility: hidden;
+    }
+  }
+
+  &__trial-lable {
+    color: black !important;
+  }
+  & .pdfMenuListHeight {
+    height: 50vh;
+    width: 100%;
+    overflow-y: scroll;
+  }
+  & .invHistoricTrendsPDFMenuListHeight {
+    height: 10vh;
+    width: 100%;
+    overflow-y: scroll;
+  }
+  & .text-transform-none {
+    text-transform: none !important;
+  }
+}
+
+ol,
+ul {
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
+.dropdown-menu {
+  left: -215px;
+  padding: 0px;
+  margin-top: 8px;
+  top: 85%;
+
+  &::after {
+    border-bottom: 9px solid rgba(0, 0, 0, 0.2);
+    border-left: 9px solid rgba(0, 0, 0, 0);
+    border-right: 9px solid rgba(0, 0, 0, 0);
+    content: '';
+    display: inline-block;
+    left: 80%;
+    position: absolute;
+    top: -8px;
+  }
+
+  &::before {
+    border-bottom: 8px solid $primary;
+    border-left: 9px solid rgba(0, 0, 0, 0);
+    border-right: 9px solid rgba(0, 0, 0, 0);
+    content: '';
+    display: inline-block;
+    left: 80%;
+    position: absolute;
+    top: -7px;
+  }
+}
+
+.alertdrop.dropdown-menu {
+  left: -230px;
+  padding: 0px;
+  margin-top: 8px;
+  top: 85%;
+  border: 0px;
+  &::after {
+    border-bottom: 9px solid rgba(0, 0, 0, 0.2);
+    border-left: 9px solid rgba(0, 0, 0, 0);
+    border-right: 9px solid rgba(0, 0, 0, 0);
+    content: '';
+    display: inline-block;
+    left: 80%;
+    position: absolute;
+    top: -8px;
+  }
+
+  &::before {
+    border-bottom: 8px solid $primary;
+    border-left: 9px solid rgba(0, 0, 0, 0);
+    border-right: 9px solid rgba(0, 0, 0, 0);
+    content: '';
+    display: inline-block;
+    left: 80%;
+    position: absolute;
+    top: -7px;
+  }
+}
+
+.cr-header .card {
+  border-radius: 20px 20px 0 0;
+  width: 280px;
+  padding: 0;
+
+  &-header {
+    background-color: $primary;
+    color: #fff;
+    text-transform: lowercase;
+    padding: 15px;
+    text-align: center;
+  }
+
+  &-body {
+    padding: 0;
+  }
+
+  &btn-link {
+    cursor: pointer;
+  }
+
+  & span {
+    color: $primary;
+  }
+
+  & .moduleList:hover {
+    font-weight: bold;
+    cursor: pointer;
+  }
+
+  & .feedbackHeader-card img {
+    width: 20px;
+  }
+
+  & td {
+    border-right: 10px solid transparent;
+    vertical-align: top;
+    color: $primary;
+  }
+
+  & ul {
+    list-style-type: none;
+  }
+
+  & .list-group-item-support {
+    border-left: none;
+    border-right: none;
+  }
+
+  & .help_allign {
+    border-right: 19px solid transparent;
+  }
+
+  & .email_allign {
+    border-right: 15px solid transparent;
+  }
+}
+
+.cr-header .list-group-innertitle,
+.innerlist-group {
+  padding: 5px 5px;
+  cursor: default;
+
+  & ul {
+    list-style-type: none;
+    padding: 0 10px;
+  }
+
+  & ul li:before {
+    background-color: red;
+    border-radius: 50%;
+    content: '';
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: -2px;
+    height: 10px;
+    width: 10px;
+  }
+
+  & .innerlist-group-item.listitem-insightia-monthly {
+    border-top: 1px solid #dfdfdf;
+  }
+}
+
+.cr-header .list-group-innertitle li.active:before {
+  background-color: green;
+}
+
+.btn-link {
+  text-decoration: none;
+}
+
+.topSearchBar {
+  border: none;
+  padding: 5;
+  margin: 5;
+  border-bottom: 1px solid $primary;
+  border-radius: 0;
+  background-color: transparent;
+  width: 150px;
+  height: 20px;
+  font-size: $standard;
+}
+.topSearchIcon {
+  position: absolute;
+  right: 10px;
+  bottom: 4px !important;
+  cursor: pointer;
+}
+
+.cr-search-form__input:focus::placeholder {
+  color: transparent;
+}

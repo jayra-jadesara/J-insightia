@@ -1,0 +1,30 @@
+.cr-activismOverview {
+  & .chart {
+    margin-top: 10px;
+    height: 300px;
+    & .card-body {
+      margin-bottom: 40px;
+    }
+  }
+  & .chartArea {
+    margin-top: 10px;
+  }
+  .cr-myCard {
+    .cr-agGrid {
+      .ag-header-cell {
+        padding-left: 2px;
+        padding-right: 2px;
+        text-align: center;
+      }
+      .ag-header-group-cell {
+        .ag-header-group-text {
+          font-size: 12px !important;
+        }
+      }
+      .ag-header-cell-text {
+        font-size: 12px !important;
+        // word-break: break-all;
+      }
+    }
+  }
+}

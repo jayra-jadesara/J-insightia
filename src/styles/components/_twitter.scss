@@ -1,0 +1,18 @@
+.cr-twitter {
+  &::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    // background-color: #ffffff;
+  }
+
+  &::-webkit-scrollbar {
+    width: 10px;
+    background-color: #ffffff;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: $primary;
+    border: 2px solid #ffffff;
+  }
+  .twitter-timeline {
+  }
+}

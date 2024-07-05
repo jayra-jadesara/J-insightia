@@ -1,0 +1,9 @@
+export const USE_CALENDAR_YEAR_DATA = 0;
+export const USE_YEAR_TO_DATE_DATA = 1;
+export const USE_PROXY_SEASON_DATA = 2;
+
+export default {
+  USE_CALENDAR_YEAR_DATA,
+  USE_YEAR_TO_DATE_DATA,
+  USE_PROXY_SEASON_DATA,
+};
